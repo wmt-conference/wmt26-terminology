@@ -1,0 +1,4518 @@
+{
+  "proper": {
+    "abrazadera": [
+      "besarkagailu"
+    ],
+    "abrillantado": [
+      "distirarazte",
+      "distira emate"
+    ],
+    "accesorio": [
+      "osagarri"
+    ],
+    "aceite de motor": [
+      "motor-olio"
+    ],
+    "acelerador": [
+      "azeleragailu"
+    ],
+    "acelerómetro": [
+      "azelerometro"
+    ],
+    "acondicionador automático de aire": [
+      "klimatizagailu automatiko"
+    ],
+    "climatizador automático de aire": [
+      "klimatizagailu automatiko"
+    ],
+    "climatizador automático": [
+      "klimatizagailu automatiko"
+    ],
+    "acondicionador manual de aire": [
+      "eskuzko klimatizagailu"
+    ],
+    "climatizador manual de aire": [
+      "eskuzko klimatizagailu"
+    ],
+    "climatizador manual": [
+      "eskuzko klimatizagailu"
+    ],
+    "acumulador de plomo": [
+      "berun-metagailu"
+    ],
+    "aerodinámico": [
+      "aerodinamiko"
+    ],
+    "agarrador de sujeción": [
+      "eusteko helduleku"
+    ],
+    "aguja": [
+      "orratz"
+    ],
+    "aguja de carburador": [
+      "karburagailuaren orratz",
+      "erregaiaren orratz"
+    ],
+    "aguja de combustible": [
+      "karburagailuaren orratz",
+      "erregaiaren orratz"
+    ],
+    "airbag": [
+      "airbag"
+    ],
+    "colchón de aire": [
+      "airbag"
+    ],
+    "peto de seguridad": [
+      "airbag"
+    ],
+    "aire acondicionado": [
+      "aire girotu"
+    ],
+    "sistema de aire acondicionado": [
+      "aire girotu"
+    ],
+    "ajuste de frenos": [
+      "balazta doitze",
+      "frenoa doitze"
+    ],
+    "ajuste del ralentí": [
+      "ralentia doitze"
+    ],
+    "regulación del ralentí": [
+      "ralentia doitze"
+    ],
+    "alarma": [
+      "alarma"
+    ],
+    "alerón": [
+      "aleroi"
+    ],
+    "aleta de refrigeración": [
+      "hozte-hegal"
+    ],
+    "aleta delantera derecha": [
+      "aurreko eskuin-hegal"
+    ],
+    "aleta trasera izquierda": [
+      "atzeko ezker-hegal"
+    ],
+    "alfombrilla": [
+      "alfonbra"
+    ],
+    "esterilla": [
+      "alfonbra"
+    ],
+    "alineación de la dirección": [
+      "direkzioa lerrokatze"
+    ],
+    "alineado de ruedas": [
+      "gurpilak lerrokatze"
+    ],
+    "alineador electrónico de dirección": [
+      "gurpil-lerrokagailu"
+    ],
+    "alineador de ruedas": [
+      "gurpil-lerrokagailu"
+    ],
+    "alternador": [
+      "alternadore",
+      "korronte alternoko sorgailu"
+    ],
+    "generador de corriente alterna": [
+      "alternadore",
+      "korronte alternoko sorgailu"
+    ],
+    "alumbrado": [
+      "argi"
+    ],
+    "alumbrado de placa de matrícula": [
+      "matrikula-plakaren argi"
+    ],
+    "luz de placa de matrícula": [
+      "matrikula-plakaren argi"
+    ],
+    "amortiguador": [
+      "motelgailu"
+    ],
+    "amortiguador de dirección": [
+      "direkzio-motelgailu"
+    ],
+    "amortiguador de pulsaciones": [
+      "pultsazio-motelgailu"
+    ],
+    "amortiguador de vibración del cigüeñal": [
+      "birabarkiaren bibrazio-motelgailu",
+      "bibrazio-motelgailu",
+      "damper"
+    ],
+    "amortiguador de vibraciones": [
+      "birabarkiaren bibrazio-motelgailu",
+      "bibrazio-motelgailu",
+      "damper"
+    ],
+    "damper": [
+      "birabarkiaren bibrazio-motelgailu",
+      "bibrazio-motelgailu",
+      "damper"
+    ],
+    "amortiguador hidráulico": [
+      "motelgailu hidrauliko"
+    ],
+    "amortiguador telescópico": [
+      "motelgailu teleskopiko"
+    ],
+    "amperímetro": [
+      "amperemetro"
+    ],
+    "amperímetro-voltímetro": [
+      "amperemetro-voltmetro"
+    ],
+    "analizador de gases": [
+      "gas-analizagailu"
+    ],
+    "analizador de motores": [
+      "motor-analizagailu"
+    ],
+    "anilla": [
+      "uztai"
+    ],
+    "anillo": [
+      "eraztun"
+    ],
+    "aro": [
+      "eraztun"
+    ],
+    "antecámara": [
+      "aurreganbera",
+      "aurreerrekuntza-ganbera"
+    ],
+    "cámara de precombustión": [
+      "aurreganbera",
+      "aurreerrekuntza-ganbera"
+    ],
+    "antena": [
+      "antena"
+    ],
+    "antirretorno": [
+      "atzeraezeko balbula",
+      "atzera ezineko balbula"
+    ],
+    "válvula antirretorno": [
+      "atzeraezeko balbula",
+      "atzera ezineko balbula"
+    ],
+    "antirrobo": [
+      "lapurreten aurkako gailu"
+    ],
+    "dispositivo antirrobo": [
+      "lapurreten aurkako gailu"
+    ],
+    "aparejo": [
+      "prestagai"
+    ],
+    "apoyabrazos": [
+      "beso-euskarri"
+    ],
+    "apoyacabezas": [
+      "buru-euskarri"
+    ],
+    "reposacabezas": [
+      "buru-euskarri"
+    ],
+    "arandela": [
+      "zirrindola"
+    ],
+    "árbol conducido": [
+      "ardatz eragin"
+    ],
+    "árbol mandado": [
+      "ardatz eragin"
+    ],
+    "árbol receptor": [
+      "ardatz eragin"
+    ],
+    "árbol de levas": [
+      "espeka-ardatz"
+    ],
+    "eje de distribución": [
+      "espeka-ardatz"
+    ],
+    "árbol de transmisión": [
+      "ardatz eragile"
+    ],
+    "árbol intermediario": [
+      "bitarteko zuhaitz"
+    ],
+    "árbol motor": [
+      "zuhaitz motor"
+    ],
+    "árbol primario": [
+      "zuhaitz primario"
+    ],
+    "árbol secundario": [
+      "zuhaitz sekundario"
+    ],
+    "asiento": [
+      "eserleku"
+    ],
+    "asiento reclinable": [
+      "eserleku etzangarri"
+    ],
+    "asiento térmico": [
+      "eserleku termiko"
+    ],
+    "auto": [
+      "auto",
+      "automobil"
+    ],
+    "automóvil": [
+      "auto",
+      "automobil"
+    ],
+    "coche": [
+      "auto",
+      "automobil"
+    ],
+    "autobús": [
+      "autobus",
+      "bus"
+    ],
+    "bus": [
+      "autobus",
+      "bus"
+    ],
+    "autocar": [
+      "autokar"
+    ],
+    "autoeconomizador": [
+      "autoekonomizagailu"
+    ],
+    "automoción": [
+      "automozio",
+      "automobilgintza"
+    ],
+    "industria de automoción": [
+      "automozio",
+      "automobilgintza"
+    ],
+    "baca": [
+      "parrilla"
+    ],
+    "bajos del coche": [
+      "auto-barren"
+    ],
+    "balancín": [
+      "balantzin"
+    ],
+    "ballesta parabólica": [
+      "balezta paraboliko"
+    ],
+    "ballesta semielíptica": [
+      "balezta erdieliptiko"
+    ],
+    "ballesta": [
+      "balezta"
+    ],
+    "muelle de ballesta": [
+      "balezta"
+    ],
+    "bancada": [
+      "bankada"
+    ],
+    "bancada de estiraje": [
+      "bankada"
+    ],
+    "banco de ensayo de potencia": [
+      "potentzia-banku"
+    ],
+    "banco de potencia": [
+      "potentzia-banku"
+    ],
+    "banco de frenos": [
+      "freno-banku",
+      "frenometro"
+    ],
+    "frenómetro": [
+      "freno-banku",
+      "frenometro"
+    ],
+    "banco de pruebas de suspensión": [
+      "esekidura-banku"
+    ],
+    "banco de suspensión": [
+      "esekidura-banku"
+    ],
+    "banda de rodadura": [
+      "errodatze-banda"
+    ],
+    "bandeja": [
+      "erretilu"
+    ],
+    "barra antivuelco": [
+      "iraulietarako barra"
+    ],
+    "barra de acoplamiento de la mangueta": [
+      "mahukaren akoplamendu-barra"
+    ],
+    "barra de dirección": [
+      "direkzio-barra"
+    ],
+    "barra de torsión": [
+      "tortsio-barra"
+    ],
+    "barra estabilizadora": [
+      "egonkortze-barra"
+    ],
+    "bastidor auxiliar": [
+      "sasibastidore"
+    ],
+    "falso bastidor": [
+      "sasibastidore"
+    ],
+    "batería": [
+      "bateria",
+      "bateria elektriko"
+    ],
+    "batería de acumuladores": [
+      "bateria",
+      "bateria elektriko"
+    ],
+    "batería eléctrica": [
+      "bateria",
+      "bateria elektriko"
+    ],
+    "bendix": [
+      "bendix",
+      "inertzia-gailu"
+    ],
+    "dispositivo de inercia": [
+      "bendix",
+      "inertzia-gailu"
+    ],
+    "berlina": [
+      "berlina"
+    ],
+    "biela": [
+      "biela"
+    ],
+    "biela de dirección": [
+      "direkzio-biela"
+    ],
+    "biela maestra": [
+      "biela nagusi"
+    ],
+    "bieleta": [
+      "bielatxo"
+    ],
+    "bisagra": [
+      "banda"
+    ],
+    "bloque de cilindros": [
+      "motor-bloke"
+    ],
+    "bloque de motor": [
+      "motor-bloke"
+    ],
+    "bloque motor": [
+      "motor-bloke"
+    ],
+    "bloqueo electrónico del diferencial": [
+      "trakzio-kontrol elektroniko",
+      "EDS",
+      "diferentzialaren blokeo elektroniko"
+    ],
+    "control electrónico de la tracción": [
+      "trakzio-kontrol elektroniko",
+      "EDS",
+      "diferentzialaren blokeo elektroniko"
+    ],
+    "EDS": [
+      "trakzio-kontrol elektroniko",
+      "EDS",
+      "diferentzialaren blokeo elektroniko"
+    ],
+    "bobina": [
+      "bobina"
+    ],
+    "bobina de encendido": [
+      "pizte-bobina"
+    ],
+    "bocina": [
+      "klaxon"
+    ],
+    "claxon": [
+      "klaxon"
+    ],
+    "bomba de aceite": [
+      "olio-ponpa"
+    ],
+    "bomba de aceleración": [
+      "azelerazio-ponpa"
+    ],
+    "bomba de agua": [
+      "ur-ponpa"
+    ],
+    "bomba de alimentación de combustible": [
+      "erregaia elikatzeko ponpa"
+    ],
+    "bomba de embrague": [
+      "enbrage-ponpa"
+    ],
+    "impulsor": [
+      "enbrage-ponpa"
+    ],
+    "bomba de engranajes": [
+      "engranaje-ponpa"
+    ],
+    "bomba de freno": [
+      "balazta-ponpa",
+      "balaztaren zilindro nagusi"
+    ],
+    "cilindro maestro del freno": [
+      "balazta-ponpa",
+      "balaztaren zilindro nagusi"
+    ],
+    "bomba de inyección": [
+      "injekzio-ponpa"
+    ],
+    "bomba hidráulica de servodirección": [
+      "direkzio lagunduaren ponpa hidrauliko"
+    ],
+    "bombín": [
+      "balazta-zilindro",
+      "freno-zilindro"
+    ],
+    "cilindro de freno": [
+      "balazta-zilindro",
+      "freno-zilindro"
+    ],
+    "boya": [
+      "buia"
+    ],
+    "brazo de la dirección": [
+      "direkzio-beso"
+    ],
+    "brazo de la suspensión": [
+      "esekidura-beso",
+      "lotura-beso"
+    ],
+    "brazo de unión": [
+      "esekidura-beso",
+      "lotura-beso"
+    ],
+    "brazo del cigüeñal": [
+      "birabarkiaren beso"
+    ],
+    "brazo del limpiaparabrisas": [
+      "haizetako-garbigailuaren beso"
+    ],
+    "brida": [
+      "brida"
+    ],
+    "buje": [
+      "buje"
+    ],
+    "bujía caliente": [
+      "bujia bero"
+    ],
+    "bujía de incandescencia": [
+      "goritasun-bujia",
+      "aurreberoketa-bujia"
+    ],
+    "bujía de precalentamiento": [
+      "goritasun-bujia",
+      "aurreberoketa-bujia"
+    ],
+    "bujía fría": [
+      "bujia hotz"
+    ],
+    "bujía": [
+      "bujia",
+      "pizte-bujia"
+    ],
+    "bujía de encendido": [
+      "bujia",
+      "pizte-bujia"
+    ],
+    "burlete": [
+      "estankotasun-goma"
+    ],
+    "goma de luna": [
+      "estankotasun-goma"
+    ],
+    "cabina": [
+      "kabina"
+    ],
+    "cabina de pintado": [
+      "pintatzeko kabina"
+    ],
+    "cable de embrague": [
+      "enbrage-kable"
+    ],
+    "cable de freno": [
+      "balazta-kable",
+      "freno-kable"
+    ],
+    "cable de masa": [
+      "masa-kable"
+    ],
+    "cable del acelerador": [
+      "azeleragailu-kable"
+    ],
+    "cabriolet": [
+      "cabriolet"
+    ],
+    "cadena de distribución": [
+      "banaketa-kate"
+    ],
+    "cadena de la distribución": [
+      "banaketa-kate"
+    ],
+    "caída de las ruedas": [
+      "gurpilen inklinazio"
+    ],
+    "caja de dirección": [
+      "direkzio-kaxa"
+    ],
+    "calandra": [
+      "kalandra",
+      "erradiadorearen kalandra",
+      "erradiadorearen sareta"
+    ],
+    "calandra del radiador": [
+      "kalandra",
+      "erradiadorearen kalandra",
+      "erradiadorearen sareta"
+    ],
+    "rejilla del radiador": [
+      "kalandra",
+      "erradiadorearen kalandra",
+      "erradiadorearen sareta"
+    ],
+    "calefactor": [
+      "berogailu",
+      "aire-berogailu"
+    ],
+    "calentador de aire": [
+      "berogailu",
+      "aire-berogailu"
+    ],
+    "calentador": [
+      "berogailu",
+      "aire-berogailu"
+    ],
+    "cámara de combustión": [
+      "errekuntza-ganbera"
+    ],
+    "cámara de explosión": [
+      "errekuntza-ganbera"
+    ],
+    "cámara de compresión": [
+      "konpresio-ganbera"
+    ],
+    "cámara de freno": [
+      "balazta-ganbera",
+      "freno-ganbera"
+    ],
+    "cámara": [
+      "ganbera",
+      "aire-ganbera"
+    ],
+    "cámara de aire": [
+      "ganbera",
+      "aire-ganbera"
+    ],
+    "cambio de aceite": [
+      "olioa aldatze",
+      "olio-aldaketa"
+    ],
+    "cambio de bujías": [
+      "bujiak aldatze",
+      "bujia-aldaketa"
+    ],
+    "cambio de la correa de distribución": [
+      "banaketa-uhala aldatze"
+    ],
+    "sustitución de la correa de distribución": [
+      "banaketa-uhala aldatze"
+    ],
+    "cambio de marchas automático": [
+      "abiadura-aldagailu automatiko",
+      "martxa-aldagailu automatiko",
+      "abiadura-kaxa automatiko"
+    ],
+    "cambio de velocidades automático": [
+      "abiadura-aldagailu automatiko",
+      "martxa-aldagailu automatiko",
+      "abiadura-kaxa automatiko"
+    ],
+    "caja de cambios automática": [
+      "abiadura-aldagailu automatiko",
+      "martxa-aldagailu automatiko",
+      "abiadura-kaxa automatiko"
+    ],
+    "caja de velocidades automática": [
+      "abiadura-aldagailu automatiko",
+      "martxa-aldagailu automatiko",
+      "abiadura-kaxa automatiko"
+    ],
+    "cambio de marchas manual": [
+      "eskuzko abiadura-aldagailu",
+      "eskuzko martxa-aldagailu",
+      "eskuzko abiadura-kaxa"
+    ],
+    "cambio de velocidades manual": [
+      "eskuzko abiadura-aldagailu",
+      "eskuzko martxa-aldagailu",
+      "eskuzko abiadura-kaxa"
+    ],
+    "caja de cambios manual": [
+      "eskuzko abiadura-aldagailu",
+      "eskuzko martxa-aldagailu",
+      "eskuzko abiadura-kaxa"
+    ],
+    "caja de velocidades manual": [
+      "eskuzko abiadura-aldagailu",
+      "eskuzko martxa-aldagailu",
+      "eskuzko abiadura-kaxa"
+    ],
+    "cambio de marchas": [
+      "abiadura-aldagailu",
+      "martxa-aldagailu",
+      "abiadura-kaxa"
+    ],
+    "cambio de velocidades": [
+      "abiadura-aldagailu",
+      "martxa-aldagailu",
+      "abiadura-kaxa"
+    ],
+    "caja de cambios": [
+      "abiadura-aldagailu",
+      "martxa-aldagailu",
+      "abiadura-kaxa"
+    ],
+    "caja de velocidades": [
+      "abiadura-aldagailu",
+      "martxa-aldagailu",
+      "abiadura-kaxa"
+    ],
+    "cambio de neumáticos": [
+      "pneumatikoak aldatze"
+    ],
+    "cambio de pastillas de freno": [
+      "balazta-pastillak aldatze",
+      "freno-pastillak aldatze"
+    ],
+    "cambio del filtro de aceite": [
+      "olio-iragazkia aldatze"
+    ],
+    "sustitución del filtro de aceite": [
+      "olio-iragazkia aldatze"
+    ],
+    "cambio del filtro de aire": [
+      "aire-iragazkia aldatze"
+    ],
+    "cambio del filtro de polen": [
+      "polen-iragazkia aldatze"
+    ],
+    "sustitución del filtro de polen": [
+      "polen-iragazkia aldatze"
+    ],
+    "cambio del líquido de frenos": [
+      "balazta-likidoa aldatze",
+      "freno-likidoa aldatze"
+    ],
+    "sustitución del líquido de frenos": [
+      "balazta-likidoa aldatze",
+      "freno-likidoa aldatze"
+    ],
+    "camioneta": [
+      "kamioneta"
+    ],
+    "camisa": [
+      "atorra"
+    ],
+    "camisa de agua": [
+      "ur-atorra",
+      "atorra heze"
+    ],
+    "camisa húmeda": [
+      "ur-atorra",
+      "atorra heze"
+    ],
+    "capó": [
+      "kapot"
+    ],
+    "capota": [
+      "kapot"
+    ],
+    "captador": [
+      "kaptadore"
+    ],
+    "caravana": [
+      "karabana"
+    ],
+    "roulotte": [
+      "karabana"
+    ],
+    "carburador": [
+      "karburagailu"
+    ],
+    "carburador descendente": [
+      "beheranzko karburagailu",
+      "karburagailu alderantzikatu"
+    ],
+    "carburador invertido": [
+      "beheranzko karburagailu",
+      "karburagailu alderantzikatu"
+    ],
+    "carenado": [
+      "karinatu"
+    ],
+    "carenaje": [
+      "karinatu"
+    ],
+    "cargador de baterías": [
+      "bateria-kargagailu"
+    ],
+    "carrocería": [
+      "karrozeria"
+    ],
+    "carrocería autoportante": [
+      "karrozeria autosostengatzaile",
+      "karrozeria monobloke"
+    ],
+    "carroceria monobloque": [
+      "karrozeria autosostengatzaile",
+      "karrozeria monobloke"
+    ],
+    "carrocería monocasco": [
+      "karrozeria autosostengatzaile",
+      "karrozeria monobloke"
+    ],
+    "cárter": [
+      "karter"
+    ],
+    "cárter del motor": [
+      "motor-karter"
+    ],
+    "catadióptrico": [
+      "katadioptriko"
+    ],
+    "retrocatadióptrico": [
+      "katadioptriko"
+    ],
+    "centrador de faros": [
+      "argi-doigailu"
+    ],
+    "regloscopio": [
+      "argi-doigailu"
+    ],
+    "centro de diagnosis": [
+      "diagnostiko-makina"
+    ],
+    "máquina de diagnosis": [
+      "diagnostiko-makina"
+    ],
+    "cerradura": [
+      "sarraila"
+    ],
+    "cerradura de bloqueo de la dirección": [
+      "direkzioa blokeatzeko sarraila"
+    ],
+    "cerradura de contacto": [
+      "ukipen-sarraila",
+      "pizte-sarraila"
+    ],
+    "cerradura de encendido": [
+      "ukipen-sarraila",
+      "pizte-sarraila"
+    ],
+    "cerradura electrónica": [
+      "sarraila elektroniko"
+    ],
+    "chasis": [
+      "txasis"
+    ],
+    "chiclé": [
+      "zurrusta-hornigailu"
+    ],
+    "surtidor": [
+      "zurrusta-hornigailu"
+    ],
+    "ciclomotor": [
+      "ziklomotor"
+    ],
+    "cierre centralizado": [
+      "ixte-sistema zentralizatu"
+    ],
+    "cigüeñal": [
+      "birabarki"
+    ],
+    "cilindro": [
+      "zilindro"
+    ],
+    "cilindro auxiliar": [
+      "zilindro osagarri",
+      "direkzio hidraulikoko zilindro osagarri"
+    ],
+    "cilindro auxiliar de dirección hidráulica": [
+      "zilindro osagarri",
+      "direkzio hidraulikoko zilindro osagarri"
+    ],
+    "cilindro hidráulico": [
+      "zilindro hidrauliko"
+    ],
+    "cilindro neumático": [
+      "zilindro pneumatiko"
+    ],
+    "cinturón de seguridad": [
+      "segurtasun-uhal"
+    ],
+    "circuito de alimentación": [
+      "elikatze-sistema"
+    ],
+    "alimentación": [
+      "elikatze-sistema"
+    ],
+    "circuito de encendido": [
+      "pizte-zirkuitu"
+    ],
+    "circuito de frenos": [
+      "balazta-zirkuitu",
+      "freno-zirkuitu"
+    ],
+    "circuito eléctrico": [
+      "zirkuitu elektriko"
+    ],
+    "codo del cigüeñal": [
+      "birabarkiaren ukondo"
+    ],
+    "cojinete de embrague": [
+      "enbrage-kojinete"
+    ],
+    "colector": [
+      "kolektore"
+    ],
+    "colector de admisión": [
+      "sarrera-kolektore"
+    ],
+    "colector de escape": [
+      "ihes-kolektore"
+    ],
+    "collar": [
+      "koilare"
+    ],
+    "columna de dirección": [
+      "direkzio-zutabe"
+    ],
+    "compresor": [
+      "konpresore"
+    ],
+    "compresor de aire": [
+      "aire-konpresore"
+    ],
+    "compresor de aire acondicionado": [
+      "aire girotuaren konpresore"
+    ],
+    "comprobación de la tensión de las correas": [
+      "uhalen tentsioa begiratze"
+    ],
+    "comprobar el nivel de aceite": [
+      "olio-maila begiratze"
+    ],
+    "control del nivel de aceite": [
+      "olio-maila begiratze"
+    ],
+    "comprobar el nivel de líquido de frenos": [
+      "balazta-likidoaren maila begiratze",
+      "freno-likidoaren maila begiratze"
+    ],
+    "control del líquido de frenos": [
+      "balazta-likidoaren maila begiratze",
+      "freno-likidoaren maila begiratze"
+    ],
+    "comprobar el nivel de refrigerante": [
+      "hozgarri-maila begiratze"
+    ],
+    "control del nivel del circuito de refrigeración": [
+      "hozgarri-maila begiratze"
+    ],
+    "comprobar la presión de los neumáticos": [
+      "pneumatikoen presioa begiratze"
+    ],
+    "control de la presión de los neumáticos": [
+      "pneumatikoen presioa begiratze"
+    ],
+    "condensador": [
+      "kondentsadore"
+    ],
+    "condensador de aire acondicionado": [
+      "aire girotuaren kondentsadore"
+    ],
+    "conector": [
+      "konektore"
+    ],
+    "conmutador": [
+      "kommutadore"
+    ],
+    "conmutador de luces": [
+      "argi-kommutadore"
+    ],
+    "conmutador electromagnético": [
+      "kommutadore elektromagnetiko",
+      "abiatze-errele"
+    ],
+    "relé de arranque": [
+      "kommutadore elektromagnetiko",
+      "abiatze-errele"
+    ],
+    "contador de tráfico": [
+      "trafiko-kontagailu",
+      "ibilgailu-kontagailu"
+    ],
+    "contador de vehículos": [
+      "trafiko-kontagailu",
+      "ibilgailu-kontagailu"
+    ],
+    "contracojinete": [
+      "kontrakojinete"
+    ],
+    "control de estabilidad dinámico": [
+      "egonkortasuna kontrolatzeko sistema"
+    ],
+    "sistema de control de la estabilidad": [
+      "egonkortasuna kontrolatzeko sistema"
+    ],
+    "control de frenado de curva": [
+      "bihurgunean frenatzeko kontrol",
+      "bihurguneko freno-kontrol"
+    ],
+    "control de pastillas de freno": [
+      "balazta-pastillak begiratze",
+      "freno-pastillak begiratze"
+    ],
+    "control del motor de arranque": [
+      "abiatze-motorra begiratze"
+    ],
+    "control del nivel de líquido de la batería": [
+      "bateriaren likido-maila begiratze"
+    ],
+    "controlador electrónico de velocidad": [
+      "abiadura-kontrolagailu elektroniko"
+    ],
+    "convertidor de par": [
+      "pare-bihurgailu",
+      "pare-bihurgailu hidrauliko"
+    ],
+    "convertidor hidráulico de par": [
+      "pare-bihurgailu",
+      "pare-bihurgailu hidrauliko"
+    ],
+    "correa de distribución": [
+      "banaketa-uhal"
+    ],
+    "correa del ventilador": [
+      "haizagailu-uhal"
+    ],
+    "correa trapezoidal": [
+      "uhal trapezoidal"
+    ],
+    "cremallera": [
+      "kremailera"
+    ],
+    "cremallera de dirección": [
+      "direkzioaren kremailera"
+    ],
+    "cruce de ruedas": [
+      "gurpilak permutatze"
+    ],
+    "cruceta": [
+      "gurutzeta"
+    ],
+    "cuadro de mandos": [
+      "aginte-taula"
+    ],
+    "panel de instrumentos": [
+      "aginte-taula"
+    ],
+    "tablero de instrumentos": [
+      "aginte-taula"
+    ],
+    "cubo": [
+      "kubo"
+    ],
+    "cuentakilómetros": [
+      "kilometro-kontagailu"
+    ],
+    "cuentakilómetros digital": [
+      "kilometro-kontagailu digital"
+    ],
+    "cuentakilómetros totalizador": [
+      "kilometro-kontagailu totalizatzaile"
+    ],
+    "totalizador de kilometraje": [
+      "kilometro-kontagailu totalizatzaile"
+    ],
+    "cuentarrevoluciones": [
+      "bira-kontagailu"
+    ],
+    "cuentavueltas": [
+      "bira-kontagailu"
+    ],
+    "culata": [
+      "kulata"
+    ],
+    "cuna de motor": [
+      "motor-sehaska"
+    ],
+    "cupé": [
+      "coupé"
+    ],
+    "delga": [
+      "delga"
+    ],
+    "densímetro": [
+      "dentsimetro"
+    ],
+    "depósito": [
+      "depositu"
+    ],
+    "depósito de aceite de frenos": [
+      "balazta-likidoaren depositu",
+      "freno-likidoaren depositu"
+    ],
+    "depósito de líquido de frenos": [
+      "balazta-likidoaren depositu",
+      "freno-likidoaren depositu"
+    ],
+    "depósito de combustible": [
+      "erregai-depositu"
+    ],
+    "depresor": [
+      "depresore"
+    ],
+    "reductor de presión": [
+      "depresore"
+    ],
+    "descapotable": [
+      "deskapotable"
+    ],
+    "desconectador de batería": [
+      "bateria-deskonektagailu"
+    ],
+    "desconectador de bobina": [
+      "bobina-deskonektagailu"
+    ],
+    "descongelador del parabrisas": [
+      "haizetakoaren desizozkailu"
+    ],
+    "desmontadora de neumáticos": [
+      "pneumatikoak askatzeko makina"
+    ],
+    "desmontadora de ruedas": [
+      "pneumatikoak askatzeko makina"
+    ],
+    "desplazable": [
+      "desplazagarri"
+    ],
+    "diafragma": [
+      "diafragma"
+    ],
+    "diferencial": [
+      "diferentzial"
+    ],
+    "diferencial autoblocante": [
+      "irristatze mugatuko diferentzial"
+    ],
+    "diferencial de bloqueo total": [
+      "blokeo osoko diferentzial"
+    ],
+    "difusor": [
+      "difusore",
+      "barreiagailu"
+    ],
+    "dinamo bipolar": [
+      "dinamo bipolar"
+    ],
+    "dinamo": [
+      "korronte zuzeneko sorgailu",
+      "dinamo"
+    ],
+    "dínamo": [
+      "korronte zuzeneko sorgailu",
+      "dinamo"
+    ],
+    "generador de corriente continua": [
+      "korronte zuzeneko sorgailu",
+      "dinamo"
+    ],
+    "máquina dinamoeléctrica": [
+      "korronte zuzeneko sorgailu",
+      "dinamo"
+    ],
+    "dirección asistida": [
+      "direkzio lagundu"
+    ],
+    "servodirección": [
+      "direkzio lagundu"
+    ],
+    "dirección de cremallera": [
+      "kremailera-direkzio"
+    ],
+    "dirección por cremallera": [
+      "kremailera-direkzio"
+    ],
+    "dirección mecánica": [
+      "direkzio mekaniko"
+    ],
+    "disco conductor": [
+      "disko gidari"
+    ],
+    "disco macho de embrague": [
+      "disko gidari"
+    ],
+    "disco de freno": [
+      "freno-disko",
+      "balazta-disko"
+    ],
+    "distribución": [
+      "banaketa"
+    ],
+    "distribuidor": [
+      "banagailu",
+      "pizte-banagailu",
+      "delko"
+    ],
+    "distribuidor de encendido": [
+      "banagailu",
+      "pizte-banagailu",
+      "delko"
+    ],
+    "delco": [
+      "banagailu",
+      "pizte-banagailu",
+      "delko"
+    ],
+    "disyuntor": [
+      "disjuntore"
+    ],
+    "economizador": [
+      "ekonomizagailu"
+    ],
+    "eje delantero": [
+      "aurreko ardatz"
+    ],
+    "electrogenerador": [
+      "elektrosorgailu",
+      "sorgailu"
+    ],
+    "generador": [
+      "elektrosorgailu",
+      "sorgailu"
+    ],
+    "electroválvula": [
+      "elektrobalbula"
+    ],
+    "electroventilador": [
+      "elektrohaizagailu"
+    ],
+    "elevador de vehículos": [
+      "auto-jasogailu"
+    ],
+    "elevador": [
+      "auto-jasogailu"
+    ],
+    "elevalunas": [
+      "beira-jasogailu"
+    ],
+    "elevalunas eléctrico": [
+      "beira-jasogailu elektriko"
+    ],
+    "elevalunas mecánico": [
+      "beira-jasogailu mekaniko"
+    ],
+    "embellecedor": [
+      "edergarri"
+    ],
+    "embrague": [
+      "enbrage"
+    ],
+    "embrague de disco": [
+      "disko-enbrage"
+    ],
+    "empaquetadura": [
+      "paketatze"
+    ],
+    "empujador": [
+      "bultzagailu",
+      "take"
+    ],
+    "taqué": [
+      "bultzagailu",
+      "take"
+    ],
+    "empuñadura": [
+      "helduleku"
+    ],
+    "encendedor": [
+      "pizgailu"
+    ],
+    "encendido electrónico": [
+      "pizte elektroniko"
+    ],
+    "enganche": [
+      "krokagailu"
+    ],
+    "engranaje planetario": [
+      "engranaje planetario",
+      "planetario"
+    ],
+    "planetario": [
+      "engranaje planetario",
+      "planetario"
+    ],
+    "equilibrado de rueda": [
+      "gurpila orekatze"
+    ],
+    "equilibradora de ruedas": [
+      "gurpilak orekatzeko makina"
+    ],
+    "equipo eléctrico": [
+      "ekipo elektriko"
+    ],
+    "escobilla del limpiaparabrisas": [
+      "haizetako-garbigailuaren goma"
+    ],
+    "raqueta del limpiaparabrisas": [
+      "haizetako-garbigailuaren goma"
+    ],
+    "escúter": [
+      "eskuter"
+    ],
+    "espejo de cortesía": [
+      "kortesiazko ispilu"
+    ],
+    "espejo retrovisor": [
+      "atzeraispilu"
+    ],
+    "retrovisor": [
+      "atzeraispilu"
+    ],
+    "estabilizador": [
+      "egonkorgailu"
+    ],
+    "estárter": [
+      "pitzarazgailu"
+    ],
+    "estrangulador": [
+      "pitzarazgailu"
+    ],
+    "starter": [
+      "pitzarazgailu"
+    ],
+    "estator": [
+      "estatore"
+    ],
+    "evaporador": [
+      "lurrungailu"
+    ],
+    "extractor universal": [
+      "ateragailu orokor"
+    ],
+    "familiar": [
+      "auto familiar",
+      "familiar"
+    ],
+    "faro": [
+      "aurreko argi",
+      "faro"
+    ],
+    "faro antiniebla": [
+      "laino-argi"
+    ],
+    "fecha de matriculación": [
+      "matrikulazio-data"
+    ],
+    "ferodo": [
+      "ferodo"
+    ],
+    "filtro antipolen": [
+      "polen-iragazki"
+    ],
+    "filtro de habitáculo": [
+      "polen-iragazki"
+    ],
+    "filtro de polen": [
+      "polen-iragazki"
+    ],
+    "filtro de aceite": [
+      "olio-iragazki"
+    ],
+    "filtro de aire": [
+      "aire-iragazki"
+    ],
+    "filtro de combustible": [
+      "erregai-iragazki"
+    ],
+    "forro de embrague": [
+      "enbrage-zorro",
+      "enbrage-estaldura"
+    ],
+    "revestimiento de embrague": [
+      "enbrage-zorro",
+      "enbrage-estaldura"
+    ],
+    "forro de freno": [
+      "balazta-zorro",
+      "freno-zorro"
+    ],
+    "funda de freno": [
+      "balazta-zorro",
+      "freno-zorro"
+    ],
+    "foso": [
+      "konponketa-zulo"
+    ],
+    "frenado de emergencia": [
+      "larrialdietako frenatze-sistema",
+      "larrialdietan frenatzeko sistema"
+    ],
+    "sistema de frenado de emergencia": [
+      "larrialdietako frenatze-sistema",
+      "larrialdietan frenatzeko sistema"
+    ],
+    "freno": [
+      "balazta",
+      "freno"
+    ],
+    "freno de disco": [
+      "disko-balazta",
+      "disko-freno"
+    ],
+    "freno de estacionamiento": [
+      "esku-balazta",
+      "esku-freno"
+    ],
+    "freno de mano": [
+      "esku-balazta",
+      "esku-freno"
+    ],
+    "freno de fricción": [
+      "marruskadurazko freno",
+      "marruskadurazko balazta"
+    ],
+    "freno de tambor": [
+      "danbor-balazta",
+      "danbor-freno"
+    ],
+    "freno eléctrico": [
+      "balazta elektriko",
+      "freno elektriko",
+      "balazta elektrodinamiko",
+      "freno elektrodinamiko"
+    ],
+    "freno electrodinámico": [
+      "balazta elektriko",
+      "freno elektriko",
+      "balazta elektrodinamiko",
+      "freno elektrodinamiko"
+    ],
+    "freno hidráulico": [
+      "balazta hidrauliko",
+      "freno hidrauliko"
+    ],
+    "frente delantero": [
+      "aurrealdeko bloke"
+    ],
+    "furgón": [
+      "furgoi"
+    ],
+    "furgoneta": [
+      "furgoneta"
+    ],
+    "gato hidráulico": [
+      "katu hidrauliko"
+    ],
+    "gemela": [
+      "biki"
+    ],
+    "gorrón": [
+      "erro"
+    ],
+    "muñón": [
+      "erro"
+    ],
+    "gripar el motor": [
+      "motorra gripatu"
+    ],
+    "grupo cónico": [
+      "multzo koniko"
+    ],
+    "guantera": [
+      "eskularru-kutxa",
+      "gordetegi"
+    ],
+    "guardabarros": [
+      "lohi-babes"
+    ],
+    "guarnecido de puerta": [
+      "ate-jantzi"
+    ],
+    "habitáculo": [
+      "bidaiari-toki"
+    ],
+    "horquilla": [
+      "urkila"
+    ],
+    "imprimación": [
+      "inprimazio"
+    ],
+    "indicador": [
+      "adierazle"
+    ],
+    "indicador de combustible": [
+      "erregai-mailaren neurgailu"
+    ],
+    "indicador de nivel de combustible": [
+      "erregai-mailaren neurgailu"
+    ],
+    "indicador de dirección": [
+      "keinukari",
+      "argi keinukari",
+      "norabide-argi"
+    ],
+    "intermitente": [
+      "keinukari",
+      "argi keinukari",
+      "norabide-argi"
+    ],
+    "luz indicadora de dirección": [
+      "keinukari",
+      "argi keinukari",
+      "norabide-argi"
+    ],
+    "luz intermitente": [
+      "keinukari",
+      "argi keinukari",
+      "norabide-argi"
+    ],
+    "indicador de presión del aceite": [
+      "olio-presioaren neurgailu"
+    ],
+    "indicador de temperatura del agua": [
+      "motor-tenperaturaren neurgailu"
+    ],
+    "indicador de temperatura del motor": [
+      "motor-tenperaturaren neurgailu"
+    ],
+    "indicador de velocidad": [
+      "abiadura-neurgailu",
+      "belozimetro"
+    ],
+    "velocímetro": [
+      "abiadura-neurgailu",
+      "belozimetro"
+    ],
+    "inflador de neumáticos": [
+      "gurpil-puzgailu"
+    ],
+    "instalación eléctrica": [
+      "instalazio elektriko"
+    ],
+    "interruptor": [
+      "etengailu"
+    ],
+    "ruptor": [
+      "etengailu"
+    ],
+    "inyector": [
+      "injektore"
+    ],
+    "junta de culata": [
+      "kulata-juntura"
+    ],
+    "junta flexible": [
+      "juntura malgu"
+    ],
+    "junta homocinética": [
+      "juntura homozinetiko"
+    ],
+    "junta universal": [
+      "juntura unibertsal"
+    ],
+    "larguero del chasis": [
+      "txasis-langa"
+    ],
+    "lateral de carrocería": [
+      "alboko panel"
+    ],
+    "lavadora de pistolas": [
+      "pistola-garbigailu"
+    ],
+    "lavafaros": [
+      "argi-ureztagailu"
+    ],
+    "limpiafaros": [
+      "argi-ureztagailu"
+    ],
+    "lavalunetas": [
+      "atzeko beira-ureztagailu"
+    ],
+    "lavaparabrisas": [
+      "haizetako-ureztagailu"
+    ],
+    "limitador de velocidad": [
+      "abiadura-mugagailu"
+    ],
+    "limpialunas trasero": [
+      "atzeko beira-garbigailu"
+    ],
+    "limpialunetas": [
+      "atzeko beira-garbigailu"
+    ],
+    "limpiaparabrisas": [
+      "haizetako-garbigailu"
+    ],
+    "limpieza del motor": [
+      "motorra garbitze"
+    ],
+    "líquido de frenos": [
+      "balazta-likido",
+      "freno-likido"
+    ],
+    "líquido de refrigeración": [
+      "hozgarri"
+    ],
+    "refrigerante": [
+      "hozgarri"
+    ],
+    "llanta": [
+      "hagun"
+    ],
+    "llanta de aleación": [
+      "aleaziozko hagun"
+    ],
+    "llave de contacto": [
+      "pizteko giltza"
+    ],
+    "lubricante": [
+      "lubrifikatzaile"
+    ],
+    "luces de emergencia": [
+      "larrialdietako argi",
+      "larrialdi-argi"
+    ],
+    "señal de emergencia": [
+      "larrialdietako argi",
+      "larrialdi-argi"
+    ],
+    "luz de emergencia": [
+      "larrialdietako argi",
+      "larrialdi-argi"
+    ],
+    "lumbrera": [
+      "argi-zulo",
+      "sabai-leiho"
+    ],
+    "luna": [
+      "beira"
+    ],
+    "luneta térmica": [
+      "atzeko beira termiko"
+    ],
+    "luz antiniebla delantera": [
+      "aurreko laino-argi"
+    ],
+    "luz corta": [
+      "gurutzatze-argi",
+      "argi labur"
+    ],
+    "luz de cruce": [
+      "gurutzatze-argi",
+      "argi labur"
+    ],
+    "luz de carretera": [
+      "errepide-argi",
+      "argi luze"
+    ],
+    "luz larga": [
+      "errepide-argi",
+      "argi luze"
+    ],
+    "luz de frenado": [
+      "freno-argi",
+      "balazta-argi"
+    ],
+    "luz de freno": [
+      "freno-argi",
+      "balazta-argi"
+    ],
+    "luz de frenos": [
+      "freno-argi",
+      "balazta-argi"
+    ],
+    "luz de gálibo": [
+      "galibo-argi"
+    ],
+    "luz de guantera": [
+      "eskularru-kutxako argi",
+      "gordetegi-argi"
+    ],
+    "luz de lectura": [
+      "irakurtzeko argi"
+    ],
+    "luz de maletero": [
+      "maletategiko argi"
+    ],
+    "luz de marcha atrás": [
+      "atzera-martxako argi"
+    ],
+    "luz de motor": [
+      "motorreko argi"
+    ],
+    "luz de posición": [
+      "posizio-argi"
+    ],
+    "magneto": [
+      "magneto"
+    ],
+    "máquina magnetoeléctrica": [
+      "magneto"
+    ],
+    "maletero": [
+      "maletategi"
+    ],
+    "portaequipajes": [
+      "maletategi"
+    ],
+    "mangueta": [
+      "mahuka"
+    ],
+    "manguito": [
+      "zorro"
+    ],
+    "manilla exterior de puerta": [
+      "atearen kanpoko eskuleku"
+    ],
+    "mano de obra": [
+      "eskulan"
+    ],
+    "manómetro de presión de ruedas": [
+      "gurpil-manometro"
+    ],
+    "manómetro de presión del aceite": [
+      "olio-manometro"
+    ],
+    "marca del vehículo": [
+      "ibilgailu-marka"
+    ],
+    "mariposa": [
+      "tximeleta",
+      "tximeleta-balbula"
+    ],
+    "válvula de mariposa": [
+      "tximeleta",
+      "tximeleta-balbula"
+    ],
+    "masilla": [
+      "mastika"
+    ],
+    "matrícula": [
+      "matrikula",
+      "matrikula-plaka"
+    ],
+    "placa de matrícula": [
+      "matrikula",
+      "matrikula-plaka"
+    ],
+    "medidor eléctrico": [
+      "neurtzeko sistema elektriko"
+    ],
+    "membrana": [
+      "mintz"
+    ],
+    "microbús": [
+      "mikrobus"
+    ],
+    "modelo": [
+      "modelo"
+    ],
+    "moderador": [
+      "atzeragailu"
+    ],
+    "retardador": [
+      "atzeragailu"
+    ],
+    "monovolumen": [
+      "monobolumen"
+    ],
+    "montante": [
+      "beso"
+    ],
+    "mordaza": [
+      "freno-zapata",
+      "balazta-zapata"
+    ],
+    "zapata": [
+      "freno-zapata",
+      "balazta-zapata"
+    ],
+    "zapata de freno": [
+      "freno-zapata",
+      "balazta-zapata"
+    ],
+    "moto": [
+      "motozikleta",
+      "moto",
+      "motor"
+    ],
+    "motocicleta": [
+      "motozikleta",
+      "moto",
+      "motor"
+    ],
+    "motor de arranque": [
+      "abiatze-motor"
+    ],
+    "motor de carburador": [
+      "karburagailu-motor"
+    ],
+    "motor de explosión": [
+      "eztanda-motor"
+    ],
+    "motor de gasolina": [
+      "gasolinazko motor"
+    ],
+    "motor de inyección": [
+      "injekzio-motor"
+    ],
+    "motor diésel": [
+      "diesel-motor"
+    ],
+    "motor semidiésel": [
+      "motor erdidiesel"
+    ],
+    "motor turbodiésel": [
+      "motor turbodiesel"
+    ],
+    "muelle helicoidal": [
+      "malguki helikoidal"
+    ],
+    "neumático balón": [
+      "baloi-pneumatiko",
+      "presio baxuko pneumatiko"
+    ],
+    "neumático de baja presión": [
+      "baloi-pneumatiko",
+      "presio baxuko pneumatiko"
+    ],
+    "neumático de lluvia": [
+      "neguko gurpil"
+    ],
+    "neumático diagonal": [
+      "pneumatiko diagonal"
+    ],
+    "neumático sin cámara": [
+      "ganberarik gabeko pneumatiko"
+    ],
+    "neumático": [
+      "pneumatiko"
+    ],
+    "cubierta": [
+      "pneumatiko"
+    ],
+    "número de bastidor": [
+      "txasis-zenbaki"
+    ],
+    "número de recalificación de talleres de reparación": [
+      "konponketa-lantegien kalifikazio-zenbaki"
+    ],
+    "RTA": [
+      "konponketa-lantegien kalifikazio-zenbaki"
+    ],
+    "número de registro industrial": [
+      "erregistro industrialeko zenbaki"
+    ],
+    "orden de reparación": [
+      "konpontzeko agindu"
+    ],
+    "palanca de cambio de marchas": [
+      "abiadura-palanka"
+    ],
+    "palanca del cambio": [
+      "abiadura-palanka"
+    ],
+    "palanca del cambio de velocidades": [
+      "abiadura-palanka"
+    ],
+    "palanca del cambio de marchas": [
+      "abiadura-palanka"
+    ],
+    "palanca del freno de mano": [
+      "esku-frenoko palanka"
+    ],
+    "palier": [
+      "palier",
+      "ardatzerdi"
+    ],
+    "semieje": [
+      "palier",
+      "ardatzerdi"
+    ],
+    "panel de puerta": [
+      "ate-panel"
+    ],
+    "pantalla": [
+      "eguzkitako",
+      "bisera"
+    ],
+    "parasol": [
+      "eguzkitako",
+      "bisera"
+    ],
+    "visera": [
+      "eguzkitako",
+      "bisera"
+    ],
+    "visor": [
+      "eguzkitako",
+      "bisera"
+    ],
+    "papel de enmascarar": [
+      "estaltzeko paper"
+    ],
+    "parabrisas": [
+      "haizetako"
+    ],
+    "parachoques": [
+      "kolpe-leungailu"
+    ],
+    "paragolpes": [
+      "kolpe-leungailu"
+    ],
+    "pastilla de freno": [
+      "balazta-pastilla",
+      "freno-pastilla"
+    ],
+    "pedal": [
+      "pedal"
+    ],
+    "pedal de embrague": [
+      "enbrage-pedal"
+    ],
+    "pedal del embrague": [
+      "enbrage-pedal"
+    ],
+    "pedal de freno": [
+      "balazta-pedal",
+      "freno-pedal"
+    ],
+    "pedal del acelerador": [
+      "azeleragailu-pedal"
+    ],
+    "pedal del freno": [
+      "balaztako pedal",
+      "frenoko pedal"
+    ],
+    "peritación": [
+      "peritu-txosten"
+    ],
+    "perno": [
+      "berno"
+    ],
+    "pieza de intercambio": [
+      "pieza berreskuratu"
+    ],
+    "pieza recuperada": [
+      "pieza berreskuratu"
+    ],
+    "pieza de recambio": [
+      "ordezko pieza"
+    ],
+    "recambio": [
+      "ordezko pieza"
+    ],
+    "piloto": [
+      "seinale-argi"
+    ],
+    "testigo luminoso": [
+      "seinale-argi"
+    ],
+    "pinchazo": [
+      "zulatu"
+    ],
+    "pintura al agua": [
+      "ur-pintura"
+    ],
+    "pintura bicapa": [
+      "bi geruzako pintura"
+    ],
+    "pintura metalizada": [
+      "pintura metalizatu"
+    ],
+    "pintura monocapa": [
+      "geruza bakarreko pintura"
+    ],
+    "pipa": [
+      "banagailuaren pipeta"
+    ],
+    "pipa del distribuidor": [
+      "banagailuaren pipeta"
+    ],
+    "pipeta del distribuidor": [
+      "banagailuaren pipeta"
+    ],
+    "pistola de pintar": [
+      "margotzeko pistola",
+      "pintatzeko pistola"
+    ],
+    "pistón": [
+      "pistoi"
+    ],
+    "placa de identificación del vehículo": [
+      "ibilgailua identifikatzeko zenbaki",
+      "VIN"
+    ],
+    "VIN": [
+      "ibilgailua identifikatzeko zenbaki",
+      "VIN"
+    ],
+    "placa de taller": [
+      "lantegi-plaka"
+    ],
+    "placa del constructor": [
+      "autogilearen plaka"
+    ],
+    "plato": [
+      "plater"
+    ],
+    "portadiodos": [
+      "diodo-euskarri"
+    ],
+    "portaescobillas": [
+      "eskuila-euskarri"
+    ],
+    "portón trasero": [
+      "maletategiko ate"
+    ],
+    "puerta del maletero": [
+      "maletategiko ate"
+    ],
+    "prensa hidráulica": [
+      "prentsa hidrauliko"
+    ],
+    "presupuesto": [
+      "aurrekontu"
+    ],
+    "programa electrónico de estabilización": [
+      "egonkortzeko programa elektroniko",
+      "ESP"
+    ],
+    "ESP": [
+      "egonkortzeko programa elektroniko",
+      "ESP"
+    ],
+    "prueba en carretera": [
+      "errepidean probatze",
+      "errepide-proba"
+    ],
+    "puente": [
+      "zubi"
+    ],
+    "puente delantero": [
+      "aurreko zubi"
+    ],
+    "puente trasero": [
+      "atzeko zubi"
+    ],
+    "puerta": [
+      "ate"
+    ],
+    "puesta a punto": [
+      "puntuan jartze"
+    ],
+    "pulido": [
+      "leuntze"
+    ],
+    "purgado": [
+      "purgatze"
+    ],
+    "racor": [
+      "errakore"
+    ],
+    "radiador": [
+      "erradiadore"
+    ],
+    "radiador de aceite": [
+      "oliozko erradiadore"
+    ],
+    "reductor": [
+      "abiadura-murriztaile"
+    ],
+    "reductor de velocidad": [
+      "abiadura-murriztaile"
+    ],
+    "refuerzo de amortiguador": [
+      "motelgailuaren errefortzu"
+    ],
+    "refuerzo de freno": [
+      "balaztaren errefortzu",
+      "frenoaren errefortzu"
+    ],
+    "reglaje de válvulas": [
+      "balbulak doitze"
+    ],
+    "regulación de altura de luces": [
+      "argiak doitze"
+    ],
+    "regulado de luces": [
+      "argiak doitze"
+    ],
+    "regulador de velocidad": [
+      "abiadura-erregulagailu"
+    ],
+    "relé": [
+      "errele"
+    ],
+    "reóstato": [
+      "erreostato"
+    ],
+    "repintado": [
+      "gainetik pintatze"
+    ],
+    "resguardo de depósito del vehículo": [
+      "ibilgailuaren gordailutze-agiri"
+    ],
+    "retardador eléctrico": [
+      "atzeragailu elektriko"
+    ],
+    "retardador hidráulico": [
+      "atzeragailu hidrauliko"
+    ],
+    "retrovisor exterior": [
+      "kanpoko ispilu"
+    ],
+    "retrovisor interior": [
+      "barneko atzeraispilu",
+      "barruko ispilu"
+    ],
+    "retrovisor interior antirreflectante": [
+      "islatze-kontrako barneko atzeraispilu"
+    ],
+    "revisión": [
+      "azterketa"
+    ],
+    "rótula": [
+      "errotula"
+    ],
+    "rueda": [
+      "gurpil"
+    ],
+    "rueda de recambio": [
+      "ordezko gurpil"
+    ],
+    "rueda de repuesto": [
+      "ordezko gurpil"
+    ],
+    "rueda dentada": [
+      "horzdun gurpil"
+    ],
+    "rueda directriz": [
+      "gurpil gidari"
+    ],
+    "rueda motriz": [
+      "gurpil eragile"
+    ],
+    "salpicadero": [
+      "aurreko panel"
+    ],
+    "secador de infrarrojos": [
+      "infragorrizko lehorgailu"
+    ],
+    "sedán": [
+      "sedan"
+    ],
+    "seguro": [
+      "aseguru"
+    ],
+    "semicojinete": [
+      "kojinete-erdi"
+    ],
+    "semirremolque": [
+      "erdiatoi"
+    ],
+    "señalización": [
+      "seinalatze-sistema"
+    ],
+    "sistema de señalización": [
+      "seinalatze-sistema"
+    ],
+    "servofreno": [
+      "serbofreno"
+    ],
+    "servofreno de compresión": [
+      "konpresio-serbofreno",
+      "serbofreno pneumatiko"
+    ],
+    "servofreno neumático": [
+      "konpresio-serbofreno",
+      "serbofreno pneumatiko"
+    ],
+    "servofreno de depresión": [
+      "depresio-serbofreno"
+    ],
+    "servofreno hidráulico": [
+      "serbofreno hidrauliko"
+    ],
+    "servoválvula": [
+      "serbobalbula"
+    ],
+    "sidecar": [
+      "sidekar"
+    ],
+    "sierra neumática": [
+      "zerra pneumatiko"
+    ],
+    "silenciador": [
+      "isilgailu",
+      "eztanda-isilgailu"
+    ],
+    "silencioso": [
+      "isilgailu",
+      "eztanda-isilgailu"
+    ],
+    "silenciador de escape": [
+      "isilgailu",
+      "eztanda-isilgailu"
+    ],
+    "sistema antiblocante": [
+      "ABS",
+      "blokeoaren kontrako balazta-sistema",
+      "blokeoaren kontrako freno-sistema"
+    ],
+    "sistema antibloqueo de ruedas": [
+      "ABS",
+      "blokeoaren kontrako balazta-sistema",
+      "blokeoaren kontrako freno-sistema"
+    ],
+    "ABS": [
+      "ABS",
+      "blokeoaren kontrako balazta-sistema",
+      "blokeoaren kontrako freno-sistema"
+    ],
+    "sistema antibloqueo de frenos": [
+      "ABS",
+      "blokeoaren kontrako balazta-sistema",
+      "blokeoaren kontrako freno-sistema"
+    ],
+    "sistema antideslizamiento": [
+      "ez irristatzeko sistema"
+    ],
+    "antideslizamiento": [
+      "ez irristatzeko sistema"
+    ],
+    "sistema de admisión variable": [
+      "sarrera aldakorreko sistema"
+    ],
+    "admisión variable": [
+      "sarrera aldakorreko sistema"
+    ],
+    "sistema de control de la tracción": [
+      "trakzio-kontroleko sistema"
+    ],
+    "control de tracción": [
+      "trakzio-kontroleko sistema"
+    ],
+    "sistema de dirección": [
+      "direkzio-sistema",
+      "direkzio"
+    ],
+    "dirección": [
+      "direkzio-sistema",
+      "direkzio"
+    ],
+    "sistema de distribución variable": [
+      "banaketa aldakorreko sistema"
+    ],
+    "distribución variable": [
+      "banaketa aldakorreko sistema"
+    ],
+    "sistema de encendido": [
+      "pizte-sistema"
+    ],
+    "encendido": [
+      "pizte-sistema"
+    ],
+    "sistema de engrase": [
+      "koipeztatze-sistema"
+    ],
+    "engrase": [
+      "koipeztatze-sistema"
+    ],
+    "sistema de frenos": [
+      "balazta-sistema",
+      "freno-sistema"
+    ],
+    "frenos": [
+      "balazta-sistema",
+      "freno-sistema"
+    ],
+    "sistema de inyección": [
+      "injekzio-sistema"
+    ],
+    "inyección": [
+      "injekzio-sistema"
+    ],
+    "sistema de motor multiválvulas": [
+      "balbula anitzeko motor"
+    ],
+    "multiválvulas": [
+      "balbula anitzeko motor"
+    ],
+    "sistema de refrigeración": [
+      "hozte-sistema"
+    ],
+    "refrigeración": [
+      "hozte-sistema"
+    ],
+    "sistema de suspensión": [
+      "esekidura-sistema",
+      "esekidura"
+    ],
+    "suspensión": [
+      "esekidura-sistema",
+      "esekidura"
+    ],
+    "sistema de tracción": [
+      "trakzio-sistema"
+    ],
+    "sistema de transmisión": [
+      "transmisio",
+      "transmisio-sistema"
+    ],
+    "transmisión": [
+      "transmisio",
+      "transmisio-sistema"
+    ],
+    "sistema eléctrico": [
+      "sistema elektriko"
+    ],
+    "sistema electrónico de distribución de fuerza de frenado": [
+      "balazta-indarra banatzeko sistema elektroniko",
+      "freno-indarra banatzeko sistema elektroniko"
+    ],
+    "spoiler": [
+      "espoiler"
+    ],
+    "surtidor de marcha lenta": [
+      "ralenti-hornigailu"
+    ],
+    "surtidor de ralentí": [
+      "ralenti-hornigailu"
+    ],
+    "surtidor del lavaparabrisas": [
+      "haizetako-ureztagailuaren hornigailu"
+    ],
+    "suspensión hidráulica": [
+      "esekidura hidrauliko"
+    ],
+    "suspensión hidroneumática": [
+      "esekidura hidropneumatiko"
+    ],
+    "suspensión mecánica": [
+      "esekidura mekaniko"
+    ],
+    "suspensión neumática": [
+      "esekidura pneumatiko"
+    ],
+    "tacógrafo": [
+      "takografo"
+    ],
+    "tacómetro": [
+      "takometro",
+      "takimetro"
+    ],
+    "taquímetro": [
+      "takometro",
+      "takimetro"
+    ],
+    "taller concesionario": [
+      "lantegi kontzesionario",
+      "lantegi ofizial",
+      "tailer kontzesionario",
+      "tailer ofizial"
+    ],
+    "taller oficial de marca": [
+      "lantegi kontzesionario",
+      "lantegi ofizial",
+      "tailer kontzesionario",
+      "tailer ofizial"
+    ],
+    "taller de carrocería": [
+      "karrozeria-lantegi",
+      "karrozeria-tailer"
+    ],
+    "taller de reparación de vehículos": [
+      "autoak konpontzeko tailer",
+      "autoak konpontzeko lantegi"
+    ],
+    "tambor": [
+      "danbor",
+      "balazta-danbor",
+      "freno-danbor"
+    ],
+    "tambor de freno": [
+      "danbor",
+      "balazta-danbor",
+      "freno-danbor"
+    ],
+    "tapa": [
+      "estalki"
+    ],
+    "tapa del maletero": [
+      "maletategiaren estalki"
+    ],
+    "tapa portadiodos": [
+      "diodo-euskarriaren estalki"
+    ],
+    "tapacubos": [
+      "abatz-estalki"
+    ],
+    "tapicería": [
+      "tapizeria"
+    ],
+    "tapizado": [
+      "tapizeria"
+    ],
+    "tarjeta de inspección técnica del vehículo": [
+      "ibilgailuaren azterketa teknikoko txartel"
+    ],
+    "techo": [
+      "sabai"
+    ],
+    "techo corredizo": [
+      "sabai irekigarri"
+    ],
+    "techo practicable": [
+      "sabai irekigarri"
+    ],
+    "techo levadizo": [
+      "sabai altxagarri"
+    ],
+    "termocontacto": [
+      "termokontaktu"
+    ],
+    "todo terreno": [
+      "lur orotako ibilgailu"
+    ],
+    "vehículo todo terreno": [
+      "lur orotako ibilgailu"
+    ],
+    "toma de aire": [
+      "aire-hargune"
+    ],
+    "tornillo de purga": [
+      "purgatze-torloju"
+    ],
+    "tracción a las cuatro ruedas": [
+      "lau gurpileko trakzio",
+      "trakzio integral"
+    ],
+    "tracción integral": [
+      "lau gurpileko trakzio",
+      "trakzio integral"
+    ],
+    "tracción total": [
+      "lau gurpileko trakzio",
+      "trakzio integral"
+    ],
+    "tracción delantera": [
+      "aurreko trakzio"
+    ],
+    "FWD": [
+      "aurreko trakzio"
+    ],
+    "tráiler": [
+      "trailer"
+    ],
+    "travesaño": [
+      "langet",
+      "zeharkako langet"
+    ],
+    "traviesa de unión del chasis": [
+      "txasisaren zeharkako langet",
+      "txasis-langet"
+    ],
+    "trinquete": [
+      "trinket"
+    ],
+    "tubo de escape": [
+      "ihes-hodi"
+    ],
+    "tubo de impulsión": [
+      "injekzio-hodi"
+    ],
+    "tubo de inyección": [
+      "injekzio-hodi"
+    ],
+    "tubo intermedio": [
+      "tarteko hodi"
+    ],
+    "turbina": [
+      "turbina"
+    ],
+    "turboautomóvil": [
+      "auto turbokonpresoredun",
+      "automobil turbokonpresoredun"
+    ],
+    "turbocompresor": [
+      "turbokonpresore"
+    ],
+    "turismo": [
+      "turismo-ibilgailu",
+      "turismo-automobil",
+      "turismo"
+    ],
+    "utilitario": [
+      "auto txiki"
+    ],
+    "vaciado del líquido de refrigeración": [
+      "hozgarria huste"
+    ],
+    "válvula": [
+      "balbula"
+    ],
+    "válvula de cámara": [
+      "ganbera-balbula"
+    ],
+    "válvula de descarga": [
+      "deskarga-balbula"
+    ],
+    "válvula de escape": [
+      "ihes-balbula"
+    ],
+    "varita medidora del nivel de aceite": [
+      "olio-maila neurtzeko hagaxka"
+    ],
+    "vehículo": [
+      "ibilgailu"
+    ],
+    "vehículo industrial": [
+      "ibilgailu industrial"
+    ],
+    "vehículo ligero": [
+      "ibilgailu arin"
+    ],
+    "vehículo pesado": [
+      "ibilgailu astun"
+    ],
+    "ventanilla": [
+      "leiho"
+    ],
+    "ventilador": [
+      "haizagailu"
+    ],
+    "ventilador electromagnético": [
+      "haizagailu elektromagnetiko"
+    ],
+    "vierteaguas": [
+      "leiho-isurki"
+    ],
+    "volante": [
+      "direkzio-bolante",
+      "bolante"
+    ],
+    "volante de la dirección": [
+      "direkzio-bolante",
+      "bolante"
+    ],
+    "volante de dirección": [
+      "direkzio-bolante",
+      "bolante"
+    ],
+    "voltímetro": [
+      "voltmetro"
+    ]
+  },
+  "random": {
+    "motor": [
+      "motor"
+    ],
+    "llamar": [
+      "deitu"
+    ],
+    "lubricar": [
+      "lubrifikatze"
+    ],
+    "corrosión": [
+      "korrosio"
+    ],
+    "empezar": [
+      "ekin",
+      "hasi"
+    ],
+    "ir": [
+      "joan"
+    ],
+    "usar": [
+      "erabili"
+    ],
+    "interno": [
+      "barne"
+    ],
+    "combustión": [
+      "errekuntza"
+    ],
+    "agricultura": [
+      "nekazaritza"
+    ],
+    "eficiencia": [
+      "efizientzia"
+    ],
+    "aumento": [
+      "handitze"
+    ],
+    "producción": [
+      "ekoizpen"
+    ],
+    "gasolina": [
+      "gasolina"
+    ],
+    "compresión": [
+      "konpresio"
+    ],
+    "superior": [
+      "goiko",
+      "handi"
+    ],
+    "carbonilla": [
+      "kedar"
+    ],
+    "finalmente": [
+      "azkenean"
+    ],
+    "mucho": [
+      "asko"
+    ],
+    "tiempo": [
+      "denbora",
+      "aldi"
+    ],
+    "aceite": [
+      "olio"
+    ],
+    "filtro": [
+      "iragazki"
+    ],
+    "cojinete": [
+      "kojinete"
+    ],
+    "unir": [
+      "lotu"
+    ],
+    "rotatorio": [
+      "birakari"
+    ],
+    "ejemplo": [
+      "modelo",
+      "adibide"
+    ],
+    "tomar": [
+      "hartu"
+    ],
+    "elemento": [
+      "elementu"
+    ],
+    "rodamiento": [
+      "errodamendu"
+    ],
+    "enviar": [
+      "bidali"
+    ],
+    "moderno": [
+      "moderno"
+    ],
+    "fin": [
+      "amaiera"
+    ],
+    "sencillo": [
+      "sinple"
+    ],
+    "basar": [
+      "baliatu",
+      "oinarritu"
+    ],
+    "separar": [
+      "bereizi"
+    ],
+    "cabeza": [
+      "buru"
+    ],
+    "servir": [
+      "balio",
+      "erabili"
+    ],
+    "pared": [
+      "horma"
+    ],
+    "sello": [
+      "zigilu"
+    ],
+    "carter": [
+      "karter"
+    ],
+    "establecer": [
+      "finkatu"
+    ],
+    "viscosidad": [
+      "biskositate"
+    ],
+    "elevado": [
+      "handi",
+      "altu"
+    ],
+    "número": [
+      "zenbaki",
+      "kopuru"
+    ],
+    "inglés": [
+      "ingeles"
+    ],
+    "aire": [
+      "aire"
+    ],
+    "ciclónico": [
+      "zikloniko"
+    ],
+    "prueba": [
+      "proba"
+    ],
+    "sistema": [
+      "sistema"
+    ],
+    "impacto": [
+      "inpaktu"
+    ],
+    "cortina": [
+      "errezel"
+    ],
+    "ventana": [
+      "leiho"
+    ],
+    "ocupante": [
+      "bidaiari"
+    ],
+    "pegar": [
+      "itsatsi"
+    ],
+    "choque": [
+      "talka"
+    ],
+    "lateral": [
+      "albo"
+    ],
+    "desarrollar": [
+      "garatu"
+    ],
+    "conductor": [
+      "gidari"
+    ],
+    "pierna": [
+      "hanka"
+    ],
+    "proteger": [
+      "babestu"
+    ],
+    "efectivo": [
+      "eraginkor"
+    ],
+    "seguridad": [
+      "segurtasun"
+    ],
+    "pasivo": [
+      "pasibo"
+    ],
+    "momento": [
+      "momentu",
+      "une"
+    ],
+    "sensor": [
+      "sentsore"
+    ],
+    "simple": [
+      "sinple"
+    ],
+    "frenar": [
+      "balaztatze"
+    ],
+    "giroscopio": [
+      "giroskopio"
+    ],
+    "controlar": [
+      "kontrolatu"
+    ],
+    "control": [
+      "kontrol"
+    ],
+    "alcanzar": [
+      "iritsi",
+      "lortu"
+    ],
+    "disparará": [
+      "aktibatu"
+    ],
+    "difusión": [
+      "hedatu"
+    ],
+    "cuerpo": [
+      "gorputz"
+    ],
+    "tamaño": [
+      "tamain",
+      "tamaina"
+    ],
+    "cada": [
+      "bakoitz"
+    ],
+    "iniciar": [
+      "abiarazi",
+      "hasi"
+    ],
+    "caliente": [
+      "bero"
+    ],
+    "gas": [
+      "gas"
+    ],
+    "cinturón": [
+      "uhal"
+    ],
+    "dentro": [
+      "barru"
+    ],
+    "lentamente": [
+      "astiro"
+    ],
+    "tarde": [
+      "berandu"
+    ],
+    "antiguo": [
+      "zahar",
+      "aspaldiko"
+    ],
+    "250": [
+      "250"
+    ],
+    "50": [
+      "50"
+    ],
+    "utilizar": [
+      "baliatu",
+      "erabili"
+    ],
+    "caso": [
+      "kasu"
+    ],
+    "frontal": [
+      "aurrealde",
+      "aurre"
+    ],
+    "audio": [
+      "audio"
+    ],
+    "describir": [
+      "deskribatu"
+    ],
+    "buen": [
+      "on"
+    ],
+    "personalización": [
+      "pertsonalizazio"
+    ],
+    "ahora": [
+      "orain"
+    ],
+    "navegación": [
+      "nabigazio"
+    ],
+    "conectar": [
+      "konektatu"
+    ],
+    "transporte": [
+      "garraio",
+      "garraiatze",
+      "garraiobide"
+    ],
+    "hispanoamericano": [
+      "hispanoamerikar"
+    ],
+    "parte": [
+      "zati",
+      "atal",
+      "parte",
+      "alde"
+    ],
+    "diverso": [
+      "hainbat"
+    ],
+    "persona": [
+      "pertsona"
+    ],
+    "referencia": [
+      "erreferentzia"
+    ],
+    "mercancía": [
+      "salgai"
+    ],
+    "varios": [
+      "zenbait",
+      "hainbat"
+    ],
+    "final": [
+      "amaiera"
+    ],
+    "Historia": [
+      "historia"
+    ],
+    "1886": [
+      "1886"
+    ],
+    "Fráncfort": [
+      "Frankfurt"
+    ],
+    "estricto": [
+      "hertsi"
+    ],
+    "conocer": [
+      "ezagutu"
+    ],
+    "Estructura": [
+      "egitura"
+    ],
+    "grupo": [
+      "multzo"
+    ],
+    "masa": [
+      "masa"
+    ],
+    "dotación": [
+      "hornidura"
+    ],
+    "carga": [
+      "karga"
+    ],
+    "público": [
+      "publiko"
+    ],
+    "máximo": [
+      "maximo",
+      "gehien"
+    ],
+    "clasificación": [
+      "sailkapen"
+    ],
+    "menos": [
+      "salbu",
+      "gutxiago"
+    ],
+    "dos": [
+      "bi"
+    ],
+    "1": [
+      "1"
+    ],
+    "kg": [
+      "kg"
+    ],
+    "capacidad": [
+      "ahalmen"
+    ],
+    "12,0": [
+      "12,0"
+    ],
+    "diferente": [
+      "desberdin"
+    ],
+    "mediante": [
+      "bide",
+      "esker"
+    ],
+    "primero": [
+      "lehen",
+      "lehenik",
+      "lehenengo"
+    ],
+    "transformar": [
+      "bihurtze"
+    ],
+    "nivel": [
+      "maila"
+    ],
+    "producir": [
+      "gertatu",
+      "ekoitzi",
+      "sortu"
+    ],
+    "aunque": [
+      "baina",
+      "arren",
+      "nahiz"
+    ],
+    "eléctrico": [
+      "elektriko"
+    ],
+    "combustible": [
+      "erregai"
+    ],
+    "15": [
+      "15"
+    ],
+    "pequeño": [
+      "txiki"
+    ],
+    "natural": [
+      "natural"
+    ],
+    "accionamiento": [
+      "eragite"
+    ],
+    "vender": [
+      "saldu"
+    ],
+    "político": [
+      "politiko"
+    ],
+    "sector": [
+      "sektore"
+    ],
+    "unidad": [
+      "unitate"
+    ],
+    "sencillez": [
+      "sinpletasun"
+    ],
+    "recarga": [
+      "birkargatze"
+    ],
+    "atmosférico": [
+      "atmosferiko"
+    ],
+    "principal": [
+      "nagusi"
+    ],
+    "mover": [
+      "mugitu"
+    ],
+    "separadamente": [
+      "aparte"
+    ],
+    "comercialización": [
+      "merkaturatzw"
+    ],
+    "además": [
+      "gainera",
+      "eta"
+    ],
+    "bordo": [
+      "barru"
+    ],
+    "recargar": [
+      "kargatu"
+    ],
+    "regenerativo": [
+      "birsortzaile"
+    ],
+    "energía": [
+      "energia"
+    ],
+    "mantenimiento": [
+      "mantenu"
+    ],
+    "opción": [
+      "aukera"
+    ],
+    "dato": [
+      "datu"
+    ],
+    "indirecto": [
+      "zeharkako"
+    ],
+    "velocidad": [
+      "abiadura"
+    ],
+    "dimensión": [
+      "neurri"
+    ],
+    "radio": [
+      "erradio"
+    ],
+    "carretera": [
+      "errepide"
+    ],
+    "consumo": [
+      "kontsumo"
+    ],
+    "rozamiento": [
+      "marruskadura"
+    ],
+    "vencer": [
+      "gainditu"
+    ],
+    "suficiente": [
+      "adina",
+      "nahiko",
+      "behar"
+    ],
+    "marcha": [
+      "martxa"
+    ],
+    "movimiento": [
+      "mugimendu",
+      "mugiarazte"
+    ],
+    "salida": [
+      "irteera"
+    ],
+    "proporcionar": [
+      "eman"
+    ],
+    "relación": [
+      "erlazio"
+    ],
+    "distinto": [
+      "desberdin"
+    ],
+    "medida": [
+      "neurri",
+      "hein"
+    ],
+    "función": [
+      "funtzio"
+    ],
+    "reducir": [
+      "murriztu"
+    ],
+    "aumentar": [
+      "handitu"
+    ],
+    "necesidad": [
+      "behar"
+    ],
+    "recibir": [
+      "jaso"
+    ],
+    "acoplado": [
+      "akoplatu"
+    ],
+    "manual": [
+      "eskuzko",
+      "esku"
+    ],
+    "resto": [
+      "gainerako"
+    ],
+    "rendimiento": [
+      "errendimendu"
+    ],
+    "deber": [
+      "behar"
+    ],
+    "según": [
+      "arabera"
+    ],
+    "angular": [
+      "angeluar"
+    ],
+    "modificar": [
+      "aldatu"
+    ],
+    "alterar": [
+      "aldatu"
+    ],
+    "gráfico": [
+      "grafiko"
+    ],
+    "zona": [
+      "eremu"
+    ],
+    "constitución": [
+      "osaera"
+    ],
+    "caja": [
+      "kaxa"
+    ],
+    "intermediario": [
+      "bitartekari"
+    ],
+    "serie": [
+      "batzuk"
+    ],
+    "eje": [
+      "ardatz"
+    ],
+    "piñón": [
+      "piñoi"
+    ],
+    "mismo": [
+      "berbera",
+      "bera"
+    ],
+    "gira": [
+      "bira"
+    ],
+    "entero": [
+      "osorik"
+    ],
+    "primario": [
+      "primario"
+    ],
+    "poder": [
+      "ahal"
+    ],
+    "fijo": [
+      "finko"
+    ],
+    "hacer": [
+      "egin"
+    ],
+    "llevar": [
+      "eraman"
+    ],
+    "corona": [
+      "koroa"
+    ],
+    "transversal": [
+      "zeharkako"
+    ],
+    "gris": [
+      "gris"
+    ],
+    "recipiente": [
+      "ontzi"
+    ],
+    "reductor": [
+      "murriztaile"
+    ],
+    "seco": [
+      "lehor"
+    ],
+    "artículo": [
+      "artikulu"
+    ],
+    "realizar": [
+      "egin"
+    ],
+    "cinemático": [
+      "zinematiko"
+    ],
+    "conexión": [
+      "konexio"
+    ],
+    "doble": [
+      "bikoitz"
+    ],
+    "impar": [
+      "bakoiti"
+    ],
+    "automatizado": [
+      "automatizatu"
+    ],
+    "hidromático": [
+      "hidromatiko"
+    ],
+    "resistencia": [
+      "erresistentzia"
+    ],
+    "funcionar": [
+      "funtzionatu"
+    ],
+    "paralelo": [
+      "paralelo"
+    ],
+    "conformar": [
+      "osatu"
+    ],
+    "limitado": [
+      "mugatu"
+    ],
+    "diseñar": [
+      "diseinatu"
+    ],
+    "dar": [
+      "eman"
+    ],
+    "preselector": [
+      "aurrehautagailu"
+    ],
+    "disposición": [
+      "kokapen",
+      "konfigurazio"
+    ],
+    "agrupar": [
+      "taldekatu"
+    ],
+    "letra": [
+      "letra"
+    ],
+    "admisión": [
+      "sarrera",
+      "onarpen"
+    ],
+    "fila": [
+      "ilara"
+    ],
+    "horizontal": [
+      "horizontal"
+    ],
+    "comúnmente": [
+      "normalean"
+    ],
+    "fallo": [
+      "akats",
+      "huts"
+    ],
+    "Alemania": [
+      "Alemania"
+    ],
+    "configuración": [
+      "konfigurazio"
+    ],
+    "aviación": [
+      "hegazkintza",
+      "abiazio"
+    ],
+    "alejar": [
+      "urrundu"
+    ],
+    "desventaja": [
+      "desabantaila"
+    ],
+    "saga": [
+      "saga"
+    ],
+    "mejora": [
+      "hobekuntza"
+    ],
+    "año": [
+      "urte"
+    ],
+    "usualmente": [
+      "normalean"
+    ],
+    "variable": [
+      "aldakor"
+    ],
+    "tipo": [
+      "mota"
+    ],
+    "radial": [
+      "erradial"
+    ],
+    "encontrar": [
+      "aurkitu"
+    ],
+    "rotativo": [
+      "birakari"
+    ],
+    "encima": [
+      "gain"
+    ],
+    "potencia": [
+      "potentzia"
+    ],
+    "seguir": [
+      "jarraitu"
+    ],
+    "día": [
+      "egun"
+    ],
+    "ahorrar": [
+      "aurreztu"
+    ],
+    "ser": [
+      "izan"
+    ],
+    "tracción": [
+      "trakzio"
+    ],
+    "cuatro": [
+      "lau"
+    ],
+    "posición": [
+      "posizio"
+    ],
+    "restar": [
+      "kendu"
+    ],
+    "central": [
+      "zentral"
+    ],
+    "dejar": [
+      "utzi"
+    ],
+    "interior": [
+      "barnealde"
+    ],
+    "dispositivo": [
+      "gailu"
+    ],
+    "giratorio": [
+      "birakari"
+    ],
+    "amplio": [
+      "zabal"
+    ],
+    "lado": [
+      "alde"
+    ],
+    "palabra": [
+      "hitz"
+    ],
+    "contexto": [
+      "testuinguru"
+    ],
+    "evaluar": [
+      "ebaluatu"
+    ],
+    "recta": [
+      "zuzen"
+    ],
+    "componente": [
+      "osagai"
+    ],
+    "mantener": [
+      "mantendu",
+      "eutsi"
+    ],
+    "tocar": [
+      "ukitu"
+    ],
+    "aceleración": [
+      "azelerazio"
+    ],
+    "objetivo": [
+      "helburu"
+    ],
+    "árbol": [
+      "zuhaitz"
+    ],
+    "formar": [
+      "osatu"
+    ],
+    "descentrado": [
+      "deszentratu"
+    ],
+    "rígido": [
+      "zurrun"
+    ],
+    "independiente": [
+      "independente"
+    ],
+    "solo": [
+      "bakar"
+    ],
+    "transeje": [
+      "transardatz"
+    ],
+    "conjunto": [
+      "multzo"
+    ],
+    "cambiar": [
+      "aldatu"
+    ],
+    "desplazamiento": [
+      "desplazamendu"
+    ],
+    "variar": [
+      "aldatu"
+    ],
+    "diseño": [
+      "diseinu"
+    ],
+    "aquel": [
+      "hori"
+    ],
+    "subir": [
+      "igo"
+    ],
+    "peso": [
+      "pisu"
+    ],
+    "levantar": [
+      "igo",
+      "altxatu"
+    ],
+    "computador": [
+      "ordenagailu"
+    ],
+    "flotante": [
+      "flotatzaile"
+    ],
+    "tuerca": [
+      "azkoin"
+    ],
+    "extremo": [
+      "mutur"
+    ],
+    "araña": [
+      "armiarma"
+    ],
+    "bola": [
+      "bola"
+    ],
+    "totalmente": [
+      "guztiz"
+    ],
+    "semiflotante": [
+      "erdiflotatzaile"
+    ],
+    "curva": [
+      "bihurgune"
+    ],
+    "fuerza": [
+      "indar"
+    ],
+    "exterior": [
+      "kanpoalde",
+      "kanpo"
+    ],
+    "inercia": [
+      "inertzia"
+    ],
+    "generar": [
+      "sortu"
+    ],
+    "desgaste": [
+      "higadura"
+    ],
+    "fricción": [
+      "marruskadura"
+    ],
+    "balance": [
+      "balantze"
+    ],
+    "desplazar": [
+      "desplazatu",
+      "mugitu"
+    ],
+    "provocar": [
+      "eragin"
+    ],
+    "1967": [
+      "1967"
+    ],
+    "segundo": [
+      "bigarren",
+      "segundo"
+    ],
+    "guerra": [
+      "gerra"
+    ],
+    "1928": [
+      "1928"
+    ],
+    "adquirir": [
+      "eskuratu"
+    ],
+    "restante": [
+      "gainerako"
+    ],
+    "introducir": [
+      "ezarri",
+      "sartu"
+    ],
+    "incluir": [
+      "sartu"
+    ],
+    "bajar": [
+      "jaitsi"
+    ],
+    "camión": [
+      "kamioi"
+    ],
+    "plástico": [
+      "plastiko"
+    ],
+    "eliminar": [
+      "ezabatu"
+    ],
+    "desmontable": [
+      "desmuntagarri"
+    ],
+    "vertical": [
+      "bertikal"
+    ],
+    "bajo": [
+      "baxu"
+    ],
+    "Europa": [
+      "Europa"
+    ],
+    "estándar": [
+      "arrunt"
+    ],
+    "accionar": [
+      "eragin"
+    ],
+    "funcionamiento": [
+      "funtzionamendu"
+    ],
+    "variante": [
+      "aldaera"
+    ],
+    "mecánico": [
+      "mekaniko",
+      "mekanikari"
+    ],
+    "actuar": [
+      "jokatu"
+    ],
+    "enlace": [
+      "lotura"
+    ],
+    "deslizamiento": [
+      "irristatze"
+    ],
+    "detener": [
+      "gelditu"
+    ],
+    "disco": [
+      "disko"
+    ],
+    "mando": [
+      "aginte"
+    ],
+    "diagrama": [
+      "diagrama"
+    ],
+    "entrada": [
+      "sarrera"
+    ],
+    "parcialmente": [
+      "partzialki"
+    ],
+    "liberación": [
+      "askapen"
+    ],
+    "empuje": [
+      "bultzada"
+    ],
+    "evitar": [
+      "saihestu"
+    ],
+    "abrupto": [
+      "zakar"
+    ],
+    "vida": [
+      "bizitza"
+    ],
+    "tener": [
+      "eduki",
+      "izan"
+    ],
+    "material": [
+      "material"
+    ],
+    "placa": [
+      "plaka"
+    ],
+    "sincronizador": [
+      "sinkronizatzaile"
+    ],
+    "común": [
+      "ohiko",
+      "arrunt"
+    ],
+    "mecanismo": [
+      "mekanismo"
+    ],
+    "único": [
+      "bakar"
+    ],
+    "manera": [
+      "modu"
+    ],
+    "presión": [
+      "presio"
+    ],
+    "resorte": [
+      "malguki"
+    ],
+    "apoyo": [
+      "euskarri"
+    ],
+    "atornillado": [
+      "torlojutu"
+    ],
+    "competición": [
+      "lehiaketa"
+    ],
+    "derecha": [
+      "eskuin"
+    ],
+    "principio": [
+      "printzipio",
+      "hasiera"
+    ],
+    "suponer": [
+      "eragin"
+    ],
+    "alargando": [
+      "luzatu"
+    ],
+    "c": [
+      "c"
+    ],
+    "oxígen": [
+      "oxigeno"
+    ],
+    "necesario": [
+      "behar"
+    ],
+    "rodamientos": [
+      "errodamendu"
+    ],
+    "contar": [
+      "edun"
+    ],
+    "mayor": [
+      "gora"
+    ],
+    "números": [
+      "zenbaki"
+    ],
+    "necesariamente": [
+      "nahitaez"
+    ],
+    "sol": [
+      "bakar"
+    ],
+    "componer": [
+      "edun"
+    ],
+    "situado": [
+      "kokatu"
+    ],
+    "delantero": [
+      "aurre"
+    ],
+    "giroscopios": [
+      "giroskopio"
+    ],
+    "tira": [
+      "eragite"
+    ],
+    "lugar": [
+      "orde"
+    ],
+    "genéricamente": [
+      "oro"
+    ],
+    "espectr": [
+      "espektro"
+    ],
+    "favor": [
+      "eroso"
+    ],
+    "referir": [
+      "hartu"
+    ],
+    "Salón": [
+      "erakusketa"
+    ],
+    "Motor": [
+      "planta"
+    ],
+    "planta": [
+      "eragile"
+    ],
+    "refacción": [
+      "ordezko"
+    ],
+    "totalidad": [
+      "guzti"
+    ],
+    "h": [
+      "h"
+    ],
+    "M.": [
+      "m"
+    ],
+    "igual": [
+      "era"
+    ],
+    "us": [
+      "baliatu"
+    ],
+    "recargan": [
+      "kargatu"
+    ],
+    "Datos": [
+      "datu"
+    ],
+    "figurar": [
+      "adierazi"
+    ],
+    "númer": [
+      "zenbaki"
+    ],
+    "gir": [
+      "biratu"
+    ],
+    "cambio": [
+      "martxa"
+    ],
+    "así": [
+      "izan"
+    ],
+    "rines": [
+      "hagun"
+    ],
+    "km": [
+      "km"
+    ],
+    "contaminante": [
+      "kutsatu"
+    ],
+    "vez": [
+      "izan"
+    ],
+    "fundamentalmente": [
+      "bat"
+    ],
+    "par": [
+      "momentu"
+    ],
+    "incremento": [
+      "igoera"
+    ],
+    "bien": [
+      "bi"
+    ],
+    "presentar": [
+      "edun"
+    ],
+    "dicho": [
+      "hori"
+    ],
+    "Constitución": [
+      "osaera"
+    ],
+    "dispuesto": [
+      "jarri"
+    ],
+    "solidario": [
+      "bat"
+    ],
+    "constar": [
+      "edun"
+    ],
+    "soler": [
+      "izan"
+    ],
+    "delante": [
+      "aurre"
+    ],
+    "Group": [
+      "talde"
+    ],
+    "mejor": [
+      "on"
+    ],
+    "paralel": [
+      "paralelo"
+    ],
+    "Doble": [
+      "bikoitz"
+    ],
+    "v": [
+      "v"
+    ],
+    "disponible": [
+      "izan"
+    ],
+    "oposición": [
+      "aurrez"
+    ],
+    "bóxer": [
+      "boxer"
+    ],
+    "opuesto": [
+      "aurrez"
+    ],
+    "hablar": [
+      "hitz"
+    ],
+    "Volkswagen": [
+      "Volkswagen"
+    ],
+    "compartir": [
+      "edun"
+    ],
+    "mientras": [
+      "aurrez"
+    ],
+    "permanecer": [
+      "ez"
+    ],
+    "orden": [
+      "maila"
+    ],
+    "mediado": [
+      "erdialde"
+    ],
+    "ambos": [
+      "bi"
+    ],
+    "enter": [
+      "oso"
+    ],
+    "intermedio": [
+      "tarte"
+    ],
+    "especie": [
+      "nolabait"
+    ],
+    "datar": [
+      "sortu"
+    ],
+    "ancho": [
+      "hura"
+    ],
+    "respectivamente": [
+      "hura"
+    ],
+    "cardar": [
+      "cardan"
+    ],
+    "derivar": [
+      "lortu"
+    ],
+    "longitudinal": [
+      "luza"
+    ],
+    "restaría": [
+      "kendu"
+    ],
+    "avanzar": [
+      "egin"
+    ],
+    "cargar": [
+      "jarri"
+    ],
+    "cinquecento": [
+      "cinquecento"
+    ],
+    "habitualmente": [
+      "halako"
+    ],
+    "traser": [
+      "atzealde"
+    ],
+    "detrás": [
+      "atze"
+    ],
+    "precisamente": [
+      "zehatz"
+    ],
+    "introducción": [
+      "sartu"
+    ],
+    "ejes": [
+      "ardatz"
+    ],
+    "respecto": [
+      "alderantzizko"
+    ],
+    "relativamente": [
+      "eragin"
+    ],
+    "uno": [
+      "zapata"
+    ],
+    "dividid": [
+      "zatitu"
+    ],
+    "delanter": [
+      "aurrealde"
+    ],
+    "considerar": [
+      "hartu"
+    ],
+    "hecho": [
+      "egin"
+    ],
+    "este": [
+      "ardatzerdi"
+    ],
+    "sujetan": [
+      "finkatu"
+    ],
+    "retenes": [
+      "zigilu"
+    ],
+    "romper": [
+      "haustu"
+    ],
+    "Fuerza": [
+      "indar"
+    ],
+    "Fuerzas": [
+      "indar"
+    ],
+    "experimentar": [
+      "jasan"
+    ],
+    "giro8": [
+      "bi"
+    ],
+    "fundamental": [
+      "berebiziko"
+    ],
+    "jugar": [
+      "izan"
+    ],
+    "papel": [
+      "indar"
+    ],
+    "especialmente": [
+      "bat"
+    ],
+    "bajada": [
+      "jaitsi"
+    ],
+    "abatir": [
+      "jaitsi"
+    ],
+    "mostrar": [
+      "bista"
+    ],
+    "Interior": [
+      "barnealde"
+    ],
+    "disponer": [
+      "edun"
+    ],
+    "Guerra": [
+      "gerra"
+    ],
+    "todoterren": [
+      "lur"
+    ],
+    "adquiriera": [
+      "eskuratu"
+    ],
+    "originar": [
+      "asmatu"
+    ],
+    "Motors": [
+      "motor"
+    ],
+    "convertible": [
+      "deskapotable"
+    ],
+    "trasero": [
+      "atze"
+    ],
+    "liger": [
+      "arin"
+    ],
+    "automovilístico": [
+      "automobil"
+    ],
+    "impermeabilidad": [
+      "isolamendu"
+    ],
+    "acer": [
+      "altzairu"
+    ],
+    "Hall": [
+      "hall"
+    ],
+    "dad": [
+      "izan"
+    ],
+    "general": [
+      "oro"
+    ],
+    "constituir": [
+      "enbrage"
+    ],
+    "suministrado": [
+      "eman"
+    ],
+    "vinculado": [
+      "lotu"
+    ],
+    "giran": [
+      "bira"
+    ],
+    "Par": [
+      "momentu"
+    ],
+    "F": [
+      "f"
+    ],
+    "muñequilla": [
+      "birabarki"
+    ],
+    "existir": [
+      "egon"
+    ],
+    "ta": [
+      "transferentzia"
+    ],
+    "parado": [
+      "geldialdi"
+    ],
+    "húmedo": [
+      "busti"
+    ],
+    "enfría": [
+      "hozi"
+    ],
+    "revolución": [
+      "bakar"
+    ],
+    "cascada": [
+      "ur-jauzi"
+    ],
+    "encendería": [
+      "pitz"
+    ],
+    "desenganchar": [
+      "askatu"
+    ],
+    "garra": [
+      "atzapar"
+    ],
+    "aplicarón": [
+      "aplikatu"
+    ],
+    "esquemático": [
+      "eskema"
+    ],
+    "empuja": [
+      "bultzatu"
+    ],
+    "quedar": [
+      "geratu"
+    ],
+    "multidisco": [
+      "anitz"
+    ],
+    "anterior": [
+      "aurreko"
+    ],
+    "muelle": [
+      "malguki"
+    ],
+    "tacto": [
+      "ukimen"
+    ],
+    "sustituir": [
+      "jarri"
+    ],
+    "esclavo": [
+      "morroi"
+    ],
+    "neutral": [
+      "neutral"
+    ],
+    "decir": [
+      "esan"
+    ],
+    "convenciente": [
+      "egoki"
+    ],
+    "campana": [
+      "kanpai"
+    ],
+    "encerrado": [
+      "sartu"
+    ],
+    "transmisiones": [
+      "transmisio"
+    ],
+    "convertidor": [
+      "bihurgailu"
+    ],
+    "enfriamiento": [
+      "hozi"
+    ],
+    "abrir": [
+      "ireki"
+    ],
+    "pasar": [
+      "pasatu"
+    ],
+    "temperatura": [
+      "tenperatura"
+    ],
+    "magnético": [
+      "magnetiko"
+    ],
+    "menudo": [
+      "asko"
+    ],
+    "emplear": [
+      "erabili"
+    ],
+    "canasta": [
+      "saski"
+    ],
+    "manillar": [
+      "eskuleku"
+    ],
+    "acciona": [
+      "eragin"
+    ],
+    "coeficiente": [
+      "koefiziente"
+    ],
+    "equipado": [
+      "hornitu"
+    ],
+    "historia": [
+      "historia"
+    ],
+    "mano": [
+      "esku"
+    ],
+    "gama": [
+      "gama"
+    ],
+    "razonable": [
+      "ongi"
+    ],
+    "eficiente": [
+      "efiziente"
+    ],
+    "mordaza": [
+      "baraila"
+    ],
+    "ocasionando": [
+      "halako"
+    ],
+    "perimetral": [
+      "balazta"
+    ],
+    "testigo": [
+      "argi"
+    ],
+    "depositar": [
+      "egon"
+    ],
+    "exigente": [
+      "malgu"
+    ],
+    "manejo": [
+      "hartu"
+    ],
+    "roce": [
+      "marruskadura"
+    ],
+    "ajuste": [
+      "doikuntza"
+    ],
+    "actualmente": [
+      "gaur"
+    ],
+    "incorporar": [
+      "edun"
+    ],
+    "medio": [
+      "erdi"
+    ],
+    "instalado": [
+      "egon"
+    ],
+    "mirar": [
+      "begira"
+    ],
+    "comenzar": [
+      "hasi"
+    ],
+    "tornillo": [
+      "torloju"
+    ],
+    "lograr": [
+      "lortu"
+    ],
+    "manipular": [
+      "manipulatu"
+    ],
+    "aceptable": [
+      "emaitza"
+    ],
+    "secundario": [
+      "bigarren"
+    ],
+    "acción": [
+      "prebentzio"
+    ],
+    "fijar": [
+      "finkatu"
+    ],
+    "rapidez": [
+      "azkar"
+    ],
+    "determinar": [
+      "zehaztu"
+    ],
+    "mal": [
+      "txar"
+    ],
+    "diésel": [
+      "diesel"
+    ],
+    "capacitación": [
+      "trebakuntza"
+    ],
+    "Fundación": [
+      "erakunde"
+    ],
+    "certificación": [
+      "ziurtapen"
+    ],
+    "original": [
+      "original"
+    ],
+    "brindar": [
+      "eskaini"
+    ],
+    "debidamente": [
+      "behar"
+    ],
+    "exigir": [
+      "arabera"
+    ],
+    "principalmente": [
+      "nagusiki"
+    ],
+    "técnico": [
+      "teknika"
+    ],
+    "abolladura": [
+      "mailatu"
+    ],
+    "vidrio": [
+      "beira"
+    ],
+    "reparación": [
+      "konponketa"
+    ],
+    "alquiler": [
+      "alokairu"
+    ],
+    "reparo": [
+      "konpondu"
+    ],
+    "capaz": [
+      "gaitu"
+    ],
+    "importante": [
+      "garrantzitsu"
+    ],
+    "línea": [
+      "lin"
+    ],
+    "generalmente": [
+      "oro"
+    ],
+    "servicio": [
+      "zerbitzu"
+    ],
+    "carrera": [
+      "ibiltarte"
+    ],
+    "gato": [
+      "katu"
+    ],
+    "tecnología": [
+      "teknologia"
+    ],
+    "diagnóstico": [
+      "diagnostiko"
+    ],
+    "profesional": [
+      "langile"
+    ],
+    "regularmente": [
+      "maiz"
+    ],
+    "elevador": [
+      "ibilgailu"
+    ],
+    "asistencia": [
+      "laguntza"
+    ],
+    "potencialmente": [
+      "potentzialki"
+    ],
+    "conocimiento": [
+      "ezagutza"
+    ],
+    "Servicio": [
+      "zerbitzu"
+    ],
+    "Nacional": [
+      "nazional"
+    ],
+    "liberar": [
+      "askatu"
+    ],
+    "impulsar": [
+      "bultzatu"
+    ],
+    "convertir": [
+      "izaki"
+    ],
+    "inducir": [
+      "eragin"
+    ],
+    "Sistema": [
+      "banaketa"
+    ],
+    "engrame": [
+      "engrana"
+    ],
+    "corriente": [
+      "korronte"
+    ],
+    "circuito": [
+      "zirkuitu"
+    ],
+    "diente": [
+      "hortz"
+    ],
+    "ataque": [
+      "eragile"
+    ],
+    "exces": [
+      "gehiegizko"
+    ],
+    "daño": [
+      "kalte"
+    ],
+    "activado": [
+      "aktibatu"
+    ],
+    "sujeto": [
+      "lotu"
+    ],
+    "solenoide": [
+      "solenoide"
+    ],
+    "atrás": [
+      "atzera"
+    ],
+    "inductor": [
+      "eragile"
+    ],
+    "alimentación": [
+      "elikadura"
+    ],
+    "proceso": [
+      "prozesu"
+    ],
+    "corto": [
+      "eten"
+    ],
+    "convencional": [
+      "ohiko"
+    ],
+    "inventor": [
+      "asmatzaile"
+    ],
+    "carecer": [
+      "ez"
+    ],
+    "cierre": [
+      "itxi"
+    ],
+    "prototipo": [
+      "prototipo"
+    ],
+    "consecuencia": [
+      "ondorio"
+    ],
+    "aplicación": [
+      "aplikazio"
+    ],
+    "sufrir": [
+      "ez"
+    ],
+    "dominar": [
+      "nagusi"
+    ],
+    "específico": [
+      "berariaz"
+    ],
+    "cerrar": [
+      "itxi"
+    ],
+    "circular": [
+      "zirkulazio"
+    ],
+    "cara": [
+      "alde"
+    ],
+    "partida": [
+      "abiaburu"
+    ],
+    "punto": [
+      "puntu"
+    ],
+    "vaporizado": [
+      "lurrundu"
+    ],
+    "tubo": [
+      "hodi"
+    ],
+    "levo": [
+      "goragune"
+    ],
+    "cabezal": [
+      "ardatz"
+    ],
+    "cadena": [
+      "kate"
+    ],
+    "movido": [
+      "mugitu"
+    ],
+    "cerrado": [
+      "itxi"
+    ],
+    "necesitar": [
+      "eskatu"
+    ],
+    "impulso": [
+      "bulkada"
+    ],
+    "alto": [
+      "handi"
+    ],
+    "décima": [
+      "hamar"
+    ],
+    "pérdida": [
+      "gale"
+    ],
+    "alguno": [
+      "bat"
+    ],
+    "calor": [
+      "bero"
+    ],
+    "estacionario": [
+      "geldikor"
+    ],
+    "avión": [
+      "hegazkin"
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "es": "La incorporación de la robótica industrial en las máquinas herramienta ha permitido la implementación de manipuladores robóticos (brazos robóticos; manipuladores programables) con grados de libertad (DOF; grados de movilidad) adecuados para operaciones de carga y descarga (alimentación automática; carga automatizada), paletización, ensamble automático y acabado superficial (rectificado; pulido robotizado).",
+    "eu": "Makina-erremintetan robotika industriala sartzeari esker, manipulatzaile robotikoak (beso robotikoak; manipulatzaile programagarriak) inplementatu ahal izan dira, karga- eta deskarga-eragiketetarako (elikatze automatikoa; karga automatizatua), paletizaziorako, mihiztadura automatikorako eta gainazaleko akaberarako (artezketa; leunketa robotizatua) askatasun-gradu (DOF; higikortasun-graduak) egokiekin."
+  },
+  {
+    "es": "Sin embargo, durante las décadas de 2000 y 2010, el software para la simulación de mecanizado ha madurado rápidamente, y ya no es raro que toda la envolvente de la máquina herramienta (incluidos todos los ejes, husillos, mandriles, torretas, portaherramientas, contrapuntos, accesorios, abrazaderas, y stock) para ser modelado con precisión con modelos sólidos 3D, lo que permite que el software de simulación prediga con bastante precisión si un ciclo implicará un choque.",
+    "eu": "Hala ere, 2000ko eta 2010eko hamarkadetan, mekanizazio-simulaziorako softwarea azkar garatu da, eta jada ez da ezohikoa makina-erreminta eta harekin lotutakoak (ardatz, torloju, mandril, dorre, erreminta-euskarri, kontrapuntu, osagarri, besarkagailu eta stock guztiak barne) doitasunez modelatzea 3D eredu solidoekin; eta, horri esker, simulazio-softwareak nahiko zehazki aurreikus dezake ziklo batean talkarik egongo den ala ez."
+  },
+  {
+    "es": "Previamente se han podido realizar operaciones de cilindrado, taladrado, roscado, fresado, brochado, etc.",
+    "eu": "Aurrez egin daitezke zilindraketa, zulaketa, hariztaketa, fresaketa- edo brotxaketa-eragiketak, besteak beste."
+  },
+  {
+    "es": "Cepilladora: de mayor tamaño que la limadora, tiene una mesa deslizante sobre la que se fija la pieza y que realiza el movimiento de corte deslizándose longitudinalmente, la cuchilla montada sobre un puente sobre la mesa se desplaza transversalmente en el movimiento de avance.",
+    "eu": "Arrabotatzeko makina: karrakatzeko makina baino handiagoa da, pieza finkatzeko mahai lerrakorra du, eta mahaiak luzetara lerratuz egiten du ebaketa-higidura; zubi baten gainean muntatutako hortza zeharka desplazatzen da aitzinamendu-higiduran."
+  },
+  {
+    "es": "Utiliza algoritmos de control óptimo, como el control LQR y el control predictivo, para ajustar parámetros como la velocidad de avance, la profundidad de corte y el ángulo de incidencia.",
+    "eu": "Kontrol optimoko algoritmoak erabiltzen ditu, hala nola LQR kontrola eta kontrol prediktiboa, zenbait parametro doitzeko, aitzinamendu-abiadura, ebaketa-sakonera eta eraso-angelua, esate baterako."
+  },
+  {
+    "es": "Carnero o carro: es la parte móvil de la máquina, desliza sobre guías horizontales con forma de cola de milano, situadas en la parte superior de la bancada y en cuya parte frontal hay una torreta provista de un portaherramientas en el que se fija la herramienta de corte.",
+    "eu": "Orga: makinaren zati mugikorra da, miru-buztan itxura duten gidari horizontalen gainean irristatzen dena; gidariak bankadaren goialdean daude, eta aurrealdean erreminta-euskarri bat duen dorre bat dago, eta han finkatzen da ebaketa-erreminta."
+  },
+  {
+    "es": "Ranurado, chavetero, segrinado (moleteado plano) y formas especiales.",
+    "eu": "Artekaketa, matadera, segrinaketa (moletaketa laua) eta forma bereziak."
+  },
+  {
+    "es": "Las mortajadoras se utilizan principalmente para mecanizar ranuras, pero también se emplean para contornear levas, placas, palancas, tallar engranajes, etc.",
+    "eu": "Mortasatzeko makinak artekak mekanizatzeko erabiltzen dira nagusiki, baina erabiltzen dira espekak, plakak edo palankak inguratzeko, engranajeak taillatzeko, etab. ere."
+  },
+  {
+    "es": "El regulador de lazo cerrado utiliza la realimentación para controlar los estados y las salidas de un sistema dinámico.",
+    "eu": "Begizta itxiko erregulagailuak atzeraelikadura erabiltzen du sistema dinamikoetako egoerak eta irteerak kontrolatzeko."
+  },
+  {
+    "es": "Cada actuador aún debe moverse dentro de su propio grado de libertad, como para un robot en serie; sin embargo en el robot paralelo la flexibilidad fuera del eje de una articulación también está limitada por el efecto de las otras cadenas.",
+    "eu": "Eragingailu bakoitzak bere askatasun-graduaren baitan mugitu behar du kasu honetan ere, serieko robotetan bezala; hala ere, robot paraleloetan, beste kateen efektuak ere mugatzen du artikulazio baten ardatzetik kanpoko malgutasuna."
+  },
+  {
+    "es": "Gracias a la implementación de inteligencia artificial (IA; machine learning; aprendizaje automático) y visión artificial (visión por computadora; inspección óptica automática), los robots autónomos pueden realizar tareas de metrología industrial, control dimensional (verificación de tolerancias; inspección geométrica) y mantenimiento predictivo (diagnóstico predictivo; mantenimiento basado en condición).",
+    "eu": "Adimen artifiziala (AA; machine learning; ikaskuntza automatikoa) eta ikuspen artifiziala (ordenagailu bidezko ikuspena; ikuskapen optiko automatikoa) inplementatzeari esker, robot autonomoek metrologia industrialeko, kontrol dimentsionaleko (perdoien egiaztapena; ikuskapen geometrikoa) eta mantentze prediktiboko (diagnostiko prediktiboa; baldintzan oinarritutako mantentzea) lanak egin ditzakete."
+  },
+  {
+    "es": "La velocidad de giro de cabezal portapiezas, el avance de los carros longitudinal y transversal y las cotas de ejecución de la pieza están programadas y, por tanto, exentas de fallos imputables al operario de la máquina.",
+    "eu": "Buru pieza-euskarriaren biraketa-abiadura, luzetarako eta zeharkako orgen aitzinamendua, eta piezaren exekuzio-kotak programatuta daude, eta, beraz, ez da egongo langileari egotz dakiokeen akatsik."
+  },
+  {
+    "es": "Robot articulado: Utilizado para operaciones de ensamblaje, fundición a presión, máquinas de desbarbado, soldadura a gas, soldadura por arco y pintado por spray.",
+    "eu": "Robot artikulatua: Lan hauetan erabiltzen da: mihiztatzeko eragiketak, presiozko galdaketa, bizar-kentzeko makinak, gasezko soldadura, arkuzko soldadura eta esprai bidezko pintaketa."
+  },
+  {
+    "es": "Este sistema ha revolucionado la industria debido al abaratamiento de microprocesadores y a la simplificación de la programación de las máquinas de CNC (control numérico por computadora).",
+    "eu": "Sistema horrek industria goitik behera aldatu du, mikroprozesadoreen merkatzeak eta CNC-makinen (ordenagailu bidezko zenbakizko kontrola) programazioa sinplifikatzeak eraginda."
+  },
+  {
+    "es": "En cambio, en un sistema de circuito cerrado, la máquina continuará intentando moverse contra la carga hasta que el motor de accionamiento entre en una condición de sobrecarga o un servomotor no logre llegar a la posición deseada",
+    "eu": "Zirkuitu itxiko sistemetan, berriz, makinak kargaren aurka mugitzen saiatzen jarraituko du, eragintza-motorra gainkarga-egoerara iritsi arte edo serbomotor batek desiratutako posiziora iristea lortzen ez duen arte."
+  },
+  {
+    "es": "Indistintamente de si hablamos de máquinas controladas por levas o CNC, podemos encontrarnos con tornos de cabezal móvil (el desplazamiento axial lo realiza el cabezal y cuentan con una luneta o cañón de guiado), de cabezal fijo (el desplazamiento axial lo realizan las herramientas) o multihusillos (cuentan con varios husillos, generalmente 6 u 8, que mecanizan varias piezas simultáneamente, dividiendo el tiempo de mecanizado).",
+    "eu": "Espekez nahiz CNCz kontrolatutako makinetan, aurki ditzakegu buru mugikorreko tornuak (desplazamendu axiala buruak egiten du, eta luneta edo gidatze-kanoi bat dute), buru finkokoak (desplazamendu axiala erremintek egiten dute) edo ardatz anitzekoak (pieza batzuk aldi berean mekanizatzen dituzten zenbait ardatz dituzte, normalean 6 edo 8, mekanizazio-denbora zatituz)."
+  },
+  {
+    "es": "Se llama escariado o alesado a un proceso de arranque de viruta o una operación de mecanizado que se realiza para conseguir un buen acabado superficial con ciertas tolerancias dimensionales, o bien simplemente para agrandar agujeros que han sido previamente taladrados con una broca a un diámetro un poco inferior.",
+    "eu": "Otxabuketa txirbil-harroketako edo mekanizazioko eragiketa bat da, gainazalaren akabera ona lortzeko egiten dena, dimentsio-perdoi jakin batzuekin, edo, besterik gabe, diametro txikiagoa duen broka batez aurrez zulatu diren zuloak handitzeko."
+  },
+  {
+    "es": "Se llama mandrilado a una operación de mecanizado que se realiza en agujeros de piezas ya realizados para obtener mayor precisión dimensional, mayor precisión geométrica o una menor rugosidad superficial, pudiéndose utilizar para agujeros cilíndricos como cónicos, así como para realizar roscas interiores.",
+    "eu": "Mandrinaketa esaten zaio mekanizazio-eragiketa bati: lehendik egindako zuloetan egiten da, dimentsio-doitasun handiagoa, zehaztasun geometriko handiagoa edo azaleko zimurtasun txikiagoa lortzeko, eta zulo zilindrikoetarako nahiz konikoetarako erabil daiteke, bai eta barruko hariak egiteko ere."
+  },
+  {
+    "es": "Un tipo especial de taladradora son las punteadoras que trabajan con pequeñas muelas de esmeril u otro material.",
+    "eu": "Zulatzeko makina berezi batzuk punteatzeko makinak dira, esmerilezko edo bestelako materialezko harri txikiak darabiltzatenak."
+  },
+  {
+    "es": "Electroerosión, las máquinas de electroerosión desgastan el material mediante chispas eléctricas que van fundiendo partes minúsculas del mismo.",
+    "eu": "Elektrohigadura. Elektrohigadura-makinek materiala higatzen dute, txinparta elektrikoen bidez higatzen dute, haren zati txikiak urtuz."
+  },
+  {
+    "es": "Controlabilidad y observabilidad",
+    "eu": "Kontrolagarritasuna eta behagarritasuna"
+  },
+  {
+    "es": "Control proporcional integral derivativo (PID)",
+    "eu": "Kontrol proportzional integral deribatiboa (PID)"
+  },
+  {
+    "es": "Un robot de coordenadas cartesianas (también llamado robot cartesiano) es un robot industrial cuyos tres ejes principales de control son lineales (se mueven en línea recta en lugar de rotar) y forman ángulos rectos unos respecto de los otros.",
+    "eu": "Koordenatu kartesiarreko robota (robot kartesiarra ere esaten zaio) robot industrial bat da; haren hiru kontrol-ardatz nagusiak linealak dira (lerro zuzenean higitzen dira biratu beharrean) eta angelu zuzenak osatzen dituzte elkarrekiko."
+  },
+  {
+    "es": "Ejemplos de servomecanismos son el servofreno o la dirección asistida de un automóvil, así como mecanismos con regulación automática como un brazo de un robot de soldadura en una cadena de montaje.",
+    "eu": "Serbomekanismoen adibideak dira automobil baten serbofrenoa edo direkzio lagundua, bai eta erregulazio automatikoko mekanismoak ere, muntaketa-kate bateko soldadura-robot baten besoaren modukoak."
+  },
+  {
+    "es": "Se define como velocidad de corte la velocidad tangencial de la periferia de la broca u otra herramienta que se utilice en el taladro (Escariador, macho de roscar, etc).",
+    "eu": "Ebaketa-abiadura esaten zaio zulagailuan erabiltzen den barautsaren edo beste erreminta baten (otxabua, hariztatzeko ardatza, etab.) kanpoaldeko abiadura tangentzialari."
+  },
+  {
+    "es": "La velocidad de rotación del husillo portabrocas se expresa habitualmente en revoluciones por minuto (rpm).",
+    "eu": "Torloju barauts-etxearen biraketa-abiadura minutuko biratan (rpm) adierazi ohi da."
+  },
+  {
+    "es": "El afilado se puede realizar en una amoladora que tenga la piedra con grano fino pero la calidad de este afilado manual suele ser muy deficiente porque hay que ser bastante experto para conseguir los ángulos de corte adecuados.",
+    "eu": "Ale fineko harria duen disko-makina batean zorroztu daitezke, baina eskuzko zorrozketa horrek oso kalitate eskasa izan ohi du, aditu samarra izan behar baita ebaketa-angelu egokiak lortzeko."
+  },
+  {
+    "es": "Automática y Robótica en la Máquina Herramienta: Innovaciones y Aplicaciones",
+    "eu": "Automatika eta robotika makina-erremintan: berrikuntzak eta aplikazioak"
+  },
+  {
+    "es": "Este texto explora los aspectos clave de estas disciplinas, utilizando una terminología especializada que abarca desde el control automático hasta la robótica industrial, pasando por el análisis de sistemas y la cinemática de robots.",
+    "eu": "Testu honek diziplina horien funtsezko alderdiak aztertzen ditu, terminologia espezializatua erabiliz, kontrol automatikoa, robotika industriala, sistemen analisia eta roboten zinematika, besteak beste."
+  },
+  {
+    "es": "Estos algoritmos se implementan mediante controladores robustos y sistemas de múltiples bucles, que garantizan la estabilidad estructural y la robustez del sistema frente a perturbaciones externas.",
+    "eu": "Algoritmo horiek kontrolagailu sendoen eta begizta ugariko sistemen bidez ezartzen dira; hala, sistemaren egitura-egonkortasuna eta sendotasuna bermatzen dituzte kanpoko perturbazioen aurrean."
+  },
+  {
+    "es": "Los captadores extereoceptivos, como los codificadores ópticos y los sensores ultrasónicos, proporcionan datos precisos sobre la posición y el movimiento de las herramientas, permitiendo un control cinemático preciso.",
+    "eu": "Kanpo-kaptadoreek, hala nola kodetzaile optikoek eta sentsore ultrasonikoek, erreminten posizioari eta mugimenduari buruzko datu zehatzak ematen dituzte, eta, horrela, kontrol zinematiko zehatza ahalbidetzen dute."
+  },
+  {
+    "es": "La cinemática directa y la cinemática inversa son fundamentales para el control de estos robots.",
+    "eu": "Zinematika zuzena eta alderantzizko zinematika funtsezkoak dira robot horiek kontrolatzeko."
+  },
+  {
+    "es": "El avance con el que se trabaje y la profundidad de pasada, son bastante responsables de la forma de viruta, y cuando no se puede controlar con estas variables hay que recurrir a elegir la herramienta que lleve incorporado un rompevirutas eficaz.",
+    "eu": "Lan-aitzinamenduak eta ebaketa-sakonerak ere ardura edo eragin handia dute txirbilaren forman, eta, aldagai horiekin kontrolatu ezin denean, txirbil-hausle eraginkor bat duen erreminta aukeratu behar da."
+  },
+  {
+    "es": "Entendiendo que la operación de troquelado se realiza a los 180° del viaje (carrera) del ariete, una vez realizada está, el punzón comienza a subir pero existe un problema: la elasticidad del material (véase Resistencia de materiales), que al contraerse 'abraza' al punzón y, por lo tanto, tiende a subir junto con él; esto lógicamente debe evitarse, para ello entran en juego los extractores de la cinta metálica (planchador o expulsores o puentes) que separan el material del punzón al mismo tiempo que lo sujetan contra la matriz en el momento en que se realiza la operación de troquelado.",
+    "eu": "Trokelatze-eragiketa ahariaren ibiltartearen 180 °-tan egiten dela ulertuta, behin hori egin ondoren, puntzoia igotzen hasten da, baina arazo bat dago: materialaren elastikotasuna (ikus 'Materialen erresistentzia' atala). Izan ere, uzkurtzean, puntzoia inguratzen du, eta, beraz, harekin batera igotzen da; jakina, ahal dela, hori saihestu egin behar da, eta, horretarako, zinta metalikoaren erauzgailuak sartzen dira jokoan (zanpatzailea, egozkailua eta zubia). Hau da, horiek materiala bereizten dute puntzoitik, eta, aldi berean, matrizearen kontra eusten dute, trokelaketa-eragiketa egiten den unean."
+  },
+  {
+    "es": "Es un robot cuyo brazo tiene tres articulaciones prismáticas, cuyos ejes son coincidentes con los ejes cartesianos.",
+    "eu": "Robot horren besoak hiru artikulazio prismatiko ditu, eta haien ardatzak bat dator ardatz kartesiarrekin."
+  },
+  {
+    "es": "Robot SCARA: Usado para trabajos de 'pick and place' (tomar y colocar), aplicación de impermeabilizantes, operaciones de ensamblado y manipulación de máquinas y herramientas.",
+    "eu": "SCARA robota: Lan hauetan erabiltzen da: 'pick and place' (hartu eta kokatu), iragazgaiztekoen aplikazioa, mihiztatzeko eragiketak, eta makina eta erreminten manipulazioa."
+  },
+  {
+    "es": "Broca larga: Se utiliza para taladrar los interiores de piezas o equipos.",
+    "eu": "Barauts luzea: Piezen edo ekipoen barrualdeak zulatzeko erabiltzen da."
+  },
+  {
+    "es": "Brochadora",
+    "eu": "Brotxatzeko makina"
+  },
+  {
+    "es": "El trabajo se sujeta sobre la mesa ajustable, si su tamaño y forma lo permiten; esto se hace en el tornillo de mordaza que a su vez se encuentra fijo a la mesa.",
+    "eu": "Pieza landugabea mahai doigarriaren gainean eusten da, tamainak eta formak horretarako aukera ematen badute; barailadun tornuzilaren bidez eusten da, eta, torloju hori, era berean, mahaira finkatuta egoten da."
+  },
+  {
+    "es": "Se han hecho cambios y diseños mejorados en la construcción de los cepillos no solamente en la máquina, sino también en los mecanismos que se usan para entregar un suministro de lubricante, adecuado en todo momento, a las partes que más probablemente se ven afectadas por desgaste.",
+    "eu": "Arraboten eraikuntzan aldaketak eta diseinu-hobekuntzak egin dira, baita makina lubrifikatzailez hornitzeko erabiltzen diren mekanismoetan ere; izan ere, higatzeko aukera gehien duten ataletan lubrifikatzea izatea beti da onuragarria."
+  },
+  {
+    "es": "Este recipiente, independientemente del lugar donde se encuentre localizado, se encuentra equipado generalmente de un divisor para mostrar el nivel de aceite por el interior.",
+    "eu": "Ontzi hori, edozein lekutan egonda ere, zatigailu batez hornituta egon ohi da, eta olio-maila erakusten du barrutik."
+  },
+  {
+    "es": "Achaflanado",
+    "eu": "Alakaketa"
+  },
+  {
+    "es": "Representación esquemática (izquierda) y simbólica (derecha) de una soldadura a tope con preparación de bordes en V.",
+    "eu": "Topekako soldadura baten adierazpen eskematikoa (ezkerrean) eta sinbolikoa (eskuinean), ertzak V forman prestatuta."
+  },
+  {
+    "es": "(El sentido de giro del usillo es visto por detrás de la máquina, no de nuestro punto de vista como en los tornos convencionales).",
+    "eu": "(Torlojuaren biraketa-noranzkoa makinaren atzealdetik ikusitakoa da; tornu konbentzionaletan ez bezala, ez da gure ikuspuntutik ikusitakoa)."
+  },
+  {
+    "es": "De accionadores sirven servomandos y motores paso a paso.",
+    "eu": "Eragingailu gisa, serboaginteak eta urratsez urratseko motorrak erabiltzen dira."
+  },
+  {
+    "es": "A menudo se supone que el motor paso a paso es perfectamente preciso y nunca da pasos en falso, por lo que el monitoreo de la posición de la herramienta simplemente implica contar la cantidad de pulsos enviados al motor paso a paso a lo largo del tiempo.",
+    "eu": "Askotan, urratsez urratseko motorra guztiz zehatza dela pentsatzen da, eta inoiz ez duela okerreko urratsik egiten; beraz, erremintaren posizioa monitorizatzeko, urratsez urratseko motorrera denboran zehar bidalitako pultsu-kopurua zenbatu besterik ez da egiten."
+  },
+  {
+    "es": "La fabricación asistida por computadora (en Hispanoamérica) o fabricación asistida por ordenador (en España), también conocida por las siglas en inglés CAM (computer-aided manufacturing), implica además el uso de distintos programas en los que se incluyen calendarización, administración y control de calidad.",
+    "eu": "Ordenagailuz lagundutako fabrikazioak, ingelesezko CAM siglen bidez ere ezagunak (computer-aided manufacturing), hainbat programa erabiltzea dakar, besteak beste, kalendarizazioa, administrazioa eta kalitate-kontrola."
+  },
+  {
+    "es": "Lapeado",
+    "eu": "Lapeaketa"
+  },
+  {
+    "es": "Si la pieza es un sólido de revolución pequeño con un agujero en su eje de simetría, el mandrinado puede realizarse en un torno, haciendo girar la pieza en el plato giratorio y fijando una barra de mandrinar con el filo adecuado en el contrapunto del torno.",
+    "eu": "Pieza biraketa-solido txikia bada eta zulo bat badu simetria-ardatzean, mandrinaketa tornu batean egin daiteke, pieza plater birakarian biratuz eta aho egokiko mandrinatzeko barra bat finkatuz tornuaren kontrapuntuan."
+  },
+  {
+    "es": "Pulidora de Superficies Planas",
+    "eu": "Gainazal lauak leuntzeko makina"
+  },
+  {
+    "es": "A principios del siglo XVI Leonardo da Vinci tenía diseñadas tres máquinas fundamentales para el acuñado de monedas: la laminadora, la recortadora y la prensa de balancín.",
+    "eu": "XVI. mendearen hasierarako, Leonardo da Vincik txanponak egiteko oinarrizko hiru makina diseinatu zituen: ijezteko makina, muxarratzeko makina eta balantzin-prentsa."
+  },
+  {
+    "es": "En 1650, el matemático francés Blaise Pascal, enunció el principio de la prensa hidráulica, pero no se utilizaría para aplicaciones industriales hasta 1770, año en el que Bramach patentaba en Londres una prensa hidráulica.",
+    "eu": "1650ean, Blaise Pascal matematikari frantsesak prentsa hidraulikoaren printzipioa aurkeztu zuen, baina ez zen aplikazio industrialetarako erabili 1770era arte. Urte hartan, Bramah asmatzaileak prentsa hidrauliko bat patentatu zuen Londresen."
+  },
+  {
+    "es": "Los fabricantes de relojes de los siglos XVII y XVIII ya utilizaban tornos y roscadoras que les permitían obtener muy buenas precisiones.",
+    "eu": "XVII. eta XVIII. mendeetako erlojugileek jada tornuak eta hariztatzeko makinak erabiltzen zituzten, zehaztasun handia lortzeko aukera ematen baitzieten."
+  },
+  {
+    "es": "En 1854 se introdujo las torretas revólver en los tornos naciendo así el torno revólver que posibilita la realización de diferentes operaciones con un solo amarre de la pieza.",
+    "eu": "1854an, tornuetan dorre birakariak erabiltzen hasi ziren, eta, horrela, tornu birakaria sortu zen; tornu horrek aukera eman zuen piezari lotune bakarretik eutsita eragiketak egiteko."
+  },
+  {
+    "es": "Muela abrasiva.",
+    "eu": "Harri urratzailea."
+  },
+  {
+    "es": "Mecanizado por arranque de viruta",
+    "eu": "Txirbil-harroketa bidezko mekanizazioa"
+  },
+  {
+    "es": "Torno multi-tarea: Esta máquina permite el mecanizado en múltiples ejes integrando, tanto operaciones de torneado (cilindrado, refrentado, taladrado, ...) y operaciones de fresado.",
+    "eu": "Ataza anitzeko tornua: Makina honek mekanizazioa hainbat ardatzetan egiteko aukera ematen du, torneaketa-eragiketak (zilindraketa, aurpegi-lanketa, zulaketa, etab.) eta fresaketa-eragiketak integratuz."
+  },
+  {
+    "es": "C = C h ∗ t n p + C h ∗ t o p + (C f + C h ∗ t r f) ∗ (t m T) donde Ch es el coste horario, incluyendo el coste de la mano de obra directa, amortización de instalaciones, mantenimiento, etc; tnp es el tiempo no productivo, que incluye los tiempos de preparación de la máquina (tiempo de fase); top es el tiempo de operación, Cf es el coste de los filos de corte, que es el coste de las plaquitas en caso de utilizar plaquitas intercambiables, o el coste de toda la herramienta en el caso de herramientas enterizas; trf es el tiempo de reposición de los filos de corte; tm es el tiempo de maquinado, es decir, el tiempo durante el cual la herramienta está cortando; y T es la duración o tiempo de vida de la herramienta.",
+    "eu": "C = C h ∗ t n p + C h ∗ t o p + (C f + C h ∗ t r f) ∗ (t m T) non Ch den ordu-kostua, barnean hartuz zuzeneko eskulanaren kostua, instalazioen amortizazioarena, mantentzearena, etab.; tnp den denbora ez-produktiboa, makina prestatzeko denbora barnean hartzen duena (fase-denbora); top den eragiketa-denbora; Cf den ebaketa-ahoen kostua, hau da, plaken kostua, plaka trukagarriak erabiliz gero, edo tresna osoaren kostua, osoko erreminten kasuan; trf den ebaketa-ahoak birjartzeko denbora; tm den mekanizazio-denbora, hau da, erreminta ebakitzen ari den denbora; eta T den erremintaren iraupena edo bizi-denbora."
+  },
+  {
+    "es": "Estos efectos se suelen representar mediante las funciones matemáticas que los describen, llamadas funciones de transferencia.",
+    "eu": "Efektu horiek funtzio matematiko deskribatzaileen bidez adierazten dira, transferentzia-funtzioen bidez, hain zuzen."
+  },
+  {
+    "es": "Son sistemas de control en los que el valor actual de la variable no tiene efectos sobre la acción de control.",
+    "eu": "Kontrol-sistema horietan, aldagaiaren egungo balioak ez du eraginik kontrol-ekintzan."
+  },
+  {
+    "es": "Control todo-nada",
+    "eu": "Dena-ezer ez kontrola"
+  },
+  {
+    "es": "El elemento final del control se mueve automáticamente entre una y otra de dos posiciones fijas, para un valor único de la variable controlada",
+    "eu": "Kontrolaren amaierako elementua automatikoki mugitzen da bi posizio finkoren artean, aldagai kontrolatuaren balio bakarrerako."
+  },
+  {
+    "es": "Del tiempo muerto entre la apertura de la válvula y el comienzo del aumento de temperatura del radiador.",
+    "eu": "Balbula irekitzen denetik erradiadorearen tenperatura igotzen hasi bitarteko alfer-denbora."
+  },
+  {
+    "es": "Esta operación de corrección de la consigna permitiendo previamente la estabilización del sistema, es lo que hace el regulador integral.",
+    "eu": "Agindua zuzentzeko eragiketa horrek aldez aurretik sistema egonkortzea ahalbidetzen du, eta horixe da, hain zuzen, erregulagailu integralak egiten duena."
+  },
+  {
+    "es": "Cibernética",
+    "eu": "Zibernetika"
+  },
+  {
+    "es": "Remachadora",
+    "eu": "Errematxatzeko makina"
+  },
+  {
+    "es": "Primeros autómatas humanoides creados, banda de autómata programable.",
+    "eu": "Sortutako lehen automata humanoideak, automata programagarrien multzoa."
+  },
+  {
+    "es": "Son necesarias leyes específicas que regulen la fabricación, operación y uso de robots, especialmente en áreas críticas como la cirugía robótica o los vehículos autónomos.",
+    "eu": "Roboten fabrikazioa, eragiketa eta erabilera arautzeko lege espezifikoak behar dira, zenbait arlo kritikotan bereziki, kirurgia robotikoaren arloan edo ibilgailu autonomoen arloan, adibidez."
+  },
+  {
+    "es": "Granete",
+    "eu": "Granetea"
+  },
+  {
+    "es": "Con las brocas modernas las velocidades de perforación son muy elevadas pero esto solo ha sido posible gracias a la evacuación eficaz de la viruta mediante el fluido de corte.",
+    "eu": "Barauts modernoekin, oso abiadura handietan zulatzen da, baina horretarako aukera bakarra izan da txirbila modu eraginkorrean kanporatzea ebaketa-likidoaren bidez."
+  },
+  {
+    "es": "Los sistemas de control adaptativo (control adaptativo; regulación adaptativa) permiten ajustar la operación en tiempo real mediante la interacción de sensores inteligentes (sensores avanzados; sensores de precisión) y actuadores electromecánicos (accionadores electromecánicos; actuadores avanzados).",
+    "eu": "Kontrol moldagarriko sistemek (kontrol moldagarria; erregulagailu moldagarria) eragiketa denbora errealean doitzeko aukera ematen dute, sentsore adimendunen (sentsore aurreratuak; doitasun-sentsoreak) eta eragingailu elektromekanikoen (eragile elektromekanikoak; eragingailu aurreratuak) arteko interakzioaren bidez."
+  },
+  {
+    "es": "Torno vertical",
+    "eu": "Tornu bertikala"
+  },
+  {
+    "es": "Soporte fijo o luneta fija: soporta el extremo extendido de la pieza de trabajo cuando no puede usarse la contrapunta.",
+    "eu": "Euskarri finkoa edo luneta finkoa: landu beharreko piezaren mutur hedatuari eusten dio, kontrapuntua erabili ezin denean."
+  },
+  {
+    "es": "recorrido del avance automático (carro longitudinal) ",
+    "eu": "Aitzinamendu automatikoaren ibiltartea (luzetarako orga) "
+  },
+  {
+    "es": "La caja conecta el movimiento del cabezal del torno con el carro portaherramientas que lleva incorporado un husillo de rosca cuadrada.",
+    "eu": "Kaxari esker, tornuaren buruaren mugimendua orga erreminta-euskarriarekin lotzen da; azken horrek, hain zuzen ere, hari karratuko torloju bat darama."
+  },
+  {
+    "es": "El moleteado es un proceso de conformado en frío del material mediante unas moletas que presionan la pieza mientras da vueltas.",
+    "eu": "Moletaketa materiala hotzean konformatzeko prozesu bat da; hain zuzen ere, moleten bidez egiten da, piezari presio egiten baitiote hura biratzen ari den bitartean."
+  },
+  {
+    "es": "Torneado esférico",
+    "eu": "Torneaketa esferikoa"
+  },
+  {
+    "es": "Se realiza con un reloj comparador y haciendo girar el plato a mano, se verifica la concentricidad del cabezal y si falla se ajusta y corrige adecuadamente.",
+    "eu": "Erloju konparadore batekin egiten da, eta platera eskuz biraraziz, buruaren zentrokidetasuna egiaztatzen da; hala, huts egiten badu, behar bezala doitzen eta zuzentzen da."
+  },
+  {
+    "es": "Estas prensas se emplean en operaciones de corte, estampación, doblado y embuticiones pequeñas; no son adecuadas para embuticiones profundas al aplicar la fuerza de forma rápida y no constante.",
+    "eu": "Prentsa hauek ebakitzeko, estanpatzeko, tolesteko eta enbutizio txikiak egiteko erabiltzen dira; ez dira egokiak enbutizio sakonetarako, indarra bizkor eta modu ez-konstantean aplikatzen baita."
+  },
+  {
+    "es": "De acuerdo al trabajo que se tenga que realizar así son diseñadas y construidas las troqueladoras.",
+    "eu": "Egin beharreko lanaren arabera diseinatzen eta eraikitzen dira trokelatzeko makinak."
+  }
+]

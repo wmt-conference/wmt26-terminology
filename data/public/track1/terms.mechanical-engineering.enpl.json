@@ -1,0 +1,3770 @@
+{
+  "proper": {
+    "acceleration": [
+      "przyśpieszenie"
+    ],
+    "accelerator": [
+      "pedał gazu"
+    ],
+    "actual mass of the vehicle": [
+      "masa rzeczywista"
+    ],
+    "acustic vehicle alerting system": [
+      "dźwiękowy system ostrzegania o pojaździe"
+    ],
+    "adaptive cruise control": [
+      "tempomat adaptacyjny"
+    ],
+    "aerial": [
+      "antena"
+    ],
+    "air conditioning fumigation": [
+      "odgrzybianie klimatyzacji"
+    ],
+    "air dam": [
+      "przedni spoiler"
+    ],
+    "air-fuel gauge": [
+      "sonda lambda"
+    ],
+    "air-fuel meter": [
+      "sonda lambda"
+    ],
+    "air-fuel mixture": [
+      "mieszanka paliwowo-powietrzna"
+    ],
+    "air-fuel ratio": [
+      "mieszanka paliwowo-powietrzna"
+    ],
+    "air-fuel ratio gauge": [
+      "sonda lambda"
+    ],
+    "air-fuel ratio meter": [
+      "sonda lambda"
+    ],
+    "alloy rim": [
+      "felga aluminiowa"
+    ],
+    "alloy wheel": [
+      "koło stopowe"
+    ],
+    "alternative fuel": [
+      "paliwo alternatywne"
+    ],
+    "anti-trap protection": [
+      "system anti-trap"
+    ],
+    "aquaplane": [
+      "akwaplanacja"
+    ],
+    "ARF sensor": [
+      "sonda lambda"
+    ],
+    "asymmetrical tire": [
+      "opona asymetryczna"
+    ],
+    "autonomous emergency braking": [
+      "system AEB"
+    ],
+    "beeswax": [
+      "wosk pszczeli"
+    ],
+    "bench": [
+      "kanapa"
+    ],
+    "biodiesel": [
+      "biodiesel"
+    ],
+    "biofuel": [
+      "biopaliwo"
+    ],
+    "bitumen": [
+      "bitum"
+    ],
+    "body": [
+      "nadwozie"
+    ],
+    "bodywork": [
+      "karoseria"
+    ],
+    "bonnet": [
+      "maska"
+    ],
+    "boot lid": [
+      "klapa bagażnika"
+    ],
+    "breather pipe": [
+      "odpowietrznik skrzyni biegów"
+    ],
+    "bucket seat": [
+      "fotel kubełkowy"
+    ],
+    "bulkhead": [
+      "przegroda czołowa"
+    ],
+    "bumper": [
+      "zderzak"
+    ],
+    "bypass valve": [
+      "zawór upustowy"
+    ],
+    "cabin filter": [
+      "filtr kabinowy"
+    ],
+    "cabriolet": [
+      "kabriolet"
+    ],
+    "carnauba wax": [
+      "wosk carnauba"
+    ],
+    "center console": [
+      "konsola środkowa"
+    ],
+    "center pillar post": [
+      "słupek środkowy"
+    ],
+    "chassis": [
+      "podwozie"
+    ],
+    "city car": [
+      "samochód miejski"
+    ],
+    "clay bar": [
+      "glina polerska"
+    ],
+    "clean vehicle": [
+      "samochód ekologiczny"
+    ],
+    "climate control panel": [
+      "panel sterowania układem klimatyzacji"
+    ],
+    "close-ratio transmission": [
+      "skrzynia o małym przełożeniu"
+    ],
+    "clutch": [
+      "sprzęgło"
+    ],
+    "clutch cover": [
+      "docisk sprzęgła"
+    ],
+    "clutch disc": [
+      "tarcza sprzęgła"
+    ],
+    "clutch floater": [
+      "tarcza zbierakowa"
+    ],
+    "clutch fork": [
+      "widełki rozłączające"
+    ],
+    "clutch master cylinder": [
+      "pompa sprzęgła"
+    ],
+    "clutch pedal": [
+      "pedał sprzęgła"
+    ],
+    "clutch pipe": [
+      "przewód sprzęgła"
+    ],
+    "clutch slave cylinder": [
+      "wysprzęglik"
+    ],
+    "coachwork": [
+      "karoseria"
+    ],
+    "common rail system": [
+      "system CR"
+    ],
+    "compass": [
+      "kompas"
+    ],
+    "congestion assist": [
+      "system wspomagający jazdę w korku"
+    ],
+    "convertible": [
+      "kabriolet"
+    ],
+    "coolant": [
+      "płyn chłodniczy"
+    ],
+    "coolant jacket": [
+      "płaszcz wodny"
+    ],
+    "coolant pump": [
+      "pompa cieczy chłodzącej"
+    ],
+    "coolant thermostat": [
+      "termostat układu chłodzenia"
+    ],
+    "cooler": [
+      "chłodnica"
+    ],
+    "cooler fan": [
+      "wentylator chłodnicy"
+    ],
+    "cooler hose": [
+      "przewód cieczy chłodzącej"
+    ],
+    "corrosion": [
+      "korozja"
+    ],
+    "crash attenuator": [
+      "tłumik kolizyjny"
+    ],
+    "crash gearbox": [
+      "niezsynchronizowana skrzynia biegów"
+    ],
+    "crash zone": [
+      "strefa kontrolowanego zgniotu"
+    ],
+    "crocodile clip": [
+      "zacisk krokodylek"
+    ],
+    "crocodile clip/alligator clip": [
+      "zacisk krokodylek"
+    ],
+    "cruise control system": [
+      "tempomat"
+    ],
+    "crumple zone": [
+      "strefa kontrolowanego zgniotu"
+    ],
+    "crush zone": [
+      "strefa zgniotu"
+    ],
+    "curb weight": [
+      "masa własna"
+    ],
+    "cylinder bore": [
+      "średnica cylindra"
+    ],
+    "dashboard": [
+      "deska rozdzielcza"
+    ],
+    "detailer": [
+      "detailer"
+    ],
+    "diaphragm spring": [
+      "sprężyna talerzowa"
+    ],
+    "diesel direct injection engine": [
+      "silnik diesla z bezpośrednim wtryskiem"
+    ],
+    "dipstick": [
+      "miarka oleju"
+    ],
+    "direct fuel injection": [
+      "bezpośredni wtrysk paliwa"
+    ],
+    "direct shift gearbox": [
+      "dwusprzęgłowa skrzynia biegów"
+    ],
+    "directional tire": [
+      "opona kierunkowa"
+    ],
+    "door checker": [
+      "ogranicznik drzwi"
+    ],
+    "door lock detection sensor": [
+      "czujnik zamknięcia drzwi"
+    ],
+    "double-clutch": [
+      "podwójne wysprzęglanie"
+    ],
+    "downshift": [
+      "redukcja biegu"
+    ],
+    "dry weight": [
+      "sucha masa"
+    ],
+    "dual-clutch transmission": [
+      "skrzynia dwusprzęgłowa"
+    ],
+    "dual-mass flywheel": [
+      "koło dwumasowe"
+    ],
+    "dual-plate clutch": [
+      "sprzęgło dwustopniowe"
+    ],
+    "dynamic stability control": [
+      "system DSC"
+    ],
+    "dynamometer": [
+      "hamownia"
+    ],
+    "eCall": [
+      "system eCall"
+    ],
+    "ECM": [
+      "sterownik silnika"
+    ],
+    "eco-friendly vehicle": [
+      "samochód ekologiczny"
+    ],
+    "ECU": [
+      "sterownik silnika"
+    ],
+    "electronic clutch control": [
+      "e-sprzęgło"
+    ],
+    "electronic stability control": [
+      "elektroniczny układ stabilizacji toru jazdy"
+    ],
+    "electronic stability program": [
+      "system ESP"
+    ],
+    "engine control module": [
+      "sterownik silnika"
+    ],
+    "engine control unit": [
+      "sterownik silnika"
+    ],
+    "engine splash shield": [
+      "dolna osłona silnika"
+    ],
+    "environmentally friendly vehicle": [
+      "samochód ekologiczny"
+    ],
+    "ethanol fuel": [
+      "paliwo etanolowe"
+    ],
+    "expansion tank": [
+      "zbiornik wyrównawczy"
+    ],
+    "facelift": [
+      "lifitng"
+    ],
+    "fender": [
+      "błotnik"
+    ],
+    "fender flare": [
+      "poszerzenie nadkola"
+    ],
+    "fire extinguisher": [
+      "gaśnica"
+    ],
+    "firewall": [
+      "przegroda czołowa"
+    ],
+    "first aid kit": [
+      "apteczka pierwszej pomocy"
+    ],
+    "flex shaft": [
+      "wał giętki"
+    ],
+    "flexible shaft": [
+      "wał giętki"
+    ],
+    "float": [
+      "pływak"
+    ],
+    "floor mat": [
+      "dywan"
+    ],
+    "folding seat": [
+      "fotel składany"
+    ],
+    "footwell": [
+      "przestrzeń na nogi"
+    ],
+    "front body hinge pillar": [
+      "słupek przedni"
+    ],
+    "front luggage compartment volume": [
+      "pojemność bagażnika z przodu"
+    ],
+    "front splitter": [
+      "spoiler zderzaka przedniego"
+    ],
+    "front window": [
+      "szyba przednia"
+    ],
+    "front windshield": [
+      "szyba przednia"
+    ],
+    "front wing": [
+      "przednie skrzydło"
+    ],
+    "fuel canister": [
+      "kanister na paliwo"
+    ],
+    "fuel consumption": [
+      "zużycie paliwa"
+    ],
+    "fuel economy": [
+      "oszczędność paliwa"
+    ],
+    "fuel filler flap": [
+      "klapka wlewu paliwa"
+    ],
+    "fuel filler neck": [
+      "rura wlewu paliwa"
+    ],
+    "fuel filter": [
+      "filtr paliwa"
+    ],
+    "fuel gauge": [
+      "wskaźnik paliwa"
+    ],
+    "fuel injector": [
+      "wtryskiwacz paliwa"
+    ],
+    "fuel inlet strainer": [
+      "filtr paliwa"
+    ],
+    "fuel intake strainer": [
+      "filtr paliwa"
+    ],
+    "fuel level sender": [
+      "potencjometr poziomu paliwa"
+    ],
+    "fuel line": [
+      "przewód paliwowy"
+    ],
+    "fuel pump": [
+      "pompa paliwowa"
+    ],
+    "fuel stratified injection": [
+      "bezpośredni wtrysk paliwa"
+    ],
+    "fuel tank": [
+      "zbiornik paliwa"
+    ],
+    "fuel tank door flap": [
+      "klapka wlewu paliwa"
+    ],
+    "fulcrum pin": [
+      "trzpień prowadzący"
+    ],
+    "gas pedal": [
+      "pedał gazu"
+    ],
+    "gas tank": [
+      "zbiornik paliwa"
+    ],
+    "gasoline direct injection engine": [
+      "silnik benzynowy z bezpośrednim wtryskiem"
+    ],
+    "gasoline engine": [
+      "silnik o zapłonie iskrowym"
+    ],
+    "gear lever": [
+      "dźwignia zmiany biegów"
+    ],
+    "gear pump": [
+      "pompa zębata"
+    ],
+    "gear selector": [
+      "przełącznik zmiany biegów"
+    ],
+    "gear selectror": [
+      "przełącznik zmiany biegów"
+    ],
+    "gear shift": [
+      "dźwignia zmiany biegów"
+    ],
+    "gear shift knob": [
+      "gałka zmiany biegów"
+    ],
+    "gear stick": [
+      "dźwignia zmiany biegów"
+    ],
+    "gearbox": [
+      "skrzynia biegów"
+    ],
+    "glove box": [
+      "schowek"
+    ],
+    "glove compartment": [
+      "schowek"
+    ],
+    "GPS": [
+      "nawigacja"
+    ],
+    "green vehicle": [
+      "samochód ekologiczny"
+    ],
+    "grit": [
+      "piasek"
+    ],
+    "gross vehicle mass": [
+      "dopuszczalna masa całkowita"
+    ],
+    "gross vehicle weight rating": [
+      "dopuszczalna masa całkowita"
+    ],
+    "GVM": [
+      "DMC"
+    ],
+    "GVWR": [
+      "DMC"
+    ],
+    "hardtop": [
+      "hardtop"
+    ],
+    "head-on collision": [
+      "zderzenie czołowe"
+    ],
+    "head-up display": [
+      "wyświetlacz HUD"
+    ],
+    "header bar": [
+      "przednie wzmocnienie dachu"
+    ],
+    "heated seat": [
+      "podgrzewany fotel"
+    ],
+    "high-visibility vest": [
+      "kamizelka odblaskowa"
+    ],
+    "hinge": [
+      "zawias"
+    ],
+    "hood": [
+      "maska"
+    ],
+    "horn": [
+      "klakson"
+    ],
+    "hot wax": [
+      "gorący wosk"
+    ],
+    "hot-film MAF sensor": [
+      "czujnik MAF typu hot-film"
+    ],
+    "hot-wire MAF sensor": [
+      "czujnik MAF typu hot-wire"
+    ],
+    "hydraulic clutch actuator": [
+      "siłownik hydrauliczny sprzęgła"
+    ],
+    "hydroplane": [
+      "akwaplanacja"
+    ],
+    "ice shield/frost cover": [
+      "osłona na szybę"
+    ],
+    "idiot light": [
+      "kontrolka"
+    ],
+    "impact attenuator": [
+      "tłumik kolizyjny"
+    ],
+    "indicator light": [
+      "kontrolka"
+    ],
+    "indirect injection diesel engine": [
+      "silnik diesla z pośrednim wtryskiem"
+    ],
+    "infotainment system": [
+      "pokładowy system informacyjno-rozrywkowy"
+    ],
+    "injection pump": [
+      "pompa wtryskowa"
+    ],
+    "inline fuel filter": [
+      "przepływowy filtr paliwa"
+    ],
+    "instrument cluster": [
+      "tablica wskaźników"
+    ],
+    "instrument dial": [
+      "tarcza wskaźnika"
+    ],
+    "instrumental dial": [
+      "tarcza wskaźnika"
+    ],
+    "jump start": [
+      "uruchomienie silnika z zewnętrznego akumulatora"
+    ],
+    "jumper cable": [
+      "kabel rozruchowy"
+    ],
+    "jumper cable/booster cable/jumper lead": [
+      "kabel rozruchowy"
+    ],
+    "kei car": [
+      "samochód typu kei"
+    ],
+    "kerb weight": [
+      "masa własna"
+    ],
+    "ladder frame": [
+      "rama kratownicowa"
+    ],
+    "lambda sensor": [
+      "sonda lambda"
+    ],
+    "lane departure warning system": [
+      "asystent utrzymania pasa ruchu"
+    ],
+    "lane keeping assist": [
+      "system Lane Assist"
+    ],
+    "latch": [
+      "zatrzask"
+    ],
+    "layshaft": [
+      "wał pośredni"
+    ],
+    "lean mixture": [
+      "uboga mieszanka"
+    ],
+    "lean-burn": [
+      "spalanie ubogiej mieszanki"
+    ],
+    "licence plate": [
+      "tablica rejestracyjna"
+    ],
+    "lidar sensor": [
+      "laserowy czujnik odległości"
+    ],
+    "limited corrosion warranty": [
+      "gwarancja na perforację nadwozia"
+    ],
+    "limited paint warranty": [
+      "gwarancja na powłokę lakierniczą"
+    ],
+    "limousine": [
+      "limuzyna"
+    ],
+    "liquid-cooled charge air cooler": [
+      "chłodnica płynu chłodzącego powietrze doładowujące"
+    ],
+    "lorry": [
+      "ciężarówka"
+    ],
+    "low profile tire": [
+      "opona niskoprofilowa"
+    ],
+    "lubrication system": [
+      "układ smarowania"
+    ],
+    "MAF sensor": [
+      "czujnik MAF"
+    ],
+    "MAM": [
+      "DMC"
+    ],
+    "mass air flow sensor": [
+      "czujnik masowego przepływu powietrza"
+    ],
+    "maximum authorised mass": [
+      "dopuszczalna masa całkowita"
+    ],
+    "maximum load capacity": [
+      "ładowność"
+    ],
+    "microcar": [
+      "mikro auto"
+    ],
+    "mileometer": [
+      "drogomierz"
+    ],
+    "minicompact": [
+      "minikompakt"
+    ],
+    "minivan": [
+      "minivan"
+    ],
+    "multi injection diesel engine": [
+      "silnik diesla z wielostopniowym wtryskiem paliwa"
+    ],
+    "multi point injection": [
+      "wielopunktowy wtrysk paliwa"
+    ],
+    "multi-plate clutch": [
+      "sprzęgło wielopłytkowe"
+    ],
+    "muscle car": [
+      "samochód \"muscle car\""
+    ],
+    "navigation": [
+      "nawigacja"
+    ],
+    "needle valve": [
+      "igła rozpylacza"
+    ],
+    "non-synchronous transmission": [
+      "niezsynchronizowana skrzynia biegów"
+    ],
+    "ntelligent cruise control": [
+      "tempomat adaptacyjny"
+    ],
+    "number plate": [
+      "tablica rejestracyjna"
+    ],
+    "OBD": [
+      "diagnostyka pokładowa"
+    ],
+    "odograph": [
+      "drogomierz"
+    ],
+    "odometer": [
+      "drogomierz"
+    ],
+    "off-road vehicle": [
+      "samochód terenowy"
+    ],
+    "off-roader": [
+      "terenówka"
+    ],
+    "oil cooler": [
+      "chłodnica oleju"
+    ],
+    "oil deflector plate": [
+      "odrzutnik oleju"
+    ],
+    "oil drain plug": [
+      "korek spustu oleju"
+    ],
+    "oil filler cap": [
+      "pokrywa wlewu oleju"
+    ],
+    "oil filler neck": [
+      "wlew oleju"
+    ],
+    "oil filter": [
+      "filtr oleju"
+    ],
+    "oil level": [
+      "poziom oleju"
+    ],
+    "oil pan": [
+      "miska olejowa"
+    ],
+    "oil pipe": [
+      "przewód oleju"
+    ],
+    "oil pressure gauge": [
+      "manometr ciśnienia oleju"
+    ],
+    "oil pump": [
+      "pompa oleju"
+    ],
+    "oil strainer": [
+      "smok pompy"
+    ],
+    "oil sump": [
+      "miska olejowa"
+    ],
+    "oli pan": [
+      "miska olejowa"
+    ],
+    "on-board diagnostics": [
+      "diagnostyka pokładowa"
+    ],
+    "output shaft": [
+      "wał zdawczy"
+    ],
+    "overflow valve": [
+      "zawór przelewowy"
+    ],
+    "paddle-shift": [
+      "łopatka zmiany biegów"
+    ],
+    "panoramic roof": [
+      "dach panoramiczny"
+    ],
+    "passenger cabin": [
+      "kabina pasażerska"
+    ],
+    "passenger compartment": [
+      "kabina pasażerska"
+    ],
+    "performance car": [
+      "samochód sportowy"
+    ],
+    "petrol direct injection engine": [
+      "silnik benzynowy z bezpośrednim wtryskiem"
+    ],
+    "petrol engine": [
+      "silnik o zapłonie iskrowym"
+    ],
+    "petrol tank": [
+      "zbiornik paliwa"
+    ],
+    "pickup truck": [
+      "pick-up"
+    ],
+    "piezo injector": [
+      "wtryskiwacz piezoelektryczny"
+    ],
+    "planetary gearset": [
+      "przekładnia obiegowa"
+    ],
+    "plunger": [
+      "tłoczek"
+    ],
+    "polishing compound": [
+      "pasta polerska"
+    ],
+    "polishing compound/paste": [
+      "pasta polerska"
+    ],
+    "polishing compound/polishing paste": [
+      "pasta polerska"
+    ],
+    "polishing pad": [
+      "pad polerski"
+    ],
+    "polishing paste": [
+      "pasta polerska"
+    ],
+    "polshing pad": [
+      "pad polerski"
+    ],
+    "power window motor": [
+      "silnik podnoszenia szyb"
+    ],
+    "power window switch": [
+      "przycisk sterowania szybą"
+    ],
+    "power windwo switch": [
+      "przycisk sterowania szybą"
+    ],
+    "pre-facelift": [
+      "przed liftingiem"
+    ],
+    "preselector gearbox": [
+      "preselekcyjna skrzynia biegów"
+    ],
+    "pressure plate": [
+      "płyta dociskowa"
+    ],
+    "radar sensor": [
+      "czujnik radarowy"
+    ],
+    "radiator": [
+      "chłodnica"
+    ],
+    "radiator fan": [
+      "wentylator chłodnicy"
+    ],
+    "radiator pipe": [
+      "przewód cieczy chłodzącej"
+    ],
+    "rear lock pillar": [
+      "słupek tylny"
+    ],
+    "rear window": [
+      "szyba tylna"
+    ],
+    "rear windshield": [
+      "szyba tylna"
+    ],
+    "rear-view mirror": [
+      "lusterko wsteczne"
+    ],
+    "redline": [
+      "maksymalne obroty"
+    ],
+    "reed sensor": [
+      "czujnik kontaktronowy"
+    ],
+    "regulator crank handle": [
+      "korbka podnośnika szyby"
+    ],
+    "regulator handle": [
+      "korbka podnośnika szyby"
+    ],
+    "reinforced tire": [
+      "opona wzmacniana"
+    ],
+    "remote central locking": [
+      "system bezkluczykowy"
+    ],
+    "remote keyless entry": [
+      "system bezkluczykowy"
+    ],
+    "remote keyless system": [
+      "system bezkluczykowego dostępu"
+    ],
+    "retreaded tire": [
+      "opona bieżnikowana"
+    ],
+    "return check valve": [
+      "zawór jednokierunkowy"
+    ],
+    "return fuel line": [
+      "przewód powrotny"
+    ],
+    "rev-match": [
+      "redukcja z międzygazem"
+    ],
+    "reversing camera": [
+      "kamera cofania"
+    ],
+    "rich mixture": [
+      "bogata mieszanka"
+    ],
+    "rocker panel": [
+      "panel wahacza"
+    ],
+    "roller performance tester": [
+      "hamownia"
+    ],
+    "ront luggage compartment volume": [
+      "pojemność bagażnika z przodu"
+    ],
+    "roof lining": [
+      "podsufitka"
+    ],
+    "roof side rail": [
+      "boczne wzmocnienie dachu"
+    ],
+    "rust": [
+      "rdza"
+    ],
+    "SAMPLE": [
+      "PRÓBKA"
+    ],
+    "SATNAV": [
+      "nawigacja satelitarna"
+    ],
+    "screw-on fuel filter": [
+      "puszkowy filtr paliwa"
+    ],
+    "screw-on oil filter": [
+      "puszkowy filtr oleju"
+    ],
+    "seal": [
+      "uszczelka"
+    ],
+    "sealing cord": [
+      "taśma uszczelniająca"
+    ],
+    "seat": [
+      "fotel"
+    ],
+    "sedan": [
+      "sedan"
+    ],
+    "self-adjusting clutch": [
+      "sprzęgło samonastawne"
+    ],
+    "self-supporting body": [
+      "nadwozie samonośne"
+    ],
+    "semi-automatic transmission": [
+      "półautomatyczna skrzynia biegów"
+    ],
+    "sequential gearbox": [
+      "sekwencyjna skrzynia biegów"
+    ],
+    "sequential manual transmission": [
+      "sekwencyjna skrzynia biegów"
+    ],
+    "servo": [
+      "serwo"
+    ],
+    "shifter": [
+      "dźwignia zmiany biegów"
+    ],
+    "short shifter": [
+      "short shifter"
+    ],
+    "side mirror": [
+      "lusterko boczne"
+    ],
+    "side window": [
+      "szyba boczna"
+    ],
+    "single point injection": [
+      "jednopunktowy wtrysk paliwa"
+    ],
+    "slip clutch": [
+      "sprzęgło poślizgowe"
+    ],
+    "snow chain": [
+      "łańcuch śniegowy"
+    ],
+    "soft top": [
+      "soft top"
+    ],
+    "solenoid injector": [
+      "cewka wtryskiwacza"
+    ],
+    "space frame": [
+      "rama przestrzenna"
+    ],
+    "spare tire": [
+      "koło zapasowe"
+    ],
+    "spark plug": [
+      "świeca zapłonowa"
+    ],
+    "spark plug body": [
+      "korpus świecy zapłonowej"
+    ],
+    "spark plug cap": [
+      "nasadka świecy zapłonowej"
+    ],
+    "speedometer": [
+      "prędkościomierz"
+    ],
+    "spin-on fuel filter": [
+      "puszkowy filtr paliwa"
+    ],
+    "spin-on oil filter": [
+      "puszkowy filtr oleju"
+    ],
+    "splash panel": [
+      "dolna osłona silnika"
+    ],
+    "spoiler": [
+      "spoiler"
+    ],
+    "sports car": [
+      "samochód sportowy"
+    ],
+    "spray tip": [
+      "rozpylacz"
+    ],
+    "steel wheel": [
+      "koło stalowe"
+    ],
+    "steelie": [
+      "koło stalowe"
+    ],
+    "stoich mixture": [
+      "mieszanka stechiometryczna"
+    ],
+    "stoichiometric mixture": [
+      "mieszanka stechiometryczna"
+    ],
+    "stopwatch": [
+      "stoper"
+    ],
+    "storage compartment": [
+      "schowek"
+    ],
+    "subcompact": [
+      "subkompakt"
+    ],
+    "summer time": [
+      "opona letnia"
+    ],
+    "summer tire": [
+      "opona letnia"
+    ],
+    "sun visor": [
+      "osłona przeciwsłoneczna"
+    ],
+    "supermini": [
+      "supermini"
+    ],
+    "symmetrical tire": [
+      "opona symetryczna"
+    ],
+    "synchronized down shift rev-matching system": [
+      "układ redukcji biegu z międzygazem"
+    ],
+    "SynchroRev Match": [
+      "system SynchroRev Match"
+    ],
+    "tachometer": [
+      "obrotomierz"
+    ],
+    "TCS": [
+      "system kontroli trakcji"
+    ],
+    "telematics system": [
+      "system telematyczny"
+    ],
+    "tell-tale": [
+      "kontrolka"
+    ],
+    "thrust bearing": [
+      "łożysko dociskowe sprzęgła"
+    ],
+    "tire pressure monitoring system": [
+      "system monitorujący ciśnienie w oponach"
+    ],
+    "tonneau": [
+      "skrzynia ładunkowa"
+    ],
+    "tonneau cover": [
+      "pokrywa skrzyni ładunkowej"
+    ],
+    "torque converter": [
+      "sprzęgło hydrokinetyczne"
+    ],
+    "towline/towrope": [
+      "lina holownicza"
+    ],
+    "TPMS": [
+      "system TPMS"
+    ],
+    "traffic jam assist": [
+      "system wspomagający jazdę w korku"
+    ],
+    "trailer": [
+      "przyczepa"
+    ],
+    "transmission": [
+      "skrzynia biegów"
+    ],
+    "truck": [
+      "ciężarówka"
+    ],
+    "truck bed": [
+      "skrzynia ładunkowa"
+    ],
+    "truck bed cover": [
+      "pokrywa skrzyni ładunkowej"
+    ],
+    "trunk lid": [
+      "klapa bagażnika"
+    ],
+    "turbocharged diesel engine": [
+      "silnik diesla z turbosprężarką"
+    ],
+    "turning circle diameter": [
+      "średnica zawracania"
+    ],
+    "twin-clutch transmission": [
+      "skrzynia dwusprzęgłowa"
+    ],
+    "two-seater": [
+      "samochód dwuosobowy"
+    ],
+    "ultrasonic sensor": [
+      "czujnik ultradźwiękowy"
+    ],
+    "underframe": [
+      "rama podwozia"
+    ],
+    "underseal": [
+      "preparat do konserwacji podwozia"
+    ],
+    "vehicle frame": [
+      "rama pojazdu"
+    ],
+    "vehicle horn": [
+      "sygnał dźwiękowy"
+    ],
+    "voice control": [
+      "obsługa głosowa"
+    ],
+    "warning light": [
+      "kontrolka"
+    ],
+    "warning triangle": [
+      "trójkąt ostrzegawczy"
+    ],
+    "water jacket": [
+      "płaszcz wodny"
+    ],
+    "water pump": [
+      "pompa wody"
+    ],
+    "water-cooled charge air cooler": [
+      "chłodnica płynu chłodzącego powietrze doładowujące"
+    ],
+    "weld seam": [
+      "szew spawalniczy"
+    ],
+    "wheel arch": [
+      "nadkole"
+    ],
+    "wheel well": [
+      "wnęka koła"
+    ],
+    "wheelhouse": [
+      "wnęka koła"
+    ],
+    "wind mirror": [
+      "lusterko boczne"
+    ],
+    "window lifter": [
+      "podnośnik szyby"
+    ],
+    "winter tire": [
+      "opona zimowa"
+    ],
+    "wiper": [
+      "wycieraczka"
+    ]
+  },
+  "random": {
+    "Every": [
+      "każdy"
+    ],
+    "durability": [
+      "trwałość"
+    ],
+    "view": [
+      "widok"
+    ],
+    "perimeter": [
+      "obwód"
+    ],
+    "human": [
+      "człowiek"
+    ],
+    "movement": [
+      "ruch"
+    ],
+    "basic": [
+      "podstawowy"
+    ],
+    "specialized": [
+      "specjalistyczny"
+    ],
+    "Ergonomics": [
+      "ergonomia"
+    ],
+    "tip": [
+      "końcówka"
+    ],
+    "never": [
+      "nigdy"
+    ],
+    "contrast": [
+      "porównanie"
+    ],
+    "directly": [
+      "bezpośredni"
+    ],
+    "powerful": [
+      "silny"
+    ],
+    "unobstructed": [
+      "drożny"
+    ],
+    "Legacy": [
+      "Legacy"
+    ],
+    "Consequently": [
+      "W związku z tym"
+    ],
+    "Passive": [
+      "bierny"
+    ],
+    "ice": [
+      "lód"
+    ],
+    "clamp": [
+      "zacisnąć"
+    ],
+    "control": [
+      "sterowanie",
+      "kontrola"
+    ],
+    "ensures": [
+      "zapewniać"
+    ],
+    "supported": [
+      "poparty"
+    ],
+    "access": [
+      "dostęp"
+    ],
+    "pipe": [
+      "rura"
+    ],
+    "contoured": [
+      "wyprofilowany"
+    ],
+    "chemical": [
+      "chemiczny"
+    ],
+    "requirement": [
+      "wymóg",
+      "wymaganie"
+    ],
+    "fluid": [
+      "ciecz",
+      "płyn"
+    ],
+    "require": [
+      "wymagać"
+    ],
+    "alert": [
+      "alarm",
+      "ostrzegać"
+    ],
+    "escaping": [
+      "przedostawać się"
+    ],
+    "superior": [
+      "doskonały"
+    ],
+    "manual": [
+      "manualny"
+    ],
+    "first": [
+      "pierwszy"
+    ],
+    "durable": [
+      "trwały"
+    ],
+    "transport": [
+      "transportować"
+    ],
+    "long-term": [
+      "długoterminowy"
+    ],
+    "pieces": [
+      "kawałek"
+    ],
+    "illumination": [
+      "oświetlenie"
+    ],
+    "driver": [
+      "kierowca",
+      "powód"
+    ],
+    "exchanger": [
+      "wymiennik"
+    ],
+    "establish": [
+      "wykonać"
+    ],
+    "events": [
+      "zdarzenie"
+    ],
+    "lower": [
+      "dolny"
+    ],
+    "must": [
+      "musieć"
+    ],
+    "quickly": [
+      "szybko"
+    ],
+    "high-performance": [
+      "wysokowydajny"
+    ],
+    "millisecond": [
+      "milisekunda"
+    ],
+    "recorded": [
+      "zarejestrowany"
+    ],
+    "ensure": [
+      "zapewnić",
+      "mieć",
+      "zapewniać",
+      "zagwarantować"
+    ],
+    "increase": [
+      "zwiększenie"
+    ],
+    "natural": [
+      "naturalny"
+    ],
+    "monitor": [
+      "monitorować"
+    ],
+    "treatment": [
+      "zabieg"
+    ],
+    "synchronization": [
+      "synchronizacja"
+    ],
+    "protection": [
+      "ochrona"
+    ],
+    "enabling": [
+      "umożliwiać"
+    ],
+    "match": [
+      "dopasować",
+      "dorównać"
+    ],
+    "stress": [
+      "naprężenie"
+    ],
+    "validity": [
+      "ważność"
+    ],
+    "external": [
+      "zewnętrzny"
+    ],
+    "audible": [
+      "słyszalny"
+    ],
+    "technician": [
+      "technik"
+    ],
+    "Audi": [
+      "Audi"
+    ],
+    "internal": [
+      "wewnętrzny"
+    ],
+    "historically": [
+      "tradycyjnie"
+    ],
+    "turbulence": [
+      "turbulencja"
+    ],
+    "regional": [
+      "regionalny"
+    ],
+    "pillar": [
+      "słupek"
+    ],
+    "designer": [
+      "projektant"
+    ],
+    "often": [
+      "często"
+    ],
+    "reports": [
+      "reportować"
+    ],
+    "highest": [
+      "najwyższy"
+    ],
+    "monitored": [
+      "monitorować"
+    ],
+    "ability": [
+      "zdolność"
+    ],
+    "especially": [
+      "zwłaszcza"
+    ],
+    "autonomous": [
+      "autonomiczny"
+    ],
+    "requires": [
+      "wymaga",
+      "wymagać"
+    ],
+    "stance": [
+      "rozstaw"
+    ],
+    "ignition": [
+      "zapłon"
+    ],
+    "identical": [
+      "identyczny",
+      "ten sam"
+    ],
+    "dedicated": [
+      "dedykowany"
+    ],
+    "fueling": [
+      "paliwo"
+    ],
+    "start": [
+      "rozruch"
+    ],
+    "dual-clutch": [
+      "podwójny"
+    ],
+    "shock": [
+      "wstrząs"
+    ],
+    "spring": [
+      "sprężyna"
+    ],
+    "electronic": [
+      "elektroniczny"
+    ],
+    "passenger": [
+      "pasażer"
+    ],
+    "localized": [
+      "lokalny"
+    ],
+    "DLC": [
+      "DLC"
+    ],
+    "multiple": [
+      "wiele"
+    ],
+    "Manual": [
+      "ręczny"
+    ],
+    "utilizes": [
+      "wykorzystywać",
+      "zużywać"
+    ],
+    "insulation": [
+      "izolacja"
+    ],
+    "obsolete": [
+      "przestarzały"
+    ],
+    "perfectly": [
+      "idealnie"
+    ],
+    "experimented": [
+      "eksperymentować"
+    ],
+    "copper": [
+      "miedź"
+    ],
+    "hazard": [
+      "zagrożenie"
+    ],
+    "readout": [
+      "odczyt"
+    ],
+    "corrosion-resistant": [
+      "odporny"
+    ],
+    "scalable": [
+      "skalowalny"
+    ],
+    "petrol": [
+      "benzyna",
+      "benzynowy"
+    ],
+    "stoich": [
+      "stoich"
+    ],
+    "baseline": [
+      "podstawa"
+    ],
+    "properly": [
+      "prawidłowo"
+    ],
+    "Modern": [
+      "nowoczesny"
+    ],
+    "hazardous": [
+      "niebezpieczny"
+    ],
+    "introduce": [
+      "wprowadzać"
+    ],
+    "360-degree": [
+      "360-stopniowy"
+    ],
+    "reinforced": [
+      "wzmocniony"
+    ],
+    "Regardless": [
+      "niezależnie"
+    ],
+    "followed": [
+      "następować"
+    ],
+    "tested": [
+      "testować"
+    ],
+    "Furthermore": [
+      "co więcej",
+      "ponadto"
+    ],
+    "journey": [
+      "droga"
+    ],
+    "repeated": [
+      "powtarzający"
+    ],
+    "dictate": [
+      "określić"
+    ],
+    "splash": [
+      "rozbryzg",
+      "osłona"
+    ],
+    "oxidation": [
+      "utlenianie"
+    ],
+    "Regularly": [
+      "regularnie"
+    ],
+    "pulse": [
+      "impuls"
+    ],
+    "extend": [
+      "wydłużyć"
+    ],
+    "read": [
+      "odczytać"
+    ],
+    "reservoir": [
+      "zbiornik"
+    ],
+    "low-speed": [
+      "niska prędkość"
+    ],
+    "filed": [
+      "zgłoszony"
+    ],
+    "manner": [
+      "sposób"
+    ],
+    "friction-based": [
+      "bazujący na tarciu"
+    ],
+    "work": [
+      "praca",
+      "działać"
+    ],
+    "hydraulic": [
+      "hydrauliczny"
+    ],
+    "limit": [
+      "limit",
+      "ograniczenie"
+    ],
+    "Designer": [
+      "projektant"
+    ],
+    "critical": [
+      "istotny",
+      "krytyczny",
+      "kluczowy",
+      "ważny"
+    ],
+    "authorities": [
+      "władza"
+    ],
+    "signal": [
+      "sygnał"
+    ],
+    "defroster-equipped": [
+      "wyposażony w odmrażacz"
+    ],
+    "suspension-upgraded": [
+      "ulepszony"
+    ],
+    "via": [
+      "za"
+    ],
+    "cause": [
+      "spowodować",
+      "powodować"
+    ],
+    "safely": [
+      "bezpiecznie"
+    ],
+    "mission": [
+      "misja"
+    ],
+    "bay": [
+      "komora"
+    ],
+    "high-visibility": [
+      "wysoka widoczność"
+    ],
+    "containment": [
+      "zatrzymanie"
+    ],
+    "intelligent": [
+      "inteligentny"
+    ],
+    "angle": [
+      "kąt"
+    ],
+    "force": [
+      "wypychanie",
+      "siła"
+    ],
+    "catastrophic": [
+      "katastrofalny"
+    ],
+    "Ensuring": [
+      "zapewnienie"
+    ],
+    "owners": [
+      "właściciel"
+    ],
+    "rear-end": [
+      "tylny",
+      "tył"
+    ],
+    "restricting": [
+      "ograniczenie"
+    ],
+    "architecture": [
+      "architektura"
+    ],
+    "rapid": [
+      "szybki"
+    ],
+    "heavy-gauge": [
+      "gruby"
+    ],
+    "rotating": [
+      "obrotowy",
+      "obracać"
+    ],
+    "metric": [
+      "wskaźnik"
+    ],
+    "thousand": [
+      "tysiąc"
+    ],
+    "space": [
+      "przestrzeń"
+    ],
+    "alpine": [
+      "alpejski"
+    ],
+    "operate": [
+      "poruszać się",
+      "operować",
+      "działać"
+    ],
+    "selected": [
+      "wybrany"
+    ],
+    "immediate": [
+      "natychmiastowy"
+    ],
+    "battery": [
+      "akumulator"
+    ],
+    "US": [
+      "USA"
+    ],
+    "peak": [
+      "szczyt",
+      "maksymalny"
+    ],
+    "flex": [
+      "elastyczny"
+    ],
+    "highways": [
+      "autostrada"
+    ],
+    "pre-filtration": [
+      "wstępny"
+    ],
+    "air": [
+      "powietrze"
+    ],
+    "restored": [
+      "przywrócić"
+    ],
+    "preselector": [
+      "preselekcja"
+    ],
+    "stay": [
+      "pozostać"
+    ],
+    "fleet": [
+      "flota"
+    ],
+    "delegate": [
+      "delegować"
+    ],
+    "literature": [
+      "literatura"
+    ],
+    "front-axle": [
+      "przednia oś"
+    ],
+    "inspections": [
+      "przegląd"
+    ],
+    "directional": [
+      "kierunkowy"
+    ],
+    "code": [
+      "kod"
+    ],
+    "finally": [
+      "w końcu"
+    ],
+    "gas": [
+      "gaz"
+    ],
+    "engineering": [
+      "inżynieria"
+    ],
+    "planetary": [
+      "planetarny"
+    ],
+    "electric": [
+      "elektryczny"
+    ],
+    "impact": [
+      "wpływ",
+      "uderzenie"
+    ],
+    "condition": [
+      "warunek",
+      "stan"
+    ],
+    "insufficient": [
+      "niewystarczający"
+    ],
+    "lightweight": [
+      "lekki"
+    ],
+    "manufacturer": [
+      "producent"
+    ],
+    "pivots": [
+      "obracać"
+    ],
+    "laterally": [
+      "poprzeczny"
+    ],
+    "sticking": [
+      "zacinający"
+    ],
+    "Hygiene": [
+      "higiena"
+    ],
+    "pull": [
+      "ciągnąć"
+    ],
+    "protect": [
+      "chronić"
+    ],
+    "features": [
+      "mieć"
+    ],
+    "remain": [
+      "pozostać"
+    ],
+    "foundation": [
+      "podstawa"
+    ],
+    "poor": [
+      "słaby"
+    ],
+    "beneath": [
+      "pod"
+    ],
+    "grips": [
+      "chwytać"
+    ],
+    "original": [
+      "oryginalny"
+    ],
+    "term": [
+      "termin",
+      "określenie"
+    ],
+    "protects": [
+      "chronić"
+    ],
+    "software": [
+      "oprogramowanie"
+    ],
+    "clay": [
+      "glina"
+    ],
+    "lose": [
+      "tracić"
+    ],
+    "spring-loaded": [
+      "sprężynowy"
+    ],
+    "loaded": [
+      "załadowany"
+    ],
+    "dictates": [
+      "dyktować"
+    ],
+    "improved": [
+      "poprawić"
+    ],
+    "rear": [
+      "tył"
+    ],
+    "drivetrain": [
+      "układ napędowy"
+    ],
+    "international": [
+      "międzynarodowy"
+    ],
+    "rearward": [
+      "tylny"
+    ],
+    "delicate": [
+      "delikatny"
+    ],
+    "technologically": [
+      "technologiczny"
+    ],
+    "minimize": [
+      "minimalizować"
+    ],
+    "step": [
+      "krok"
+    ],
+    "hauling": [
+      "transport"
+    ],
+    "manuals": [
+      "instrukcja"
+    ],
+    "across": [
+      "przez"
+    ],
+    "crash-resistant": [
+      "odporny na zderzenia"
+    ],
+    "eco-friendly": [
+      "przyjazny dla środowiska"
+    ],
+    "Security": [
+      "bezpieczeństwo"
+    ],
+    "filler": [
+      "wlew"
+    ],
+    "foundational": [
+      "fundamentalny",
+      "fundamentowy"
+    ],
+    "buoyancy": [
+      "wyporność"
+    ],
+    "damage": [
+      "uszkodzenie"
+    ],
+    "functionality": [
+      "funkcjonalność"
+    ],
+    "scratches": [
+      "rys"
+    ],
+    "together": [
+      "razem"
+    ],
+    "source": [
+      "źródło"
+    ],
+    "engineered": [
+      "zaplanować"
+    ],
+    "equip": [
+      "wyposażony",
+      "wyposażyć"
+    ],
+    "torque": [
+      "moment"
+    ],
+    "alligator": [
+      "aligator"
+    ],
+    "temperature": [
+      "temperatura"
+    ],
+    "current": [
+      "prąd"
+    ],
+    "supply": [
+      "dostawa",
+      "zapewniać",
+      "podawać"
+    ],
+    "Maintenance": [
+      "konserwacja"
+    ],
+    "maintaining": [
+      "utrzymywanie",
+      "utrzymanie",
+      "utrzymywać"
+    ],
+    "debris": [
+      "odłamek",
+      "zanieczyszczenie"
+    ],
+    "Procurement": [
+      "zamówienie"
+    ],
+    "longitudinal": [
+      "wzdłużny"
+    ],
+    "shift": [
+      "przejście",
+      "zmiana",
+      "przesunąć"
+    ],
+    "preferred": [
+      "preferowany"
+    ],
+    "insulated": [
+      "izolowany"
+    ],
+    "casing": [
+      "obudowa"
+    ],
+    "counterparts": [
+      "odpowiednik"
+    ],
+    "molecular": [
+      "cząsteczkowy"
+    ],
+    "filtration": [
+      "filtracja"
+    ],
+    "crucial": [
+      "niezbędny"
+    ],
+    "stone": [
+      "kamień"
+    ],
+    "efficient": [
+      "skuteczny"
+    ],
+    "even": [
+      "nawet"
+    ],
+    "snow": [
+      "śnieg"
+    ],
+    "calibrate": [
+      "kalibrować"
+    ],
+    "filters": [
+      "filtr"
+    ],
+    "operator": [
+      "operator"
+    ],
+    "fail": [
+      "ulec uszkodzeniu"
+    ],
+    "broadly": [
+      "szeroko"
+    ],
+    "switch": [
+      "przełącznik"
+    ],
+    "environments": [
+      "środowisko"
+    ],
+    "primary": [
+      "główny",
+      "pierwszy",
+      "podstawowy"
+    ],
+    "layout": [
+      "układ"
+    ],
+    "using": [
+      "zastosować",
+      "wykorzystać"
+    ],
+    "supersede": [
+      "zastąpić"
+    ],
+    "``": [
+      "pierścień"
+    ],
+    "reflecting": [
+      "odbić"
+    ],
+    "liquid-cooled": [
+      "chłodzenie cieczą"
+    ],
+    "strength": [
+      "wytrzymałość"
+    ],
+    "ring": [
+      "pierścień"
+    ],
+    "shell": [
+      "korpus"
+    ],
+    "leg": [
+      "noga"
+    ],
+    "factory": [
+      "fabryka"
+    ],
+    "bed": [
+      "łóżko",
+      "pace"
+    ],
+    "neglected": [
+      "zaniedbany"
+    ],
+    "fuel": [
+      "paliwo"
+    ],
+    "clearance": [
+      "prześwit"
+    ],
+    "hot-wire": [
+      "gorący drut"
+    ],
+    "UV-induced": [
+      "wywołany"
+    ],
+    "limited": [
+      "ograniczony"
+    ],
+    "bar": [
+      "belka",
+      "bar"
+    ],
+    "catalogs": [
+      "katalog"
+    ],
+    "provide": [
+      "zapewniać",
+      "podawać",
+      "dostarczyć"
+    ],
+    "integrating": [
+      "zintegrować"
+    ],
+    "meter": [
+      "miernik",
+      "metr"
+    ],
+    "associate": [
+      "towarzyszyć"
+    ],
+    "transverse": [
+      "poprzeczny"
+    ],
+    "replacing": [
+      "wymiana",
+      "wymieniać"
+    ],
+    "guarantees": [
+      "gwarantować"
+    ],
+    "service": [
+      "eksploatacja",
+      "serwis"
+    ],
+    "integrate": [
+      "integrować"
+    ],
+    "turning": [
+      "skręt"
+    ],
+    "replace": [
+      "wymieniać",
+      "zastąpić"
+    ],
+    "highway": [
+      "autostrada",
+      "droga"
+    ],
+    "possible": [
+      "możliwy"
+    ],
+    "prevents": [
+      "zapobiegać"
+    ],
+    "assign": [
+      "przypisać"
+    ],
+    "Reducing": [
+      "zmniejszenie"
+    ],
+    "guidelines": [
+      "wytyczna"
+    ],
+    "1.0": [
+      "1.0"
+    ],
+    "height": [
+      "wysokość"
+    ],
+    "schedule": [
+      "harmonogram"
+    ],
+    "thermodynamic": [
+      "termodynamiczny"
+    ],
+    "deploy": [
+      "zastosować"
+    ],
+    "storage": [
+      "przechowywanie"
+    ],
+    "fluid-dynamic": [
+      "dynamika"
+    ],
+    "footprint": [
+      "powierzchnia"
+    ],
+    "application": [
+      "zastosowanie"
+    ],
+    "Exhaust": [
+      "wydech"
+    ],
+    "door": [
+      "drzwi"
+    ],
+    "vehicles": [
+      "pojazd"
+    ],
+    "computer": [
+      "komputer"
+    ],
+    "withstand": [
+      "wytrzymać"
+    ],
+    "vertical": [
+      "pionowy"
+    ],
+    "steering": [
+      "kierownica"
+    ],
+    "assist": [
+      "wspomaganie",
+      "asysta",
+      "wspomagać"
+    ],
+    "exact": [
+      "dokładny"
+    ],
+    "Mixture": [
+      "mieszanka"
+    ],
+    "thermal": [
+      "ciepły",
+      "termiczny"
+    ],
+    "mass": [
+      "masa"
+    ],
+    "friendly": [
+      "przyjazny"
+    ],
+    "hybridization": [
+      "hybrydyzacja"
+    ],
+    "relies": [
+      "opierać",
+      "wykorzystać"
+    ],
+    "turbocharged": [
+      "turbodoładowany"
+    ],
+    "responsive": [
+      "czuły"
+    ],
+    "sever": [
+      "przerwać"
+    ],
+    "congested": [
+      "zatłoczony"
+    ],
+    "indicator": [
+      "wskaźnik"
+    ],
+    "absorbs": [
+      "pochłaniać"
+    ],
+    "servicing": [
+      "serwisowanie"
+    ],
+    "aesthetic": [
+      "estetyka"
+    ],
+    "back": [
+      "tył",
+      "z powrotem",
+      "wstecz"
+    ],
+    "Conversely": [
+      "odwrotnie",
+      "Natomiast"
+    ],
+    "incline": [
+      "pochyłość"
+    ],
+    "modern": [
+      "współczesny",
+      "nowoczesny"
+    ],
+    "priority": [
+      "priorytet"
+    ],
+    "reed": [
+      "kontaktron"
+    ],
+    "user": [
+      "użytkownik"
+    ],
+    "keeping": [
+      "utrzymywanie",
+      "utrzymać"
+    ],
+    "Stratified": [
+      "warstwowy"
+    ],
+    "severe": [
+      "poważny",
+      "duży"
+    ],
+    "points": [
+      "punkt"
+    ],
+    "regulation": [
+      "regulacja",
+      "przepis"
+    ],
+    "anti-theft": [
+      "antykradzieżowy"
+    ],
+    "voltage": [
+      "napięcie"
+    ],
+    "certain": [
+      "niektórzy"
+    ],
+    "classify": [
+      "klasyfikować"
+    ],
+    "bracket": [
+      "uchwyt"
+    ],
+    "catalog": [
+      "katalog",
+      "katalogować"
+    ],
+    "crash": [
+      "zderzenie"
+    ],
+    "receive": [
+      "odbierać"
+    ],
+    "lock": [
+      "zamek"
+    ],
+    "bind": [
+      "zacięcie"
+    ],
+    "Regular": [
+      "regularny"
+    ],
+    "HVAC": [
+      "HVAC"
+    ],
+    "densely": [
+      "gęsto"
+    ],
+    "interchangeably": [
+      "zamiennie"
+    ],
+    "windshield": [
+      "szyba"
+    ],
+    "number": [
+      "numer"
+    ],
+    "alloy": [
+      "stop"
+    ],
+    "scientific": [
+      "naukowy"
+    ],
+    "V-shaped": [
+      "w kształcie litery V"
+    ],
+    "transition": [
+      "przejście",
+      "przechodzić"
+    ],
+    "procures": [
+      "pobierać"
+    ],
+    "mechanic": [
+      "mechanik"
+    ],
+    "unlatching": [
+      "odryglowywanie"
+    ],
+    "atmospheric": [
+      "atmosferyczny"
+    ],
+    "Therefore": [
+      "dlatego"
+    ],
+    "promote": [
+      "promować"
+    ],
+    "security": [
+      "bezpieczeństwo"
+    ],
+    "line": [
+      "linia"
+    ],
+    "simplest": [
+      "najprostszy"
+    ],
+    "years": [
+      "rok"
+    ],
+    "pan": [
+      "podłoga"
+    ],
+    "occupants": [
+      "pasażer",
+      "osoba"
+    ],
+    "pickup": [
+      "pikap"
+    ],
+    "hydrocarbon": [
+      "węglowodor"
+    ],
+    "system": [
+      "system",
+      "układ"
+    ],
+    "integration": [
+      "integracja"
+    ],
+    "safety": [
+      "bezpieczeństwo"
+    ],
+    "liberate": [
+      "uwolnić"
+    ],
+    "like": [
+      "jak"
+    ],
+    "central": [
+      "centralny"
+    ],
+    "specifically": [
+      "szczególnie"
+    ],
+    "specifications": [
+      "specyfikacja"
+    ],
+    "assembly": [
+      "zespół"
+    ],
+    "rear-occupant": [
+      "pasażer"
+    ],
+    "consume": [
+      "zużyć"
+    ],
+    "legacy": [
+      "starość",
+      "dziedzictwo",
+      "staroświecki"
+    ],
+    "transferring": [
+      "przenoszenie"
+    ],
+    "though": [
+      "choć"
+    ],
+    "failing": [
+      "wadliwy"
+    ],
+    "implementation": [
+      "wdrożenie"
+    ],
+    "referring": [
+      "odnosić się"
+    ],
+    "expansive": [
+      "szeroki"
+    ],
+    "UV": [
+      "UV"
+    ],
+    "functional": [
+      "funkcjonalny"
+    ],
+    "motorsport": [
+      "motorsport"
+    ],
+    "typically": [
+      "typowy",
+      "zazwyczaj"
+    ],
+    "heavy": [
+      "ciężki",
+      "duży"
+    ],
+    "action": [
+      "działanie"
+    ],
+    "fragile": [
+      "delikatny"
+    ],
+    "greater": [
+      "większy"
+    ],
+    "boot": [
+      "pokrywa"
+    ],
+    "laminated": [
+      "laminowany"
+    ],
+    "Regulatory": [
+      "regulacyjny"
+    ],
+    "satisfy": [
+      "zaspokoić"
+    ],
+    "tribological": [
+      "tribologiczny"
+    ],
+    "hot": [
+      "gorący"
+    ],
+    "legal": [
+      "prawny"
+    ],
+    "setup": [
+      "układ"
+    ],
+    "emergency": [
+      "sytuacja",
+      "awaryjny"
+    ],
+    "manipulate": [
+      "manipulować",
+      "sterować"
+    ],
+    "Low-Pressure": [
+      "niski"
+    ],
+    "sudden": [
+      "nagły",
+      "nagle"
+    ],
+    "apply": [
+      "wywierać"
+    ],
+    "drive": [
+      "jazda",
+      "napędzać"
+    ],
+    "render": [
+      "sprawiać"
+    ],
+    "precision": [
+      "precyzja"
+    ],
+    "roof": [
+      "dach"
+    ],
+    "becomes": [
+      "stać się"
+    ],
+    "design": [
+      "konstrukcja",
+      "projektować",
+      "projekt"
+    ],
+    "exposes": [
+      "narażać"
+    ],
+    "extreme": [
+      "ekstremalny"
+    ],
+    "bottom": [
+      "dół"
+    ],
+    "remote": [
+      "zdalny"
+    ],
+    "haul": [
+      "przewozić"
+    ],
+    "high-quality": [
+      "wysokiej jakości"
+    ],
+    "emission": [
+      "emisja"
+    ],
+    "advanced": [
+      "zaawansowany"
+    ],
+    "Engineer": [
+      "inżynier"
+    ],
+    "asphalt": [
+      "asfalt"
+    ],
+    "traffic": [
+      "ruch"
+    ],
+    "noise": [
+      "hałas"
+    ],
+    "spinning": [
+      "wirujący"
+    ],
+    "comprehensive": [
+      "wszechstronny"
+    ],
+    "engine": [
+      "silnik"
+    ],
+    "concrete": [
+      "beton"
+    ],
+    "International": [
+      "międzynarodowy"
+    ],
+    "reassessment": [
+      "ponowna ocena"
+    ],
+    "readiness": [
+      "gotowość"
+    ],
+    "faulty": [
+      "uszkodzony"
+    ],
+    "lateral": [
+      "boczny"
+    ],
+    "engineer": [
+      "inżynier"
+    ],
+    "Internal": [
+      "wewnętrzny"
+    ],
+    "detection": [
+      "wykrywanie"
+    ],
+    "choice": [
+      "wybór"
+    ],
+    "refine": [
+      "udoskonalać"
+    ],
+    "mounting": [
+      "mocowanie",
+      "montaż"
+    ],
+    "initiate": [
+      "rozpoczynać"
+    ],
+    "fold": [
+      "składać"
+    ],
+    "filled": [
+      "wypełniać"
+    ],
+    "finish": [
+      "wykończenie"
+    ],
+    "restore": [
+      "przywrócić"
+    ],
+    "top": [
+      "góra"
+    ],
+    "strainer": [
+      "filtr"
+    ],
+    "kinetic": [
+      "kinetyczny"
+    ],
+    "occupant": [
+      "pasażer"
+    ],
+    "potentiometer": [
+      "potencjometr"
+    ],
+    "dynamic": [
+      "dynamiczny"
+    ],
+    "status": [
+      "status"
+    ],
+    "Proper": [
+      "prawidłowy",
+      "właściwy"
+    ],
+    "Whether": [
+      "czy",
+      "niezależnie",
+      "Niezależnie"
+    ],
+    "modulated": [
+      "modulować"
+    ],
+    "failure": [
+      "usterka",
+      "awaria",
+      "uszkodzenie"
+    ],
+    "claim": [
+      "roszczenie"
+    ],
+    "three-abreast": [
+      "trzeci"
+    ],
+    "transmitted": [
+      "przekazać"
+    ],
+    "every": [
+      "każdy"
+    ],
+    "11.0": [
+      "11.0"
+    ],
+    "shark-fin": [
+      "płetwa rekinia"
+    ],
+    "roadside": [
+      "pobocze"
+    ],
+    "expedition-grade": [
+      "ekspedyjny"
+    ],
+    "brake": [
+      "hamulec"
+    ],
+    "cargo": [
+      "ładunek"
+    ],
+    "front-row": [
+      "pierwszy rząd"
+    ],
+    "power": [
+      "moc",
+      "zasilanie"
+    ],
+    "automated": [
+      "zautomatyzowany",
+      "automatyczny"
+    ],
+    "orthopedics": [
+      "ortopedia"
+    ],
+    "dominating": [
+      "dominować"
+    ],
+    "pH-neutral": [
+      "neutralny"
+    ],
+    "thread-on": [
+      "gwintowany"
+    ],
+    "cap": [
+      "korek"
+    ],
+    "deep": [
+      "głęboki"
+    ],
+    "common": [
+      "typowy",
+      "powszechny"
+    ],
+    "mechanism": [
+      "mechanizm"
+    ],
+    "master": [
+      "główny",
+      "opanować"
+    ],
+    "wiring": [
+      "okablowanie"
+    ],
+    "rain": [
+      "deszczu"
+    ],
+    "varies": [
+      "zmieniać"
+    ],
+    "ventilation": [
+      "odpowietrzanie"
+    ],
+    "fasten": [
+      "mocować"
+    ],
+    "pass": [
+      "przechodzić"
+    ],
+    "definition": [
+      "definicja"
+    ],
+    "pour": [
+      "wlewać"
+    ],
+    "significant": [
+      "znaczący"
+    ],
+    "vacuum": [
+      "podciśnienie",
+      "próżnia"
+    ],
+    "diagnosed": [
+      "zdiagnozować"
+    ],
+    "separate": [
+      "oddzielać"
+    ],
+    "structure": [
+      "struktura"
+    ],
+    "support": [
+      "wsparcie"
+    ],
+    "combustion": [
+      "spalanie"
+    ],
+    "equilibrium": [
+      "równowaga"
+    ],
+    "wet": [
+      "mokry"
+    ],
+    "departure": [
+      "opuszczenie"
+    ],
+    "exit": [
+      "opuszczać"
+    ],
+    "empty": [
+      "pusty"
+    ],
+    "documenting": [
+      "dokumentować"
+    ],
+    "operating": [
+      "działać"
+    ],
+    "operation": [
+      "jazda"
+    ],
+    "volume": [
+      "objętość",
+      "pojemność"
+    ],
+    "toward": [
+      "w kierunku"
+    ],
+    "load": [
+      "obciążenie",
+      "ładunek"
+    ],
+    "broader": [
+      "szeroki"
+    ],
+    "achieve": [
+      "osiągnąć"
+    ],
+    "fork": [
+      "widełka"
+    ],
+    "size": [
+      "rozmiar"
+    ],
+    "agility": [
+      "lekkość"
+    ],
+    "aforementioned": [
+      "wspomniany"
+    ],
+    "heating": [
+      "grzejny"
+    ],
+    "injector": [
+      "wtryskiwacz"
+    ],
+    "saturated": [
+      "nasycony"
+    ],
+    "port": [
+      "port"
+    ],
+    "variable": [
+      "zmienna"
+    ],
+    "Technicians": [
+      "technik"
+    ],
+    "foul-smelling": [
+      "nieprzyjemny"
+    ],
+    "dry": [
+      "suchy"
+    ],
+    "serve": [
+      "służyć",
+      "stanowić"
+    ],
+    "value": [
+      "wartość"
+    ],
+    "decade": [
+      "dziesięciolecie"
+    ],
+    "immense": [
+      "ogromny"
+    ],
+    "calibrated": [
+      "kalibrowany"
+    ],
+    "threshold": [
+      "próg"
+    ],
+    "reach": [
+      "osiągnąć"
+    ],
+    "compromised": [
+      "uszkodzony"
+    ],
+    "ceramic": [
+      "ceramika",
+      "ceramiczny"
+    ],
+    "focuses": [
+      "kłaść"
+    ],
+    "stiff": [
+      "sztywny"
+    ],
+    "staining": [
+      "plama"
+    ],
+    "finished": [
+      "wykończyć"
+    ],
+    "continuously": [
+      "ciągły"
+    ],
+    "cities": [
+      "miasto"
+    ],
+    "side": [
+      "bok"
+    ],
+    "multi-chambered": [
+      "wielokomorowy"
+    ],
+    "methodology": [
+      "metodologia"
+    ],
+    "past": [
+      "przeszłość"
+    ],
+    "quality": [
+      "jakość"
+    ],
+    "applies": [
+      "przekazywać"
+    ],
+    "industry": [
+      "branża"
+    ],
+    "Safety": [
+      "bezpieczeństwo"
+    ],
+    "gauge": [
+      "wskaźnik"
+    ],
+    "technology": [
+      "technologia"
+    ],
+    "race": [
+      "wyścig"
+    ],
+    "interface": [
+      "interfejs"
+    ],
+    "voice": [
+      "głos"
+    ],
+    "paint": [
+      "farba"
+    ],
+    "tire": [
+      "opona"
+    ],
+    "stability": [
+      "stabilność"
+    ],
+    "utilizing": [
+      "wykorzystanie",
+      "zastąpić",
+      "wykorzystać"
+    ],
+    "2.0": [
+      "2.0"
+    ],
+    "Legislative": [
+      "legislacyjny"
+    ],
+    "precise": [
+      "dokładny",
+      "precyzyjny"
+    ],
+    "center": [
+      "centrum",
+      "środek"
+    ],
+    "expectation": [
+      "oczekiwanie"
+    ],
+    "submersion": [
+      "zanurzenie"
+    ],
+    "classic": [
+      "klasyczny"
+    ],
+    "power-operated": [
+      "elektryczny"
+    ],
+    "module": [
+      "moduł"
+    ],
+    "vibrations": [
+      "drganie"
+    ],
+    "rate": [
+      "sztywność"
+    ],
+    "rubber": [
+      "guma"
+    ],
+    "rev-matching": [
+      "dopasowanie"
+    ],
+    "unthreading": [
+      "odkręcać"
+    ],
+    "fundamental": [
+      "fundamentalny",
+      "podstawowy"
+    ],
+    "builder": [
+      "producent"
+    ],
+    "development": [
+      "rozwój"
+    ],
+    "depends": [
+      "zależeć"
+    ],
+    "accident": [
+      "wypadek"
+    ],
+    "class": [
+      "klasa"
+    ],
+    "perform": [
+      "wykonywać"
+    ],
+    "safeguard": [
+      "zabezpieczać"
+    ],
+    "remains": [
+      "pozostawać",
+      "pozostać"
+    ],
+    "blocks": [
+      "blokować"
+    ],
+    "Utility": [
+      "użyteczność"
+    ],
+    "perfect": [
+      "idealny"
+    ],
+    "awareness": [
+      "czujność"
+    ],
+    "acoustics": [
+      "akustyka"
+    ],
+    "react": [
+      "reagować"
+    ],
+    "ergonomics": [
+      "ergonomia"
+    ],
+    "conical": [
+      "stożkowy"
+    ],
+    "electrical": [
+      "elektryczny"
+    ],
+    "sensor": [
+      "czujnik"
+    ],
+    "enforce": [
+      "egzekwować"
+    ],
+    "box": [
+      "pudełko"
+    ],
+    "multi-layer": [
+      "wielowarstwowy"
+    ],
+    "unit": [
+      "jednostka"
+    ],
+    "modulation": [
+      "modulacja"
+    ],
+    "rinse": [
+      "płukanie"
+    ],
+    "fluctuating": [
+      "wahać się"
+    ],
+    "reading": [
+      "odczyt"
+    ],
+    "instrument": [
+      "instrument"
+    ],
+    "packaging": [
+      "wyposażenie"
+    ],
+    "mechanical": [
+      "mechaniczny"
+    ],
+    "calculations": [
+      "obliczenie"
+    ],
+    "aquatic": [
+      "wodny"
+    ],
+    "Engineers": [
+      "inżynier"
+    ],
+    "accurate": [
+      "dokładny"
+    ],
+    "commercial": [
+      "komercyjny"
+    ],
+    "compact": [
+      "kompakt"
+    ],
+    "integrity": [
+      "integralność"
+    ],
+    "formation": [
+      "powstawanie"
+    ],
+    "nut": [
+      "nakrętka"
+    ],
+    "uncontrollably": [
+      "niekontrolowany"
+    ],
+    "spare": [
+      "zapasowy"
+    ],
+    "regardless": [
+      "niezależnie",
+      "niezależny"
+    ],
+    "mechanics": [
+      "mechanik"
+    ],
+    "drastically": [
+      "znaczny"
+    ],
+    "stratified": [
+      "warstwowy"
+    ],
+    "quantified": [
+      "kwantyfikować"
+    ],
+    "Often": [
+      "Często"
+    ],
+    "rest": [
+      "reszta"
+    ],
+    "Specialized": [
+      "specjalistyczny"
+    ],
+    "machine": [
+      "maszyna"
+    ],
+    "automaker": [
+      "producent samochodu"
+    ],
+    "effectively": [
+      "skutecznie"
+    ],
+    "define": [
+      "definiować"
+    ],
+    "synchronizer": [
+      "synchronizator"
+    ],
+    "attach": [
+      "przymocować"
+    ],
+    "flexibility": [
+      "elastyczność"
+    ],
+    "degradation": [
+      "degradacja"
+    ],
+    "formally": [
+      "formalnie"
+    ],
+    "provides": [
+      "zapewniać"
+    ],
+    "final": [
+      "ostateczny"
+    ],
+    "documents": [
+      "dokument"
+    ],
+    "create": [
+      "tworzyć",
+      "stworzyć"
+    ],
+    "velocity": [
+      "prędkość"
+    ],
+    "Operators": [
+      "operator"
+    ],
+    "market": [
+      "rynek"
+    ],
+    "tracking": [
+      "śledzenie"
+    ],
+    "difference": [
+      "różnica"
+    ],
+    "separation": [
+      "separacja"
+    ],
+    "minimalist": [
+      "minimalistyczny"
+    ],
+    "synonymous": [
+      "synonim"
+    ],
+    "maximum": [
+      "maksymalny",
+      "maksimum"
+    ],
+    "high-strength": [
+      "wysoka"
+    ],
+    "refer": [
+      "odnosić"
+    ],
+    "resistance": [
+      "opór",
+      "odporność"
+    ],
+    "path": [
+      "ścieżka"
+    ],
+    "keyless": [
+      "bez kluczyka"
+    ],
+    "siped": [
+      "nacięcie"
+    ],
+    "knee": [
+      "kolano"
+    ],
+    "component": [
+      "element",
+      "komponent"
+    ],
+    "freezing": [
+      "zamarzanie"
+    ],
+    "largely": [
+      "w dużej mierze"
+    ],
+    "reduced": [
+      "zmniejszyć"
+    ],
+    "deviates": [
+      "ulec"
+    ],
+    "complex": [
+      "złożony",
+      "skomplikowany"
+    ],
+    "data": [
+      "dane"
+    ],
+    "cataloging": [
+      "określanie"
+    ],
+    "satisfies": [
+      "spełniać"
+    ],
+    "flywheel": [
+      "koło zamachowe"
+    ],
+    "material": [
+      "materiał"
+    ],
+    "results": [
+      "wyniki"
+    ],
+    "H2O": [
+      "H2O"
+    ],
+    "soft": [
+      "miękki"
+    ],
+    "fused": [
+      "zespolony"
+    ],
+    "floor": [
+      "podłoga"
+    ],
+    "CFM": [
+      "CFM"
+    ],
+    "equivalently": [
+      "równoważnie"
+    ],
+    "Without": [
+      "bez"
+    ],
+    "high-precision": [
+      "precyzyjny"
+    ],
+    "optical": [
+      "optyczny"
+    ],
+    "equal": [
+      "równy"
+    ],
+    "prevent": [
+      "zapobiec",
+      "zapobiegać",
+      "uniemożliwić"
+    ],
+    "Tuners": [
+      "Tunery"
+    ],
+    "significantly": [
+      "znacząco",
+      "znacznie"
+    ],
+    "panels": [
+      "panele"
+    ],
+    "sector": [
+      "sektor"
+    ],
+    "orchestrate": [
+      "organizować"
+    ],
+    "designation": [
+      "oznaczenie"
+    ],
+    "frequently": [
+      "często"
+    ],
+    "diesel": [
+      "wysokoprężny"
+    ],
+    "finer": [
+      "drobniejszy"
+    ],
+    "accuracy": [
+      "dokładność"
+    ],
+    "rely": [
+      "wykorzystać",
+      "opierać",
+      "polegać",
+      "potrzebować",
+      "opierać się"
+    ],
+    "tank": [
+      "zbiornik"
+    ],
+    "depend": [
+      "opierać"
+    ],
+    "increasing": [
+      "zwiększać"
+    ],
+    "initial": [
+      "początkowy"
+    ],
+    "exerted": [
+      "wywierać"
+    ],
+    "tank-mounted": [
+      "zamontowany"
+    ],
+    "certify": [
+      "potwierdzać"
+    ],
+    "travel": [
+      "przepływać"
+    ],
+    "rusted": [
+      "zardzewiały"
+    ],
+    "United": [
+      "amerykański"
+    ],
+    "V8": [
+      "V8"
+    ],
+    "execution": [
+      "wykonanie"
+    ],
+    "high-output": [
+      "duża moc"
+    ],
+    "repairs": [
+      "naprawa"
+    ],
+    "item": [
+      "przedmiot"
+    ],
+    "environment": [
+      "środowisko",
+      "obszar"
+    ],
+    "disengage": [
+      "rozłączyć"
+    ],
+    "cooling": [
+      "chłodzenie"
+    ],
+    "normal": [
+      "normalny"
+    ],
+    "urethane": [
+      "poliuretan"
+    ],
+    "constantly": [
+      "ciągle"
+    ],
+    "profile": [
+      "profil"
+    ],
+    "starvation": [
+      "głód"
+    ],
+    "reliable": [
+      "niezawodny"
+    ],
+    "segment": [
+      "segment"
+    ],
+    "plate": [
+      "płyta"
+    ],
+    "flexible": [
+      "elastyczny"
+    ],
+    "actuation": [
+      "czynność",
+      "aktuacja"
+    ],
+    "within": [
+      "w"
+    ],
+    "pin": [
+      "pin",
+      "sworzeń"
+    ],
+    "important": [
+      "ważny"
+    ],
+    "excess": [
+      "nadmiar"
+    ],
+    "developers": [
+      "projektant"
+    ],
+    "operational": [
+      "operacyjny",
+      "eksploatacyjny"
+    ],
+    "thermally": [
+      "termiczny"
+    ],
+    "process": [
+      "przetwarzać"
+    ],
+    "survival": [
+      "przetrwanie"
+    ],
+    "visibility": [
+      "widoczność"
+    ],
+    "maintenance": [
+      "konserwacja",
+      "utrzymanie"
+    ],
+    "acoustic": [
+      "akustyczny"
+    ],
+    "overheating": [
+      "przegrzanie"
+    ],
+    "branded": [
+      "nazwać"
+    ],
+    "motor": [
+      "silnik"
+    ],
+    "maintain": [
+      "zachować",
+      "utrzymywać"
+    ],
+    "changes": [
+      "zmiana"
+    ],
+    "site": [
+      "plac"
+    ],
+    "registration": [
+      "rejestracja"
+    ],
+    "restrict": [
+      "ograniczać"
+    ],
+    "steel": [
+      "stal",
+      "stalowy"
+    ],
+    "houses": [
+      "mieścić"
+    ],
+    "complete": [
+      "całkowity",
+      "pełny"
+    ],
+    "standard": [
+      "standard",
+      "standardowy",
+      "norma"
+    ],
+    "hinges": [
+      "zawias"
+    ],
+    "surface": [
+      "powierzchnia"
+    ],
+    "ruggedness": [
+      "wytrzymałość"
+    ],
+    "cavitate": [
+      "kawitować"
+    ],
+    "charge": [
+      "doładowanie",
+      "ładunek"
+    ],
+    "output": [
+      "wydajność"
+    ],
+    "pressure": [
+      "ciśnienie"
+    ],
+    "front": [
+      "przedni",
+      "przód"
+    ],
+    "adhere": [
+      "przestrzegać"
+    ],
+    "parallel": [
+      "równoległy"
+    ],
+    "sophisticated": [
+      "zaawansowany"
+    ],
+    "cylinder-to-cylinder": [
+      "cylindrowy"
+    ],
+    "level": [
+      "poziom"
+    ],
+    "lowest": [
+      "najniższy"
+    ],
+    "cool": [
+      "chłodzić"
+    ],
+    "low-pressure": [
+      "niskociśnieniowy"
+    ],
+    "cover": [
+      "pokrywać",
+      "pokrywa",
+      "obejmować"
+    ],
+    "regulator": [
+      "regulator"
+    ],
+    "deployment": [
+      "wdrożenie"
+    ],
+    "manager": [
+      "menedżer"
+    ],
+    "seen": [
+      "widzieć"
+    ],
+    "Government": [
+      "rząd"
+    ],
+    "Inside": [
+      "wewnątrz"
+    ],
+    "magnetically": [
+      "magnetyczny"
+    ],
+    "Rally": [
+      "rajdy"
+    ],
+    "cars": [
+      "samochód"
+    ],
+    "interceptor": [
+      "przechwytywacz"
+    ],
+    "offers": [
+      "oferować"
+    ],
+    "smooth": [
+      "płynny"
+    ],
+    "worn": [
+      "zużyty"
+    ],
+    "attention": [
+      "uwaga"
+    ],
+    "sender": [
+      "czujnik"
+    ],
+    "secondary": [
+      "dodatkowy"
+    ],
+    "securely": [
+      "bezpieczny",
+      "bezpiecznie"
+    ],
+    "towing": [
+      "holowanie"
+    ],
+    "rigid": [
+      "sztywny"
+    ],
+    "haptic-feedback": [
+      "informacja dotykowa"
+    ],
+    "vital": [
+      "istotny",
+      "kluczowy",
+      "ważny"
+    ],
+    "engagement": [
+      "załączanie"
+    ],
+    "flawless": [
+      "bezbłędny",
+      "nieskazitelny"
+    ],
+    "without": [
+      "bez"
+    ],
+    "capture": [
+      "wychwytywać"
+    ],
+    "intent": [
+      "intencja"
+    ],
+    "induce": [
+      "powodować"
+    ],
+    "handling": [
+      "prowadzenie"
+    ],
+    "absolute": [
+      "bezwzględny",
+      "absolutny"
+    ],
+    "evolve": [
+      "ewoluować"
+    ],
+    "paramount": [
+      "kluczowy"
+    ],
+    "adverse": [
+      "niesprzyjający"
+    ],
+    "crank": [
+      "korba"
+    ],
+    "terminal": [
+      "zacisk"
+    ],
+    "set": [
+      "wyposażenie"
+    ],
+    "event": [
+      "wydarzenie",
+      "zdarzenie"
+    ],
+    "enable": [
+      "umożliwiać"
+    ],
+    "welding": [
+      "spawanie"
+    ],
+    "health": [
+      "zdrowie"
+    ],
+    "Vintage": [
+      "zabytkowy"
+    ],
+    "Sealing": [
+      "Uszczelnienie"
+    ],
+    "flow": [
+      "przepływ"
+    ],
+    "water-cooled": [
+      "chłodzenie wodą"
+    ],
+    "shaft": [
+      "wałek",
+      "wał"
+    ],
+    "flawlessly": [
+      "bez zarzutu"
+    ],
+    "thread": [
+      "gwint"
+    ],
+    "deformable": [
+      "odkształcalny"
+    ],
+    "block": [
+      "blok"
+    ],
+    "architectures": [
+      "architektura"
+    ],
+    "wash": [
+      "mycie"
+    ],
+    "diagnostic": [
+      "diagnostyczny"
+    ],
+    "environmentally": [
+      "ekologicznie"
+    ],
+    "integrated": [
+      "zintegrowany"
+    ],
+    "coordinated": [
+      "skoordynowany"
+    ],
+    "trucks": [
+      "ciężarówka"
+    ]
+  }
+}

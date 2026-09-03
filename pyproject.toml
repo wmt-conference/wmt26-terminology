@@ -1,0 +1,56 @@
+[project]
+name = "wmt26-terminology-evaluation"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "huggingface-hub>=0.30",
+    "mweralign==1.4.1",
+    "pydantic>=2.7",
+    "sacrebleu>=2.6.0",
+    "sentencepiece>=0.2",
+    "stanza>=1.14.0",
+]
+
+[project.optional-dependencies]
+# GPU scorer clients (metrics/comet.py, metrics/metricx.py).
+neural = [
+    "httpx>=0.28",
+    "setuptools<81",
+    "torch>=2.4",
+    "transformers>=4.45",
+    "unbabel-comet==2.2.7",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.8",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["wmt26_terminology*"]
+
+[tool.ruff]
+line-length = 128
+indent-width = 4
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I001", "I002", "ARG", "ANN", "PLR", "RUF", "C", "B", "UP"]
+extend-select = ["PLC0415", "TID252"]
+ignore = ["B008"]
+preview = true
+
+[tool.ruff.lint.mccabe]
+max-complexity = 15
+
+[tool.ruff.lint.flake8-tidy-imports]
+ban-relative-imports = "all"
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"

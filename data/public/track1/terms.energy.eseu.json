@@ -1,0 +1,4343 @@
+{
+  "proper": {
+    "absorbancia": [
+      "absorbantzia"
+    ],
+    "factor de absorción": [
+      "absorbantzia"
+    ],
+    "absorbedor puntual": [
+      "xurgatzaile puntual"
+    ],
+    "acceso seguro": [
+      "sarbide seguru"
+    ],
+    "aceite de pirólisis": [
+      "pirolisi-olio"
+    ],
+    "adaptación a condiciones de viento": [
+      "haizearen baldintzetara moldatze"
+    ],
+    "aerodinámica": [
+      "aerodinamika"
+    ],
+    "aerogenerador": [
+      "aerosorgailu",
+      "haize-sorgailu"
+    ],
+    "generador eólico": [
+      "aerosorgailu",
+      "haize-sorgailu"
+    ],
+    "aeroturbina": [
+      "haize-turbina"
+    ],
+    "turbina eólica": [
+      "haize-turbina"
+    ],
+    "agua de cola": [
+      "isatseko ur"
+    ],
+    "aguas poco profundas": [
+      "azaleko urak"
+    ],
+    "aguas profundas": [
+      "ur sakonak"
+    ],
+    "aislador": [
+      "isolagailu"
+    ],
+    "alcohol metílico": [
+      "metanol"
+    ],
+    "metanol": [
+      "metanol"
+    ],
+    "aliviadero": [
+      "gainezkabide"
+    ],
+    "almacén geotérmico": [
+      "hobi geotermiko"
+    ],
+    "yacimiento geotérmico": [
+      "hobi geotermiko"
+    ],
+    "almacenamiento a corto plazo": [
+      "epe laburreko metaketa"
+    ],
+    "almacenamiento a largo plazo": [
+      "epe luzeko metaketa"
+    ],
+    "almacenamiento de retención": [
+      "erretentzio bidezko metaketa"
+    ],
+    "almacenamiento de valle": [
+      "haraneko metaketa"
+    ],
+    "almacenamiento por bombeo": [
+      "ponpatze bidezko metaketa"
+    ],
+    "almacenamiento superficial": [
+      "azaleko metaketa"
+    ],
+    "alta tensión": [
+      "goi-tentsio"
+    ],
+    "altura de ola significante": [
+      "olatu-altuera adierazgarri"
+    ],
+    "análisis": [
+      "analisi"
+    ],
+    "análisis de aceite": [
+      "olioaren analisi"
+    ],
+    "análisis de estado": [
+      "egoeraren analisi"
+    ],
+    "análisis de ingresos-costes": [
+      "diru-sarreren eta kostuen analisi"
+    ],
+    "análisis de la calibración de los relés de protección": [
+      "babes-erreleen kalibrazioaren analisi"
+    ],
+    "análisis de plausibilidad": [
+      "onargarritasun-analisi"
+    ],
+    "análisis específico": [
+      "analisi espezifiko"
+    ],
+    "análisis y diagnóstico centrados en la fiabilidad": [
+      "fidagarritasunean ardaztutako analisi eta diagnostiko"
+    ],
+    "analizador": [
+      "analizagailu"
+    ],
+    "anemómetro": [
+      "anemometro"
+    ],
+    "ángulo de paso": [
+      "palaren angelu"
+    ],
+    "aparato de transformación": [
+      "transformazio-aparatu"
+    ],
+    "aperturas y cierres de gabinetes": [
+      "kabineteak irekitze eta ixte"
+    ],
+    "aplicación de productos químicos": [
+      "produktu kimikoak aplikatze"
+    ],
+    "apoyo": [
+      "berme"
+    ],
+    "apretar los terminales de conexión": [
+      "konexio-terminalak estutze"
+    ],
+    "archivo histórico de comportamiento": [
+      "portaeraren artxibo historiko"
+    ],
+    "área de barrido del rotor": [
+      "errotorearen ekortze-azalera"
+    ],
+    "superficie barrida": [
+      "errotorearen ekortze-azalera"
+    ],
+    "arquitectura bioclimática": [
+      "arkitektura bioklimatiko"
+    ],
+    "arquitectura solar": [
+      "arkitektura bioklimatiko"
+    ],
+    "asistente": [
+      "laguntzaile"
+    ],
+    "astilla": [
+      "ezpal"
+    ],
+    "automatismo eléctrico": [
+      "automatismo elektriko"
+    ],
+    "automatismo programable": [
+      "automatismo programagarri"
+    ],
+    "automatización": [
+      "automatizazio"
+    ],
+    "baja tensión": [
+      "behe-tentsio"
+    ],
+    "balance de beneficios": [
+      "onuren balantze"
+    ],
+    "bancos de ensayo de máquinas eléctricas": [
+      "makina elektrikoen saiakuntza-banku"
+    ],
+    "barquilla": [
+      "kaxa"
+    ],
+    "caja de maquinaria": [
+      "kaxa"
+    ],
+    "góndola": [
+      "kaxa"
+    ],
+    "bastidor": [
+      "bastidore"
+    ],
+    "biocarburante": [
+      "bioerregai"
+    ],
+    "biocombustible": [
+      "bioerregai"
+    ],
+    "bioconversión": [
+      "biobihurketa"
+    ],
+    "biodiésel": [
+      "biodiesel"
+    ],
+    "biogasóleo": [
+      "biodiesel"
+    ],
+    "bioenergía": [
+      "bioenergia"
+    ],
+    "bioetanol": [
+      "bioetanol"
+    ],
+    "biogás": [
+      "biogas"
+    ],
+    "biomasa": [
+      "biomasa"
+    ],
+    "biomasa residual": [
+      "hondar-biomasa"
+    ],
+    "biometanización": [
+      "biometanizazio"
+    ],
+    "bomba de agua de refrigeración": [
+      "hozteko uraren ponpa",
+      "zirkulazio-ponpa"
+    ],
+    "bomba de circulación": [
+      "hozteko uraren ponpa",
+      "zirkulazio-ponpa"
+    ],
+    "bomba de calor": [
+      "bero-ponpa"
+    ],
+    "bomba de calor geotérmica": [
+      "bero-ponpa geotermiko"
+    ],
+    "briqueta": [
+      "briketa"
+    ],
+    "bucle geotérmico": [
+      "begizta geotermiko"
+    ],
+    "buje": [
+      "abatz"
+    ],
+    "cable de tierra": [
+      "lur-konexioko kable"
+    ],
+    "cable portante": [
+      "sostengu-kable"
+    ],
+    "cable fiador": [
+      "sostengu-kable"
+    ],
+    "cableado": [
+      "kableatu"
+    ],
+    "caja espiral": [
+      "kaxa espiral"
+    ],
+    "cálculo de una instalación aislada": [
+      "instalazio isolatu baten kalkulu"
+    ],
+    "calefacción a distancia": [
+      "urrutiko berokuntza",
+      "auzo-berokuntza"
+    ],
+    "calefacción de distrito": [
+      "urrutiko berokuntza",
+      "auzo-berokuntza"
+    ],
+    "calefacción urbana": [
+      "urrutiko berokuntza",
+      "auzo-berokuntza"
+    ],
+    "calor de vaporización": [
+      "lurruntze-bero"
+    ],
+    "calor específico": [
+      "bero espezifiko"
+    ],
+    "calor instantáneo": [
+      "istanteko bero"
+    ],
+    "calor latente": [
+      "bero sor"
+    ],
+    "calor residual": [
+      "hondar-bero"
+    ],
+    "calor sensible": [
+      "bero sentikor"
+    ],
+    "cámara de carga": [
+      "karga-ganbera"
+    ],
+    "cámara de extinción": [
+      "itzaltze-ganbera"
+    ],
+    "canal de derivación": [
+      "deribazio-kanal",
+      "kanal hidrauliko"
+    ],
+    "canal hidráulico": [
+      "deribazio-kanal",
+      "kanal hidrauliko"
+    ],
+    "canal de salida": [
+      "irteerako kanal"
+    ],
+    "capacidad de arranque autónomo": [
+      "abio autonomorako ahalmen"
+    ],
+    "captador de oleaje tipo atenuador": [
+      "atenuadore"
+    ],
+    "atenuador": [
+      "atenuadore"
+    ],
+    "captador de oleaje tipo totalizador": [
+      "olatuen bat-bateko kaptadore"
+    ],
+    "captador enterrado": [
+      "kaptadore lurperatu"
+    ],
+    "sensor enterrado": [
+      "kaptadore lurperatu"
+    ],
+    "carga de fatiga": [
+      "neke-karga"
+    ],
+    "carga extrema": [
+      "karga maximo",
+      "muturreko karga"
+    ],
+    "caudal de equipamiento": [
+      "emari izendatu"
+    ],
+    "caudal nominal": [
+      "emari izendatu"
+    ],
+    "cavitación": [
+      "kabitazio"
+    ],
+    "célula fotovoltaica": [
+      "zelula fotovoltaiko"
+    ],
+    "célula solar": [
+      "zelula fotovoltaiko"
+    ],
+    "fotopila": [
+      "zelula fotovoltaiko"
+    ],
+    "central de agua fluyente": [
+      "ur lasterreko zentral"
+    ],
+    "central hidroeléctrica en derivación": [
+      "ur lasterreko zentral"
+    ],
+    "central de energía marina": [
+      "itsas energiako zentral"
+    ],
+    "central eólica": [
+      "haize-parke"
+    ],
+    "parque eólico": [
+      "haize-parke",
+      "HP"
+    ],
+    "central eólico-solar": [
+      "eguzki-zentral eoliko"
+    ],
+    "central solar de chimenea": [
+      "eguzki-zentral eoliko"
+    ],
+    "central fotovoltaica": [
+      "zentral fotovoltaiko"
+    ],
+    "central geotérmica": [
+      "zentral geotermiko"
+    ],
+    "central geotérmica de ciclo binario": [
+      "ziklo bitarreko zentral geotermiko"
+    ],
+    "central geotérmica de vapor flash": [
+      "bat-bateko lurruneko zentral geotermiko"
+    ],
+    "central geotérmica de vapor seco": [
+      "lurrun lehorreko zentral geotermiko"
+    ],
+    "central hidráulica": [
+      "zentral hidroelektriko"
+    ],
+    "central hidroeléctrica": [
+      "zentral hidroelektriko"
+    ],
+    "central hidroeléctrica de pie de presa": [
+      "urtegi-oinaldeko zentral"
+    ],
+    "central solar": [
+      "eguzki-zentral"
+    ],
+    "central solar de torre": [
+      "dorre-motako eguzki-zentral"
+    ],
+    "central solar orbital": [
+      "eguzki-zentral orbital"
+    ],
+    "central solar termoeléctrica": [
+      "eguzki-zentral termoelektriko",
+      "zentral heliotermiko"
+    ],
+    "centro de control": [
+      "kontrol-zentro"
+    ],
+    "centro de transformación": [
+      "transformazio-zentro"
+    ],
+    "ciclo combinado": [
+      "ziklo konbinatu"
+    ],
+    "ciclo de vida": [
+      "bizi-ziklo"
+    ],
+    "ciclo termodinámico": [
+      "ziklo termodinamiko"
+    ],
+    "cimentación": [
+      "zimendu"
+    ],
+    "cinta roja de seguridad": [
+      "segurtasun-zinta gorri"
+    ],
+    "cizalladura del viento": [
+      "haizearen zizailadura"
+    ],
+    "coeficiente de potencia": [
+      "potentzia-koefiziente"
+    ],
+    "cogeneración": [
+      "kogenerazio"
+    ],
+    "cogeneración con ciclo combinado": [
+      "ziklo konbinatu bidezko kogenerazio"
+    ],
+    "cogeneración con microturbina": [
+      "mikroturbina bidezko kogenerazio"
+    ],
+    "cogeneración con motor alternativo": [
+      "ordezko motor bidezko kogenerazio",
+      "motor alternatibo bidezko kogenerazio"
+    ],
+    "cogeneración con turbina de gas": [
+      "gas-turbina bidezko kogenerazio"
+    ],
+    "cogeneración con turbina de vapor": [
+      "lurrun-turbina bidezko kogenerazio"
+    ],
+    "cogeneración solar": [
+      "eguzki-kogenerazio"
+    ],
+    "cojinete": [
+      "kojinete"
+    ],
+    "colector solar": [
+      "eguzki-kolektore"
+    ],
+    "columna de achicamiento": [
+      "ekoizpen-zutabe"
+    ],
+    "columna de impulsión": [
+      "ekoizpen-zutabe"
+    ],
+    "columna de producción": [
+      "ekoizpen-zutabe"
+    ],
+    "columna de agua oscilante": [
+      "ur-zutabe oszilatzaile"
+    ],
+    "combustión": [
+      "errekuntza"
+    ],
+    "componentes eléctricos": [
+      "osagai elektrikoak"
+    ],
+    "componentes eólicos": [
+      "osagai eolikoak"
+    ],
+    "componentes mecánicos": [
+      "osagai mekanikoak"
+    ],
+    "compuerta directriz": [
+      "uhate zuzentzaile"
+    ],
+    "concentrador cilindro-parabólico": [
+      "kontzentratzaile zilindriko-paraboliko"
+    ],
+    "concentrador lineal Fresnel": [
+      "Fresnel kontzentratzaile lineal"
+    ],
+    "confiabilidad": [
+      "fidagarritasun"
+    ],
+    "consumo de energía": [
+      "energia-kontsumo"
+    ],
+    "consumo energético": [
+      "energia-kontsumo"
+    ],
+    "consumo específico de calor": [
+      "bero-kontsumo espezifiko"
+    ],
+    "consumo estimado": [
+      "kontsumo estimatu",
+      "kontsumo zenbatetsi"
+    ],
+    "consumo real": [
+      "kontsumo erreal"
+    ],
+    "continuidad de la instalación eléctrica": [
+      "instalazio elektrikoaren jarraitutasun",
+      "jarraitutasun"
+    ],
+    "continuidad": [
+      "instalazio elektrikoaren jarraitutasun",
+      "jarraitutasun"
+    ],
+    "control de la potencia": [
+      "potentzia-kontrol"
+    ],
+    "control de riesgos": [
+      "arriskuen kontrol"
+    ],
+    "control de rotación": [
+      "biraketaren kontrol"
+    ],
+    "controlador programable": [
+      "kontrolatzaile programagarri"
+    ],
+    "convección": [
+      "konbekzio"
+    ],
+    "conversión de energía": [
+      "energia-bihurtze",
+      "energia-bihurketa"
+    ],
+    "conversión de la energía térmica de los océanos": [
+      "itsasoko bero-energiaren bihurketa",
+      "IBEB"
+    ],
+    "CETO": [
+      "itsasoko bero-energiaren bihurketa",
+      "IBEB"
+    ],
+    "convertidor": [
+      "bihurgailu"
+    ],
+    "convertidor de energía de las mareas": [
+      "marea-energiaren bihurgailu"
+    ],
+    "convertidor de energía mareomotriz": [
+      "marea-energiaren bihurgailu"
+    ],
+    "convertidor de energía de las olas": [
+      "olatu-energiaren bihurgailu"
+    ],
+    "coronación": [
+      "gailur"
+    ],
+    "corriente alterna": [
+      "korronte alterno"
+    ],
+    "corriente continua": [
+      "korronte zuzen"
+    ],
+    "corriente eléctrica": [
+      "korronte elektriko"
+    ],
+    "corriente marina": [
+      "itsaslaster"
+    ],
+    "coste de explotación": [
+      "ustiapen-kostu"
+    ],
+    "costo de explotación": [
+      "ustiapen-kostu"
+    ],
+    "coste de mantenimiento": [
+      "mantentze-kostu"
+    ],
+    "costo de mantenimiento": [
+      "mantentze-kostu"
+    ],
+    "costos de ampliación": [
+      "handitze-kostu"
+    ],
+    "costos de construcción": [
+      "eraikitze-kostu"
+    ],
+    "costos de operación": [
+      "operazio-kostu"
+    ],
+    "costos de promoción": [
+      "sustapen-kostu"
+    ],
+    "costos de reemplazo": [
+      "ordezte-kostu"
+    ],
+    "costos de renovación": [
+      "berritze-kostu"
+    ],
+    "costos de reparación": [
+      "konpontze-kostu"
+    ],
+    "criterios rígidos y conservadores": [
+      "irizpide zurrun eta kontserbatzaileak"
+    ],
+    "cuadro de distribución": [
+      "banaketa-koadro"
+    ],
+    "cuerpo extraño": [
+      "gorputz arrotz"
+    ],
+    "cultivo energético": [
+      "energia-labore"
+    ],
+    "curva de potencia": [
+      "potentzia-kurba"
+    ],
+    "densidad relativa": [
+      "dentsitate erlatibo"
+    ],
+    "desalación solar": [
+      "eguzki-gezatze"
+    ],
+    "desbalances de corriente entre fases": [
+      "faseen arteko korronte-desorekak"
+    ],
+    "destilación solar": [
+      "eguzki-destilazio"
+    ],
+    "dinamómetro": [
+      "dinamometro"
+    ],
+    "dique de derivación": [
+      "antapara",
+      "deribazio-dike"
+    ],
+    "dirección del viento": [
+      "haize-norabide"
+    ],
+    "disco Stirling": [
+      "Stirling disko"
+    ],
+    "disponibilidad": [
+      "erabilgarritasun"
+    ],
+    "dispositivo de rebosamiento": [
+      "gainezkatze-gailu"
+    ],
+    "distribución de la energía eléctrica": [
+      "energia elektrikoaren banaketa"
+    ],
+    "disyuntor": [
+      "disjuntore"
+    ],
+    "doblete geotérmico": [
+      "bikote geotermiko"
+    ],
+    "edificio de parque": [
+      "parkeko eraikin"
+    ],
+    "efecto colina": [
+      "muino-efektu"
+    ],
+    "efecto de abrigo del viento": [
+      "haize-babes efektu"
+    ],
+    "efecto de la estela": [
+      "ubera-efektu"
+    ],
+    "efecto de parque": [
+      "parke-efektu"
+    ],
+    "efecto de proximidad": [
+      "parke-efektu"
+    ],
+    "efecto túnel": [
+      "tunel-efektu"
+    ],
+    "eficiencia de mantenimiento": [
+      "mantentze-efizientzia"
+    ],
+    "eficiencia energética": [
+      "energia-efizientzia"
+    ],
+    "eje del rotor": [
+      "errotorearen ardatz"
+    ],
+    "electrodiálisis inversa": [
+      "alderantzizko elektrodialisi"
+    ],
+    "electromotores reductores": [
+      "elektromotor erreduzitzaileak"
+    ],
+    "energía cinética": [
+      "energia zinetiko"
+    ],
+    "energía de las mareas": [
+      "marea-energia"
+    ],
+    "energía mareomotriz": [
+      "marea-energia"
+    ],
+    "energía del gradiente salino": [
+      "gatz-gradientearen energia"
+    ],
+    "energía del mar": [
+      "itsas energia"
+    ],
+    "energía oceánica": [
+      "itsas energia"
+    ],
+    "energía del oleaje": [
+      "olatuen energia"
+    ],
+    "energía olamotriz": [
+      "olatuen energia"
+    ],
+    "energía undimotriz": [
+      "olatuen energia"
+    ],
+    "energía derivada": [
+      "energia eratorri"
+    ],
+    "energía secundaria": [
+      "energia eratorri"
+    ],
+    "energía eléctrica": [
+      "energia elektriko"
+    ],
+    "energía eólica": [
+      "haize-energia"
+    ],
+    "energía final": [
+      "azken energia"
+    ],
+    "energía suministrada": [
+      "azken energia"
+    ],
+    "energía firme": [
+      "energia bermatu"
+    ],
+    "energía geotérmica": [
+      "energia geotermiko"
+    ],
+    "energía geotérmica de alta entalpía": [
+      "entalpia altuko energia geotermiko"
+    ],
+    "energía geotérmica de baja entalpía": [
+      "entalpia baxuko energia geotermiko"
+    ],
+    "energía geotérmica de entalpía media": [
+      "entalpia ertaineko energia geotermiko"
+    ],
+    "energía geotérmica de muy baja entalpía": [
+      "oso entalpia baxuko energia geotermiko"
+    ],
+    "energía hidráulica": [
+      "energia hidrauliko"
+    ],
+    "energía hidroeléctrica": [
+      "energia hidroelektriko"
+    ],
+    "energía mecánica": [
+      "energia mekaniko"
+    ],
+    "energía no renovable": [
+      "energia berriztaezin"
+    ],
+    "energía potencial": [
+      "energia potentzial"
+    ],
+    "energía primaria": [
+      "energia primario"
+    ],
+    "energía radiante": [
+      "energia erradiatzaile"
+    ],
+    "energía renovable": [
+      "energia berriztagarri"
+    ],
+    "energía solar": [
+      "eguzki-energia"
+    ],
+    "energía solar fotovoltaica": [
+      "eguzki-energia fotovoltaiko"
+    ],
+    "energía térmica": [
+      "energia termiko"
+    ],
+    "engrase": [
+      "koipeztaketa"
+    ],
+    "ensayo de bombeo": [
+      "probako ponpatze"
+    ],
+    "prueba de producción": [
+      "probako ponpatze"
+    ],
+    "equipamiento electromecánico": [
+      "ekipamendu elektromekaniko"
+    ],
+    "equipo de alta tensión": [
+      "goi-tentsioko ekipo"
+    ],
+    "equipo de protección anticaídas": [
+      "erorketen kontrako babes-ekipo"
+    ],
+    "equipo de protección individual": [
+      "norbera babesteko ekipamendu",
+      "NBE"
+    ],
+    "EPI": [
+      "norbera babesteko ekipamendu",
+      "NBE"
+    ],
+    "equipo verificador": [
+      "egiaztatze-ekipo"
+    ],
+    "escala de peces": [
+      "arrain-eskailera"
+    ],
+    "escala IRE": [
+      "IRE eskala"
+    ],
+    "espectro direccional del oleaje": [
+      "olatuen espektro direkzional"
+    ],
+    "esquema eléctrico": [
+      "eskema elektriko"
+    ],
+    "estado de mar": [
+      "itsasoaren egoera"
+    ],
+    "estanque solar": [
+      "eguzki-urmael"
+    ],
+    "laguna solar no convectiva": [
+      "eguzki-urmael"
+    ],
+    "estiércol líquido": [
+      "minda"
+    ],
+    "purín": [
+      "minda"
+    ],
+    "estrategia de control": [
+      "kontrol-estrategia"
+    ],
+    "estrategias de mantenimiento": [
+      "mantentze-estrategia"
+    ],
+    "evolución continua": [
+      "etengabeko eboluzio"
+    ],
+    "excitador": [
+      "kitzikagailu"
+    ],
+    "extinción de incendio": [
+      "sutea iraungitze"
+    ],
+    "factor de capacidad": [
+      "kapazitate-faktore"
+    ],
+    "factor de carga": [
+      "karga-faktore"
+    ],
+    "factor de disponibilidad": [
+      "erabilgarritasun-faktore"
+    ],
+    "fermentación": [
+      "hartzidura"
+    ],
+    "fluido caloportador de calor": [
+      "fluido bero-eroale"
+    ],
+    "fluido caloportador": [
+      "fluido bero-eroale"
+    ],
+    "fluido primario": [
+      "fluido bero-eroale"
+    ],
+    "fluido geotérmico": [
+      "fluido geotermiko"
+    ],
+    "flujo energético": [
+      "erradiazio-fluxu"
+    ],
+    "flujo radiante": [
+      "erradiazio-fluxu"
+    ],
+    "fracción solar": [
+      "eguzki-frakzio"
+    ],
+    "frecuencia del generador": [
+      "sorgailuaren maiztasun"
+    ],
+    "freno del giro": [
+      "biraketaren freno"
+    ],
+    "fuente de energía": [
+      "energia-iturri"
+    ],
+    "fuente energética": [
+      "energia-iturri"
+    ],
+    "funcionalidad de un activo": [
+      "aktibo baten funtzionaltasun",
+      "aktiboaren funtzionaltasun"
+    ],
+    "funcionalidad del activo": [
+      "aktibo baten funtzionaltasun",
+      "aktiboaren funtzionaltasun"
+    ],
+    "funcionamiento en modo tormenta": [
+      "ekaitz moduko funtzionamendu"
+    ],
+    "funcionamiento modo tormenta": [
+      "ekaitz moduko funtzionamendu"
+    ],
+    "ganancia solar": [
+      "eguzki-irabazi"
+    ],
+    "ganancia térmica": [
+      "eguzki-irabazi"
+    ],
+    "ganancia térmica interna": [
+      "bero-irabazi"
+    ],
+    "ganancia interna": [
+      "bero-irabazi"
+    ],
+    "gas de síntesis": [
+      "sintesi-gas"
+    ],
+    "gas de vertedero": [
+      "hondakindegiko gas",
+      "zabortegiko gas"
+    ],
+    "gasificación": [
+      "gasifikazio"
+    ],
+    "gasificación de la biomasa": [
+      "biomasaren gasifikazio"
+    ],
+    "gasificador": [
+      "gasogeno"
+    ],
+    "gasógeno": [
+      "gasogeno"
+    ],
+    "generador": [
+      "sorgailu"
+    ],
+    "geointercambio": [
+      "geotruke"
+    ],
+    "gestión de mantenimiento": [
+      "mantentzearen kudeaketa"
+    ],
+    "gestión del flujo": [
+      "fluxuaren kudeaketa"
+    ],
+    "Global Wind Organisation": [
+      "Global Wind Organisation",
+      "GWO"
+    ],
+    "GWO": [
+      "Global Wind Organisation",
+      "GWO"
+    ],
+    "gradiente geotérmico": [
+      "gradiente geotermiko"
+    ],
+    "grado geotérmico": [
+      "gradu geotermiko"
+    ],
+    "grande correctivo": [
+      "zuzengarri handi"
+    ],
+    "grasa utilizada": [
+      "erabilitako koipe"
+    ],
+    "grupo aerogeneradores": [
+      "aerosorgailuen talde"
+    ],
+    "grupo de promotores": [
+      "sustatzaileen talde"
+    ],
+    "grupo electrógeno": [
+      "ekipo elektrogeno"
+    ],
+    "helióstato": [
+      "heliostato"
+    ],
+    "herraje": [
+      "burdineria"
+    ],
+    "herramienta calibrada": [
+      "tresna kalibratu"
+    ],
+    "herramienta manual": [
+      "esku-erreminta"
+    ],
+    "hibridación": [
+      "hibridazio"
+    ],
+    "hidráulica": [
+      "hidraulika"
+    ],
+    "histórico de alarmas y eventos": [
+      "alarmen eta gertaeren historiko"
+    ],
+    "histórico de puntos de funcionamiento": [
+      "funtzionamendu-puntuen historiko"
+    ],
+    "hoja de vida del equipo": [
+      "ekipoaren bizitza-orri"
+    ],
+    "homogeneización": [
+      "homogeneizazio"
+    ],
+    "horas de explotación": [
+      "ustiapen-orduak",
+      "Heq"
+    ],
+    "Heq": [
+      "ustiapen-orduak",
+      "Heq"
+    ],
+    "horno solar": [
+      "eguzki-labe"
+    ],
+    "humo": [
+      "ke"
+    ],
+    "ignición": [
+      "sutze"
+    ],
+    "impedancia de bucle": [
+      "begizta-inpedantzia"
+    ],
+    "incineración": [
+      "errausketa"
+    ],
+    "incineradora": [
+      "erraustegi",
+      "hondakinak errausteko instalazio"
+    ],
+    "planta de incineración de residuos": [
+      "erraustegi",
+      "hondakinak errausteko instalazio"
+    ],
+    "planta incineradora": [
+      "erraustegi",
+      "hondakinak errausteko instalazio"
+    ],
+    "indice de cobertura de mantenimiento": [
+      "mantentze-estalduraren indize"
+    ],
+    "indice de mantenimiento": [
+      "mantentze-indize"
+    ],
+    "ingeniero de planificación de mantenimiento": [
+      "mantentze-plangintzaren ingeniari",
+      "mantentze-ingeniari"
+    ],
+    "ingeniero de mantenimiento": [
+      "mantentze-plangintzaren ingeniari",
+      "mantentze-ingeniari"
+    ],
+    "inspección": [
+      "ikuskapen"
+    ],
+    "inspección termográfica": [
+      "ikuskapen termografiko"
+    ],
+    "revisión termográfica": [
+      "ikuskapen termografiko"
+    ],
+    "instalación eléctrica": [
+      "instalazio elektriko"
+    ],
+    "instalación eléctrica de alta tensión": [
+      "goi-tentsioko instalazio elektriko"
+    ],
+    "instalación eléctrica de baja tensión": [
+      "behe-tentsioko instalazio elektriko"
+    ],
+    "instalación eólica": [
+      "instalazio eoliko"
+    ],
+    "instalación solar fotovoltaica": [
+      "eguzki-instalazio fotovoltaiko"
+    ],
+    "sistema fotovoltaico": [
+      "eguzki-instalazio fotovoltaiko"
+    ],
+    "instalación solar térmica": [
+      "eguzki-instalazio termiko"
+    ],
+    "instrumentación": [
+      "instrumentazio"
+    ],
+    "instrumentación eléctrica": [
+      "instrumentazio elektriko"
+    ],
+    "instrumental": [
+      "tresneria"
+    ],
+    "utillaje": [
+      "tresneria"
+    ],
+    "instrumento de medición de panel": [
+      "panel gisako neurtze-tresna"
+    ],
+    "intensidad energética": [
+      "erradiazio-intentsitate"
+    ],
+    "intercambiador de calor": [
+      "bero-trukagailu"
+    ],
+    "interruptor automático": [
+      "etengailu automatiko"
+    ],
+    "interruptor diferencial": [
+      "etengailu diferentzial"
+    ],
+    "lámpara de señalización": [
+      "seinalizazio-lanpara"
+    ],
+    "lavado de aisladores": [
+      "isolagailuen garbiketa"
+    ],
+    "lecho filtrante": [
+      "iragazte-ohantze"
+    ],
+    "licuefacción": [
+      "likidotze"
+    ],
+    "limpieza general": [
+      "garbiketa orokor"
+    ],
+    "línea eléctrica aérea": [
+      "aireko linea elektriko"
+    ],
+    "línea eléctrica subterránea": [
+      "lurpeko linea elektriko"
+    ],
+    "línea de evacuación": [
+      "hustuketa-linea"
+    ],
+    "líneas de transporte y distribución": [
+      "garraio- eta banaketa-lineak"
+    ],
+    "lubricación": [
+      "lubrifikazio"
+    ],
+    "magnitud física": [
+      "magnitude fisiko"
+    ],
+    "manipulación de cargas": [
+      "kargen manipulazio"
+    ],
+    "manipulación manual de cargas": [
+      "kargen eskuzko manipulazio",
+      "KEM"
+    ],
+    "MMC": [
+      "kargen eskuzko manipulazio",
+      "KEM"
+    ],
+    "mantenimiento basado en confiabilidad": [
+      "fidagarritasunean oinarritutako mantentze"
+    ],
+    "mantenimiento centrado en la confiabilidad": [
+      "fidagarritasunean oinarritutako mantentze"
+    ],
+    "mantenimiento basado en la condición": [
+      "egoeran oinarritutako mantentze"
+    ],
+    "mantenimiento correctivo": [
+      "mantentze zuzentzaile"
+    ],
+    "mantenimiento de documentación": [
+      "dokumentazioko mantentze"
+    ],
+    "mantenimiento de energía": [
+      "energiako mantentze"
+    ],
+    "mantenimiento de equipo": [
+      "ekipoko mantentze"
+    ],
+    "mantenimiento de hardware": [
+      "hardwareko mantentze"
+    ],
+    "mantenimiento de herramientas": [
+      "erreminten mantentze"
+    ],
+    "mantenimiento de medioambiente": [
+      "ingurumeneko mantentze"
+    ],
+    "mantenimiento de personal": [
+      "pertsonaleko mantentze"
+    ],
+    "mantenimiento de roturas": [
+      "hausturen mantentze"
+    ],
+    "mantenimiento de seguridad": [
+      "segurtasuneko mantentze"
+    ],
+    "mantenimiento de software": [
+      "softwareko mantentze"
+    ],
+    "mantenimiento de suministros": [
+      "horniduretako mantentze"
+    ],
+    "mantenimiento externalizado": [
+      "mantentze azpikontratatu"
+    ],
+    "mantenimiento externo": [
+      "kanpo-mantentze"
+    ],
+    "mantenimiento interno": [
+      "barne-mantentze"
+    ],
+    "mantenimiento legal": [
+      "legezko mantentze"
+    ],
+    "mantenimiento mixto": [
+      "mantentze misto"
+    ],
+    "mantenimiento no programado": [
+      "mantentze ez-programatu"
+    ],
+    "mantenimiento periódico": [
+      "aldizkako mantentze"
+    ],
+    "mantenimiento planificado": [
+      "mantentze planifikatu"
+    ],
+    "mantenimiento predictivo": [
+      "mantentze prediktibo"
+    ],
+    "mantenimiento preventivo": [
+      "prebentziozko mantentze"
+    ],
+    "mantenimiento programado": [
+      "mantentze programatu"
+    ],
+    "manual de mantenimiento": [
+      "mantentze-eskuliburu"
+    ],
+    "máquina eléctrica": [
+      "makina elektriko"
+    ],
+    "maquinaria": [
+      "makineria"
+    ],
+    "material de seguridad": [
+      "segurtasun-material"
+    ],
+    "matriz de potencia": [
+      "potentzia-matrize"
+    ],
+    "media tensión": [
+      "tentsio ertain",
+      "TE"
+    ],
+    "MT": [
+      "tentsio ertain",
+      "TE"
+    ],
+    "medidor de aislamiento": [
+      "isolamendu-neurgailu"
+    ],
+    "medidor de rigidez dieléctrica": [
+      "zurruntasun dielektrikoaren neurgailu"
+    ],
+    "medio de protección colectiva": [
+      "babes kolektiboko bitarteko"
+    ],
+    "medio de protección individual": [
+      "banakako babeseko bitarteko"
+    ],
+    "megger": [
+      "megger"
+    ],
+    "meteorología": [
+      "meteorologia"
+    ],
+    "metereología": [
+      "meteorologia"
+    ],
+    "método de diagnóstico": [
+      "metodo diagnostiko"
+    ],
+    "minería profunda de calor": [
+      "bero-meatzaritza sakon"
+    ],
+    "minicentral hidroeléctrica": [
+      "minizentral hidroelektriko"
+    ],
+    "modelo de menor mantenimiento": [
+      "mantentze gutxiagoko eredu"
+    ],
+    "modelo TPM": [
+      "TPM eredu"
+    ],
+    "módulo fotovoltaico": [
+      "modulu fotovoltaiko"
+    ],
+    "monitorización": [
+      "monitorizazio"
+    ],
+    "motor reductor": [
+      "motor murriztaile"
+    ],
+    "motor térmico": [
+      "motor termiko"
+    ],
+    "muro acumulador": [
+      "horma bero-metatzaile"
+    ],
+    "muro colector Trombe": [
+      "Trombe horma"
+    ],
+    "pared colectora tipo Trombe": [
+      "Trombe horma"
+    ],
+    "nivel de energía": [
+      "energia-maila"
+    ],
+    "nodo de cobre": [
+      "kobrezko nodo"
+    ],
+    "normas de prueba de equipos": [
+      "ekipoak probatzeko arauak"
+    ],
+    "normas de seguridad": [
+      "segurtasun-arauak"
+    ],
+    "obra de toma": [
+      "hargune-obra"
+    ],
+    "obstrucción de la vía aérea": [
+      "aire-bidea buxatze"
+    ],
+    "operación y mantenimiento": [
+      "operazio eta mantentze",
+      "O&M"
+    ],
+    "O&M": [
+      "operazio eta mantentze",
+      "O&M"
+    ],
+    "órgano de cierre de la turbina": [
+      "turbinaren ixte-elementu"
+    ],
+    "osmosis de presión retardada": [
+      "presio atzeratuko osmosi"
+    ],
+    "pala": [
+      "pala"
+    ],
+    "panel fotovoltaico": [
+      "panel fotovoltaiko"
+    ],
+    "panel solar": [
+      "panel fotovoltaiko"
+    ],
+    "par de apriete": [
+      "estutze-pare"
+    ],
+    "parámetro": [
+      "parametro"
+    ],
+    "parámetro de funcionamiento": [
+      "funtzionamendu-parametro"
+    ],
+    "pararrayos": [
+      "tximistorratz"
+    ],
+    "PE": [
+      "haize-parke",
+      "HP"
+    ],
+    "pella": [
+      "pellet"
+    ],
+    "pérdida térmica": [
+      "bero-galera"
+    ],
+    "periodo energético": [
+      "energia-periodo",
+      "Te"
+    ],
+    "Te": [
+      "energia-periodo",
+      "Te"
+    ],
+    "personal de mantenimiento": [
+      "mantentze-langileak"
+    ],
+    "perturbaciones de red": [
+      "sare-perturbazioak"
+    ],
+    "pinzas amperimétricas": [
+      "pintza amperemetrikoak"
+    ],
+    "pirólisis de la biomasa": [
+      "biomasaren pirolisi"
+    ],
+    "placa absorbente": [
+      "xurgatzaile",
+      "xafla xurgatzaile"
+    ],
+    "plan de emergencia y evacuación": [
+      "larrialdi- eta ebakuazio-plan"
+    ],
+    "plan de mantenimiento": [
+      "mantentze-plan"
+    ],
+    "planta de cogeneración": [
+      "kogenerazio-planta"
+    ],
+    "planta de gasificación": [
+      "gasifikazio-instalazio"
+    ],
+    "planta de valorización de biogás": [
+      "zabortegiko gasa baliarazteko zentral"
+    ],
+    "plataforma adosada": [
+      "plataforma atxiki"
+    ],
+    "plataforma de formación virtual": [
+      "trebakuntza birtualeko plataforma"
+    ],
+    "poda de la vegetación": [
+      "landaredia kimatze"
+    ],
+    "poder calorífico": [
+      "berotze-ahalmen"
+    ],
+    "polímetro": [
+      "polimetro"
+    ],
+    "potencia": [
+      "potentzia"
+    ],
+    "potencia calorífica": [
+      "bero-potentzia"
+    ],
+    "potencia de salida": [
+      "irteerako potentzia"
+    ],
+    "potencia del viento": [
+      "haizearen potentzia"
+    ],
+    "potencia eólica": [
+      "haizearen potentzia"
+    ],
+    "potencia eléctrica neta suministrada": [
+      "irteerako potentzia elektriko garbi"
+    ],
+    "potencia instalada": [
+      "potentzia instalatu"
+    ],
+    "potencia máxima": [
+      "gehieneko potentzia"
+    ],
+    "potencia nominal": [
+      "potentzia izendatu"
+    ],
+    "potencia/energía trifásica": [
+      "potentzia/energia trifasiko"
+    ],
+    "pozo de inyección": [
+      "injekzio-putzu"
+    ],
+    "precisión de la incertidumbre": [
+      "ziurgabetasunaren zehaztasun"
+    ],
+    "predicción y programación de cargas": [
+      "kargak aurreikuste eta programatze"
+    ],
+    "presa": [
+      "presa"
+    ],
+    "presa de mareas": [
+      "marea-presa"
+    ],
+    "prevención de riesgos laborales": [
+      "laneko arriskuen prebentzio"
+    ],
+    "primera asistencia al accidentado": [
+      "istripua izan duenaren lehen sorospenak",
+      "istripua izan duenaren lehen laguntzak"
+    ],
+    "primeros auxilios": [
+      "lehen sorospenak",
+      "lehen laguntzak"
+    ],
+    "producción": [
+      "ekoizpen"
+    ],
+    "protección anticorrosiva": [
+      "korrosio-kontrako babes"
+    ],
+    "protección colectiva": [
+      "babes kolektibo"
+    ],
+    "protección individual": [
+      "babes indibidual"
+    ],
+    "puente de Wheatstone": [
+      "Wheatstone-ren zubi"
+    ],
+    "puesta en marcha": [
+      "martxan jartze"
+    ],
+    "puesta en tensión": [
+      "tentsioan jartze"
+    ],
+    "puesta a tierra fija": [
+      "lur-konexio finko"
+    ],
+    "puesta a tierra portátil": [
+      "lur-konexio eramangarri"
+    ],
+    "radiación solar": [
+      "eguzki-erradiazio"
+    ],
+    "ratio de mantenimiento externalizado": [
+      "mantentze azpikontratatuaren ratio"
+    ],
+    "ratios de tipo de mantenimiento": [
+      "mantentze-motaren ratioak"
+    ],
+    "reactancia": [
+      "erreaktantzia"
+    ],
+    "reajuste general": [
+      "birdoitze orokor"
+    ],
+    "reanimación cardiopulmonar básica": [
+      "bihotz-biriketako bizkortze basiko",
+      "BBB basiko"
+    ],
+    "RCP básica": [
+      "bihotz-biriketako bizkortze basiko",
+      "BBB basiko"
+    ],
+    "receptor": [
+      "hargailu"
+    ],
+    "rectificador": [
+      "artezgailu"
+    ],
+    "recurso geotérmico": [
+      "baliabide geotermiko"
+    ],
+    "red de baja tensión": [
+      "behe-tentsioko sare"
+    ],
+    "red de distribución": [
+      "banaketa-sare",
+      "garraio-sare"
+    ],
+    "red de transporte": [
+      "banaketa-sare",
+      "garraio-sare"
+    ],
+    "red de telecomunicaciones": [
+      "telekomunikazio-sare"
+    ],
+    "red eléctrica aérea de alta tensión": [
+      "goi-tentsioko aireko sare elektriko"
+    ],
+    "redes de armónicos": [
+      "harmonikoen sare"
+    ],
+    "redes eléctricas subterráneas": [
+      "lurrazpiko elektrizitate-sareak",
+      "lurrazpiko sare elektrikoak"
+    ],
+    "reflector": [
+      "islagailu"
+    ],
+    "registrador": [
+      "erregistragailu"
+    ],
+    "regulación de potencia activa": [
+      "potentzia aktiboaren doikuntza"
+    ],
+    "regulación de potencia reactiva": [
+      "potentzia erreaktiboaren doikuntza"
+    ],
+    "regulación f-P": [
+      "f-P doikuntza"
+    ],
+    "regulador solar": [
+      "eguzki-erregulagailu"
+    ],
+    "rendimiento": [
+      "errendimendu"
+    ],
+    "rendimiento de potencia": [
+      "potentzia-errendimendu"
+    ],
+    "reparación": [
+      "konpontze"
+    ],
+    "repowering": [
+      "repowering"
+    ],
+    "residuo sólido municipal": [
+      "hiri-hondakin solido",
+      "HHS"
+    ],
+    "residuo sólido urbano": [
+      "hiri-hondakin solido",
+      "HHS"
+    ],
+    "RSU": [
+      "hiri-hondakin solido",
+      "HHS"
+    ],
+    "resistencia de aislamiento del cable": [
+      "kablearen isolamendu-erresistentzia"
+    ],
+    "resistencia de tierra": [
+      "lurreko erresistentzia"
+    ],
+    "restablecimiento de tensión": [
+      "tentsioa berrezartze"
+    ],
+    "retrofit": [
+      "retrofit"
+    ],
+    "roca caliente seca": [
+      "arroka lehor bero"
+    ],
+    "rodete": [
+      "errotore"
+    ],
+    "rotor": [
+      "errotore",
+      "haize-errotore"
+    ],
+    "rosa de los vientos": [
+      "haize-arrosa"
+    ],
+    "rotor eólico": [
+      "haize-errotore"
+    ],
+    "rueda giratoria": [
+      "turbina-gurpil"
+    ],
+    "salto bruto": [
+      "ur-jauzi gordin"
+    ],
+    "salto neto": [
+      "ur-jauzi garbi"
+    ],
+    "seccionador": [
+      "ebakigailu"
+    ],
+    "seguidor solar": [
+      "eguzki-jarraitzaile"
+    ],
+    "seguridad técnica": [
+      "segurtasun tekniko"
+    ],
+    "seguridad y salud en el trabajo": [
+      "laneko segurtasun eta osasun"
+    ],
+    "señalización zona de trabajo": [
+      "lan-eremuaren seinalizazio"
+    ],
+    "sensibilidad de disparo de diferenciales": [
+      "diferentzialen desarra-sentikortasun"
+    ],
+    "sensorización": [
+      "sentsorizazio"
+    ],
+    "servicio auxiliar": [
+      "zerbitzu osagarri",
+      "laguntza-zerbitzu"
+    ],
+    "simulador": [
+      "simulagailu"
+    ],
+    "simulador de realidad virtual": [
+      "errealitate birtualeko simulagailu"
+    ],
+    "sistema aéreo": [
+      "aireko sistema"
+    ],
+    "sistema anticaídas": [
+      "erorketen kontrako sistema"
+    ],
+    "sistema central informatizado": [
+      "sistema zentral informatizatu"
+    ],
+    "sistema centralizado de gestión": [
+      "kudeaketako sistema zentralizatu"
+    ],
+    "sistema de control": [
+      "kontrol-sistema"
+    ],
+    "sistema de control de giro": [
+      "biraketa-kontrolaren sistema"
+    ],
+    "sistema de control monitoreado": [
+      "monitore bidez kontrolatutako sistema",
+      "CMS"
+    ],
+    "CMS": [
+      "monitore bidez kontrolatutako sistema",
+      "CMS"
+    ],
+    "sistema de control remoto": [
+      "urruneko kontroleko sistema"
+    ],
+    "sistema de detección de incendios": [
+      "suteak detektatzeko sistema"
+    ],
+    "sistema de distribución eléctrica": [
+      "elektrizitatea banatzeko sistema"
+    ],
+    "sistema de energía trifásica": [
+      "energia-sistema trifasiko",
+      "hiru faseko energia-sistema"
+    ],
+    "sistema de enfriamiento": [
+      "hozte-sistema"
+    ],
+    "sistema de refrigeración": [
+      "hozte-sistema"
+    ],
+    "sistema de evacuación de tensión": [
+      "tentsio-hustuketarako sistema"
+    ],
+    "sistema de extracción de potencia": [
+      "potentzia ateratzeko sistema"
+    ],
+    "sistema de frenado": [
+      "frenatze-sistema"
+    ],
+    "sistema de giro azimutal": [
+      "biraketa-sistema azimutal"
+    ],
+    "sistema de giro": [
+      "biraketa-sistema",
+      "yaw sistema",
+      "control yaw"
+    ],
+    "sistema del yaw": [
+      "biraketa-sistema",
+      "yaw sistema",
+      "control yaw"
+    ],
+    "control yaw": [
+      "biraketa-sistema",
+      "yaw sistema",
+      "control yaw"
+    ],
+    "sistema de mantenimiento": [
+      "mantentze-sistema"
+    ],
+    "sistema de media tensión": [
+      "tentsio ertaineko sistema"
+    ],
+    "sistema de medición y control": [
+      "neurketa- eta kontrol-sistema"
+    ],
+    "sistema de orientación": [
+      "orientazio-sistema"
+    ],
+    "sistema de pitch": [
+      "pitch sistema"
+    ],
+    "sistema de protección": [
+      "babes-sistema"
+    ],
+    "sistema de seguridad para las prácticas": [
+      "praktiketarako segurtasun-sistema"
+    ],
+    "sistema de telecontrol": [
+      "urrutiko kontroleko sistema"
+    ],
+    "sistema eléctrico de baja tensión": [
+      "behe-tentsioko sistema elektriko"
+    ],
+    "sistema electroenergético": [
+      "sistema elektroenergetiko"
+    ],
+    "sistema GOT": [
+      "GOT sistema"
+    ],
+    "sistema híbrido de energías renovables": [
+      "sistema hibrido berriztagarri"
+    ],
+    "sistema inferior de cogeneración": [
+      "kogenerazioko behe-sistema"
+    ],
+    "sistema informático": [
+      "sistema informatiko"
+    ],
+    "sistema LOTO de bloqueo": [
+      "LOTO blokeo-sistema"
+    ],
+    "sistema mobility": [
+      "mobility sistema"
+    ],
+    "sistema SEFE": [
+      "SEFE sistema"
+    ],
+    "sistema solar híbrido": [
+      "eguzki-sistema hibrido"
+    ],
+    "sistema solar pasivo": [
+      "eguzki-sistema pasibo"
+    ],
+    "sistema subterráneo": [
+      "lurpeko sistema"
+    ],
+    "sistema superior de cogeneración": [
+      "kogenerazioko goi-sistema"
+    ],
+    "sobrecalentamiento": [
+      "gainberotze"
+    ],
+    "solicitud de trabajo": [
+      "lan-eskabide",
+      "LE"
+    ],
+    "ST": [
+      "lan-eskabide",
+      "LE"
+    ],
+    "sonda de intercambio geotérmico": [
+      "zunda geotermiko"
+    ],
+    "subestación": [
+      "azpiestazio"
+    ],
+    "subsistema de frenado": [
+      "frenatze-azpisistema"
+    ],
+    "subsistema de orientación": [
+      "orientazio-azpisistema"
+    ],
+    "subsistema de pitch": [
+      "pitch azpisistema"
+    ],
+    "tablero eléctrico": [
+      "taula elektriko"
+    ],
+    "tala de la vegetación": [
+      "landaredia mozte"
+    ],
+    "tareas comunes": [
+      "ohiko atazak"
+    ],
+    "tasa de retorno": [
+      "itzulkin-tasa",
+      "TIR"
+    ],
+    "TIR": [
+      "itzulkin-tasa",
+      "TIR"
+    ],
+    "técnico electricista": [
+      "argiketari"
+    ],
+    "tecnología eléctrica": [
+      "teknologia elektriko"
+    ],
+    "tecnología electrónica": [
+      "teknologia elektroniko"
+    ],
+    "tecnología hidráulica": [
+      "teknologia hidrauliko"
+    ],
+    "tecnología mecánica": [
+      "teknologia mekaniko"
+    ],
+    "tecnologías de información": [
+      "informazioaren teknologiak",
+      "IT"
+    ],
+    "IT": [
+      "informazioaren teknologiak",
+      "IT"
+    ],
+    "tecnólogo": [
+      "teknologo"
+    ],
+    "telesupervisión": [
+      "urruneko ikuskapen"
+    ],
+    "telurómetro": [
+      "telurometro"
+    ],
+    "tensión": [
+      "tentsio"
+    ],
+    "tensión eléctrica": [
+      "tentsio elektriko"
+    ],
+    "terminal portátil para mantenimiento": [
+      "mantentze-lanetarako terminal eramangarri"
+    ],
+    "termografía": [
+      "termografia"
+    ],
+    "tiempo medio de tarea": [
+      "atazaren batez besteko denbora"
+    ],
+    "tipo de distribución": [
+      "banaketa-mota"
+    ],
+    "torre": [
+      "dorre"
+    ],
+    "trabajos con tensión": [
+      "tentsioko lanak"
+    ],
+    "trabajos en altura": [
+      "altuerako lanak"
+    ],
+    "trabajos sin tensión": [
+      "tentsiorik gabeko lanak"
+    ],
+    "trafo": [
+      "trafo"
+    ],
+    "trafo de potencia": [
+      "potentzia-trafo"
+    ],
+    "transductor": [
+      "transduktore"
+    ],
+    "transesterificación": [
+      "transesterifikazio"
+    ],
+    "transformador": [
+      "transformadore"
+    ],
+    "transformador de medida": [
+      "neurri-transformadore"
+    ],
+    "transformador de potencia": [
+      "potentzia-transformadore"
+    ],
+    "tren de potencia": [
+      "potentzia-tren"
+    ],
+    "trigeneración": [
+      "trigenerazio"
+    ],
+    "tubería forzada": [
+      "hodi behartu"
+    ],
+    "tubo de viento": [
+      "haize-hodi"
+    ],
+    "turbina": [
+      "turbina"
+    ],
+    "turbina de aspiración": [
+      "turbina-xurgagailu"
+    ],
+    "turbina de gas": [
+      "gas-turbina"
+    ],
+    "turbina de vapor": [
+      "lurrun-turbina"
+    ],
+    "turbina hidráulica": [
+      "turbina hidrauliko",
+      "ur-turbina"
+    ],
+    "turboalternador": [
+      "turboalternadore"
+    ],
+    "turborrotor": [
+      "turboerrotore"
+    ],
+    "unidad hidráulica": [
+      "unitate hidrauliko"
+    ],
+    "unión eléctrica": [
+      "lotura elektriko"
+    ],
+    "uso directo": [
+      "erabilera zuzen"
+    ],
+    "utilización": [
+      "erabilera"
+    ],
+    "veleta": [
+      "haize-orratz"
+    ],
+    "velocidad de acoplamiento": [
+      "konexio-abiadura"
+    ],
+    "velocidad de conexión": [
+      "konexio-abiadura"
+    ],
+    "velocidad de corte": [
+      "gelditze-abiadura"
+    ],
+    "velocidad de desacoplamiento": [
+      "gelditze-abiadura"
+    ],
+    "velocidad nominal del viento": [
+      "haize-abiadura izendatu"
+    ],
+    "zanja": [
+      "zanga"
+    ],
+    "contactor": [
+      "kontaktore"
+    ],
+    "fasímetro": [
+      "fasemetro"
+    ],
+    "pinza amperimétrica": [
+      "pintza amperemetriko"
+    ],
+    "corriente de fuga": [
+      "ihes-korronte"
+    ],
+    "medidor de corrientes de fuga": [
+      "ihes-korronteen neurgailu"
+    ],
+    "válvula distribuidora": [
+      "banaketa-balbula"
+    ],
+    "actuador": [
+      "eragingailu"
+    ],
+    "variador de frecuencia": [
+      "maiztasun-aldagailu"
+    ],
+    "soldadura por arco sumergido": [
+      "arku estalizko soldadura"
+    ],
+    "oxicorte": [
+      "oxiebaketa"
+    ],
+    "puesta a tierra": [
+      "lur-konexio"
+    ],
+    "válvula hidráulica": [
+      "balbula hidrauliko"
+    ],
+    "bomba hidráulica": [
+      "ponpa hidrauliko"
+    ],
+    "válvula de aguja": [
+      "orratzezko balbula"
+    ],
+    "válvula antirretorno": [
+      "atzeraezeko balbula",
+      "atzera ezineko balbula"
+    ],
+    "válvula estranguladora": [
+      "itotze-balbula"
+    ],
+    "válvula restrictiva": [
+      "murrizte-balbula"
+    ],
+    "válvula reductora de presión": [
+      "presioa jaisteko balbula"
+    ],
+    "válvula de control direccional": [
+      "norabidea kontrolatzeko balbula"
+    ],
+    "elevador": [
+      "goragailu"
+    ],
+    "estrés térmico": [
+      "estres termiko"
+    ],
+    "multiplicadora": [
+      "biderkagailu"
+    ],
+    "régimen de viento": [
+      "haize-erregimen"
+    ],
+    "estela": [
+      "ubera"
+    ],
+    "rearme": [
+      "berrarmatze"
+    ],
+    "borde de ataque": [
+      "eraso-ertz"
+    ],
+    "purga de líquidos": [
+      "likidoak purgatze"
+    ],
+    "parada programada": [
+      "geldialdi programatu"
+    ],
+    "ferrografía": [
+      "ferrografia"
+    ],
+    "válvula de seguridad de sobrepresión": [
+      "gainpresioko segurtasun-balbula"
+    ]
+  },
+  "random": {
+    "intervención": [
+      "hitzaldi"
+    ],
+    "exponer": [
+      "azaldu"
+    ],
+    "absorción": [
+      "xurgapen"
+    ],
+    "empresa": [
+      "enpresa"
+    ],
+    "temperatura": [
+      "tenperatura"
+    ],
+    "dimensión": [
+      "tamaina"
+    ],
+    "sistema": [
+      "sistema"
+    ],
+    "2013": [
+      "2013"
+    ],
+    "avanzado": [
+      "aurreratu"
+    ],
+    "valor": [
+      "balio"
+    ],
+    "factor": [
+      "faktore"
+    ],
+    "negocio": [
+      "negozio"
+    ],
+    "energético": [
+      "energetiko"
+    ],
+    "facilitador": [
+      "bideratzaile"
+    ],
+    "desarrollo": [
+      "garapen"
+    ],
+    "prototipo": [
+      "prototipo"
+    ],
+    "diseño": [
+      "diseinu"
+    ],
+    "remoto": [
+      "urrun"
+    ],
+    "predictivo": [
+      "prediktibo"
+    ],
+    "equipo": [
+      "ekipo"
+    ],
+    "mercado": [
+      "merkatu"
+    ],
+    "control": [
+      "kontrol"
+    ],
+    "proveedor": [
+      "hornitzaile"
+    ],
+    "digitalización": [
+      "digitalizazio"
+    ],
+    "aplicación": [
+      "aplikazio"
+    ],
+    "almacenamiento": [
+      "biltegiratze"
+    ],
+    "transformación": [
+      "eraldatze",
+      "eraldaketa",
+      "transformazio"
+    ],
+    "funcionamiento": [
+      "funtzionamendu"
+    ],
+    "red": [
+      "sare"
+    ],
+    "eficiente": [
+      "efiziente",
+      "eraginkor"
+    ],
+    "eléctrico": [
+      "elektriko"
+    ],
+    "diagnóstico": [
+      "diagnostiko"
+    ],
+    "intensivo": [
+      "intentsibo"
+    ],
+    "consumo": [
+      "kontsumo"
+    ],
+    "industria": [
+      "industria"
+    ],
+    "economía": [
+      "ekonomia"
+    ],
+    "energía": [
+      "energia"
+    ],
+    "acción": [
+      "ekintza"
+    ],
+    "vapor": [
+      "lurrun"
+    ],
+    "aire": [
+      "aire",
+      "haize"
+    ],
+    "tecnología": [
+      "teknologia"
+    ],
+    "iniciativa": [
+      "ekimen"
+    ],
+    "solución": [
+      "irtenbide"
+    ],
+    "reducir": [
+      "murriztu"
+    ],
+    "desarrollar": [
+      "garatu"
+    ],
+    "ciclo": [
+      "ziklo"
+    ],
+    "variable": [
+      "aldagai"
+    ],
+    "económico": [
+      "ekonomiko"
+    ],
+    "térmico": [
+      "termiko"
+    ],
+    "proceso": [
+      "prozesu"
+    ],
+    "visión": [
+      "ikuspegi"
+    ],
+    "global": [
+      "orokor",
+      "global"
+    ],
+    "aspecto": [
+      "alderdi"
+    ],
+    "producto": [
+      "produktu"
+    ],
+    "grande": [
+      "handi"
+    ],
+    "2020": [
+      "2020"
+    ],
+    "producir": [
+      "ekoitzi",
+      "sortu",
+      "gertatu",
+      "ekoiztu"
+    ],
+    "conversión": [
+      "bihurketa"
+    ],
+    "concepto": [
+      "kontzeptu"
+    ],
+    "componente": [
+      "osagai"
+    ],
+    "cimentación": [
+      "zimendatze"
+    ],
+    "mantenimiento": [
+      "mantentze-lan"
+    ],
+    "material": [
+      "material"
+    ],
+    "desarrollado": [
+      "garatu"
+    ],
+    "objetivo": [
+      "helburu"
+    ],
+    "alto": [
+      "altu"
+    ],
+    "nicho": [
+      "nitxo"
+    ],
+    "contar": [
+      "kontatu"
+    ],
+    "dato": [
+      "datu"
+    ],
+    "sensor": [
+      "sentsore"
+    ],
+    "hostil": [
+      "zail"
+    ],
+    "Euskadi": [
+      "Euskadi"
+    ],
+    "estructura": [
+      "egitura"
+    ],
+    "región": [
+      "eskualde",
+      "eremu"
+    ],
+    "4": [
+      "4"
+    ],
+    "pionero": [
+      "aitzindari"
+    ],
+    "conectado": [
+      "konektatu"
+    ],
+    "oferta": [
+      "eskaintza"
+    ],
+    "recurso": [
+      "baliabide"
+    ],
+    "coste": [
+      "kostu"
+    ],
+    "adecuado": [
+      "egoki"
+    ],
+    "diferente": [
+      "desberdin"
+    ],
+    "tener": [
+      "izan"
+    ],
+    "necesario": [
+      "beharrezko"
+    ],
+    "metodología": [
+      "metodologia"
+    ],
+    "conjunto": [
+      "multzo",
+      "elkar"
+    ],
+    "técnica": [
+      "tekniko"
+    ],
+    "visita": [
+      "bisita"
+    ],
+    "nivel": [
+      "maila"
+    ],
+    "bajo": [
+      "behe",
+      "txiki"
+    ],
+    "desequilibrio": [
+      "desoreka"
+    ],
+    "conectividad": [
+      "konektibitate"
+    ],
+    "relé": [
+      "errele"
+    ],
+    "alarma": [
+      "alarma"
+    ],
+    "generar": [
+      "sortu"
+    ],
+    "desbalanceo": [
+      "desoreka"
+    ],
+    "carga": [
+      "karga"
+    ],
+    "calidad": [
+      "kalitate"
+    ],
+    "mayor": [
+      "nagusi",
+      "handi"
+    ],
+    "usuario": [
+      "erabiltzaile"
+    ],
+    "compartir": [
+      "partekatu"
+    ],
+    "elemento": [
+      "elementu"
+    ],
+    "Navarra": [
+      "Nafarroa"
+    ],
+    "kwh": [
+      "kWh"
+    ],
+    "alterno": [
+      "alterno"
+    ],
+    "convertir": [
+      "bihurtu"
+    ],
+    "hélice": [
+      "helize"
+    ],
+    "viento": [
+      "haize"
+    ],
+    "alternador": [
+      "alternadore"
+    ],
+    "funcionar": [
+      "funtzionatu"
+    ],
+    "rotacional": [
+      "errotazio"
+    ],
+    "caso": [
+      "kasu"
+    ],
+    "proporcionar": [
+      "eman"
+    ],
+    "movimiento": [
+      "mugimendu"
+    ],
+    "normalmente": [
+      "normalean"
+    ],
+    "transmisión": [
+      "transmisio"
+    ],
+    "utilizar": [
+      "erabili"
+    ],
+    "necesariamente": [
+      "nahitaez"
+    ],
+    "tipo": [
+      "mota"
+    ],
+    "eje": [
+      "ardatz"
+    ],
+    "detener": [
+      "gelditu"
+    ],
+    "accidente": [
+      "istripu"
+    ],
+    "casa": [
+      "etxe"
+    ],
+    "situación": [
+      "egoera"
+    ],
+    "demanda": [
+      "eskaera",
+      "eskari"
+    ],
+    "Norte": [
+      "ipar"
+    ],
+    "Bélgica": [
+      "Belgika"
+    ],
+    "6": [
+      "6"
+    ],
+    "7,": [
+      "7"
+    ],
+    "202": [
+      "202"
+    ],
+    "3": [
+      "3"
+    ],
+    "instalación": [
+      "instalazio"
+    ],
+    "detalle": [
+      "xehetasun"
+    ],
+    "isla": [
+      "uharte"
+    ],
+    "parte": [
+      "alde",
+      "zati"
+    ],
+    "construir": [
+      "eraiki"
+    ],
+    "compuesto": [
+      "konposatu"
+    ],
+    "diseñar": [
+      "diseinatu"
+    ],
+    "diámetro": [
+      "diametro"
+    ],
+    "varios": [
+      "batzuk",
+      "hainbat"
+    ],
+    "limitado": [
+      "mugatu"
+    ],
+    "velocidad": [
+      "abiadura"
+    ],
+    "intensidad": [
+      "intentsitate"
+    ],
+    "altura": [
+      "garaiera"
+    ],
+    "controlar": [
+      "kontrolatu"
+    ],
+    "cimiento": [
+      "zimendu"
+    ],
+    "servomotor": [
+      "serbomotor"
+    ],
+    "tipología": [
+      "tipologia"
+    ],
+    "dirección": [
+      "norabide"
+    ],
+    "encontrar": [
+      "kokatu",
+      "egon",
+      "aurkitu"
+    ],
+    "flujo": [
+      "fluxu"
+    ],
+    "adicional": [
+      "gehigarri"
+    ],
+    "fuerte": [
+      "indartsu"
+    ],
+    "necesidad": [
+      "behar"
+    ],
+    "demostrar": [
+      "erakutsi"
+    ],
+    "experiencia": [
+      "esperientzia"
+    ],
+    "máquina": [
+      "makina"
+    ],
+    "expresión": [
+      "adierazpen"
+    ],
+    "círculo": [
+      "zirkulu"
+    ],
+    "ser": [
+      "izan"
+    ],
+    "turbulencia": [
+      "turbulentzia"
+    ],
+    "densidad": [
+      "dentsitate"
+    ],
+    "metro": [
+      "metro"
+    ],
+    "segundo": [
+      "bigarren"
+    ],
+    "primero": [
+      "lehen",
+      "lehenengo"
+    ],
+    "básicamente": [
+      "funtsean"
+    ],
+    "superar": [
+      "gainditu"
+    ],
+    "pasivo": [
+      "pasibo"
+    ],
+    "contaminante": [
+      "kutsatzaile"
+    ],
+    "efecto": [
+      "efektu"
+    ],
+    "cuenta": [
+      "kontu"
+    ],
+    "gas": [
+      "gas"
+    ],
+    "complejidad": [
+      "konplexutasun"
+    ],
+    "vertical": [
+      "bertikal"
+    ],
+    "Taiwán": [
+      "Taiwan"
+    ],
+    "principal": [
+      "nagusi"
+    ],
+    "ejemplo": [
+      "adibide"
+    ],
+    "tendencia": [
+      "joera"
+    ],
+    "doblemente": [
+      "bikoitz"
+    ],
+    "automático": [
+      "automatikoki"
+    ],
+    "generación": [
+      "sorkuntza",
+      "belaunaldi",
+      "sortu"
+    ],
+    "permanecer": [
+      "egon"
+    ],
+    "frecuencia": [
+      "maiztasun"
+    ],
+    "configuración": [
+      "konfigurazio"
+    ],
+    "básico": [
+      "oinarrizko"
+    ],
+    "conectar": [
+      "konektatu"
+    ],
+    "asíncrono": [
+      "asinkrono"
+    ],
+    "activo": [
+      "aktibo"
+    ],
+    "disponible": [
+      "eskuragarri",
+      "erabilgarri"
+    ],
+    "electricidad": [
+      "elektrizitate"
+    ],
+    "subvención": [
+      "diru-laguntza"
+    ],
+    "gobierno": [
+      "gobernu"
+    ],
+    "transporte": [
+      "garraio",
+      "garraiatze"
+    ],
+    "minieólico": [
+      "minieoliko"
+    ],
+    "pequeño": [
+      "txiki"
+    ],
+    "infraestructura": [
+      "azpiegitura"
+    ],
+    "particular": [
+      "partikular"
+    ],
+    "zona": [
+      "inguru"
+    ],
+    "obstáculo": [
+      "oztopo"
+    ],
+    "año": [
+      "urte"
+    ],
+    "informe": [
+      "txosten"
+    ],
+    "operar": [
+      "aritu"
+    ],
+    "crear": [
+      "sortu"
+    ],
+    "agua": [
+      "ur"
+    ],
+    "kw": [
+      "kW"
+    ],
+    "Escocia": [
+      "Eskozia"
+    ],
+    "experimento": [
+      "esperimentu"
+    ],
+    "determinado": [
+      "jakin"
+    ],
+    "punto": [
+      "puntu"
+    ],
+    "confundir": [
+      "nahasi",
+      "nahastu"
+    ],
+    "fórmula": [
+      "formula"
+    ],
+    "ola": [
+      "olatu"
+    ],
+    "modo": [
+      "modu"
+    ],
+    "explotación": [
+      "ustiapen"
+    ],
+    "dispositivo": [
+      "gailu"
+    ],
+    "directamente": [
+      "zuzenean"
+    ],
+    "acoplado": [
+      "akoplatu"
+    ],
+    "pozo": [
+      "putzu"
+    ],
+    "motor": [
+      "motor"
+    ],
+    "lineal": [
+      "lineal"
+    ],
+    "mar": [
+      "itsaso"
+    ],
+    "depósito": [
+      "depositu"
+    ],
+    "flotante": [
+      "flotatzaile"
+    ],
+    "balsa": [
+      "putzu"
+    ],
+    "anclar": [
+      "ainguratu"
+    ],
+    "aprovechar": [
+      "aprobetxatu",
+      "baliatu"
+    ],
+    "salir": [
+      "irten"
+    ],
+    "sendos": [
+      "bana"
+    ],
+    "escocés": [
+      "eskoziar"
+    ],
+    "2014-2016": [
+      "2014-2016"
+    ],
+    "desafío": [
+      "erronka"
+    ],
+    "resiliente": [
+      "erresiliente"
+    ],
+    "revisión": [
+      "berrikuste"
+    ],
+    "funcional": [
+      "funtzional"
+    ],
+    "contexto": [
+      "testuinguru"
+    ],
+    "capacidad": [
+      "kapazitate",
+      "gaitasun"
+    ],
+    "condición": [
+      "baldintza",
+      "egoera"
+    ],
+    "fabricante": [
+      "fabrikatzaile"
+    ],
+    "garantizar": [
+      "bermatu"
+    ],
+    "proyecto": [
+      "proiektu"
+    ],
+    "resiliencia": [
+      "erresilientzia"
+    ],
+    "fiabilidad": [
+      "fidagarritasun"
+    ],
+    "interacción": [
+      "elkarreragin",
+      "interakzio"
+    ],
+    "aerodinámico": [
+      "aerodinamiko"
+    ],
+    "desgaste": [
+      "higadura"
+    ],
+    "transmitir": [
+      "transmititze"
+    ],
+    "además": [
+      "gainera"
+    ],
+    "país": [
+      "herrialde"
+    ],
+    "dependencia": [
+      "mendekotasun"
+    ],
+    "fuente": [
+      "iturri"
+    ],
+    "España": [
+      "Espainia"
+    ],
+    "quedar": [
+      "geratu"
+    ],
+    "recolectar": [
+      "bildu"
+    ],
+    "humanidad": [
+      "gizadi"
+    ],
+    "forma": [
+      "modu",
+      "forma"
+    ],
+    "inteligente": [
+      "adimendun"
+    ],
+    "reactivo": [
+      "reaktibo"
+    ],
+    "distribuido": [
+      "banatu"
+    ],
+    "regulación": [
+      "doikuntza"
+    ],
+    "esencial": [
+      "funtsezko"
+    ],
+    "colector": [
+      "kolektore"
+    ],
+    "basar": [
+      "oinarritu"
+    ],
+    "obtener": [
+      "lortu"
+    ],
+    "partir": [
+      "abiatu"
+    ],
+    "minicentral": [
+      "minizentral"
+    ],
+    "central": [
+      "zentral"
+    ],
+    "bombeo": [
+      "ponpatze"
+    ],
+    "optimizar": [
+      "optimizatze"
+    ],
+    "entalpía": [
+      "entalpia"
+    ],
+    "interno": [
+      "barne"
+    ],
+    "calor": [
+      "bero"
+    ],
+    "importante": [
+      "garrantzitsu"
+    ],
+    "residual": [
+      "hondar"
+    ],
+    "procesar": [
+      "prozesatze"
+    ],
+    "valorización": [
+      "balorizazio"
+    ],
+    "útil": [
+      "erabilgarri"
+    ],
+    "contribuir": [
+      "lagundu"
+    ],
+    "frío": [
+      "hotz"
+    ],
+    "sector": [
+      "sektore"
+    ],
+    "gaseoso": [
+      "gaseoso"
+    ],
+    "metanización": [
+      "metanizazio"
+    ],
+    "anaerobia": [
+      "anaerobio"
+    ],
+    "requerir": [
+      "behar"
+    ],
+    "estrategia": [
+      "estrategia"
+    ],
+    "preventivo": [
+      "prebentzio"
+    ],
+    "eficiencia": [
+      "efizientzia"
+    ],
+    "costo": [
+      "kostu"
+    ],
+    "temprano": [
+      "goiz"
+    ],
+    "inspección": [
+      "ikuskapen"
+    ],
+    "nuevo": [
+      "berri"
+    ],
+    "arquitectura": [
+      "arkitektura"
+    ],
+    "menor": [
+      "txiki"
+    ],
+    "edificación": [
+      "eraikin"
+    ],
+    "híbrido": [
+      "hibrido"
+    ],
+    "gestión": [
+      "kudeaketa"
+    ],
+    "innovador": [
+      "berritzaile"
+    ],
+    "seguridad": [
+      "segurtasun"
+    ],
+    "operación": [
+      "operazio"
+    ],
+    "sólido": [
+      "solido"
+    ],
+    "eliminación": [
+      "ezabatze"
+    ],
+    "emisión": [
+      "emisio",
+      "isuri"
+    ],
+    "invernadero": [
+      "berotegi"
+    ],
+    "deber": [
+      "behar"
+    ],
+    "renovable": [
+      "berriztagarri"
+    ],
+    "célula": [
+      "zelula"
+    ],
+    "horno": [
+      "labe"
+    ],
+    "transformar": [
+      "bihurtu"
+    ],
+    "calefacción": [
+      "berokuntza"
+    ],
+    "aunque": [
+      "baina"
+    ],
+    "alternativa": [
+      "alternatiba"
+    ],
+    "equilibrar": [
+      "orekatze"
+    ],
+    "opción": [
+      "aukera"
+    ],
+    "maximizar": [
+      "maximizatze"
+    ],
+    "industrial": [
+      "industrial"
+    ],
+    "efectivo": [
+      "eraginkor"
+    ],
+    "refrigeración": [
+      "hozte"
+    ],
+    "convencional": [
+      "ohiko",
+      "konbentzional"
+    ],
+    "mantener": [
+      "mantendu",
+      "eutsi"
+    ],
+    "estabilidad": [
+      "egonkortasun"
+    ],
+    "herramienta": [
+      "tresna"
+    ],
+    "suministro": [
+      "hornidura"
+    ],
+    "ofrecer": [
+      "eskaini"
+    ],
+    "roca": [
+      "arroka"
+    ],
+    "oportunidad": [
+      "aukera"
+    ],
+    "seco": [
+      "lehor"
+    ],
+    "atención": [
+      "arreta"
+    ],
+    "libre": [
+      "libre"
+    ],
+    "reservorio": [
+      "gordailu"
+    ],
+    "accionar": [
+      "eragin"
+    ],
+    "orientación": [
+      "orientazio"
+    ],
+    "horizontal": [
+      "horizontal"
+    ],
+    "según": [
+      "arabera"
+    ],
+    "torsión": [
+      "tortsio"
+    ],
+    "sencillo": [
+      "erraz"
+    ],
+    "unir": [
+      "lotu"
+    ],
+    "necesitar": [
+      "behar"
+    ],
+    "década": [
+      "hamarkada"
+    ],
+    "hoy": [
+      "gaur"
+    ],
+    "computador": [
+      "konputagailu"
+    ],
+    "contener": [
+      "eduki"
+    ],
+    "dentro": [
+      "barru"
+    ],
+    "modelo": [
+      "modelo"
+    ],
+    "caja": [
+      "kaxa"
+    ],
+    "engranaje": [
+      "engranaje"
+    ],
+    "recibir": [
+      "lortu"
+    ],
+    "rotación": [
+      "biraketa"
+    ],
+    "imán": [
+      "iman"
+    ],
+    "soporte": [
+      "euskarri"
+    ],
+    "llevar": [
+      "eraman"
+    ],
+    "problema": [
+      "arazo"
+    ],
+    "operador": [
+      "operadore"
+    ],
+    "croata": [
+      "kroaziar"
+    ],
+    "combinado": [
+      "konbinatu"
+    ],
+    "informar": [
+      "jakinarazi"
+    ],
+    "organización": [
+      "antolatze"
+    ],
+    "argumentar": [
+      "argudiatu"
+    ],
+    "crítico": [
+      "kritiko"
+    ],
+    "expandir": [
+      "zabaldu"
+    ],
+    "artículo": [
+      "artikulu"
+    ],
+    "cuantitativa": [
+      "kuantitatibo"
+    ],
+    "Foro": [
+      "foro"
+    ],
+    "Gas": [
+      "gas"
+    ],
+    "implicar": [
+      "eskatu"
+    ],
+    "Tecnologías": [
+      "teknologia"
+    ],
+    "diverso": [
+      "zenbait"
+    ],
+    "sensores": [
+      "sentsore"
+    ],
+    "poder": [
+      "alda"
+    ],
+    "total": [
+      "guzti"
+    ],
+    "incorporación": [
+      "sartu"
+    ],
+    "fundamentalmente": [
+      "bat"
+    ],
+    "esperar": [
+      "espero"
+    ],
+    "Electrónica": [
+      "elektronika"
+    ],
+    "orientar": [
+      "hobetu"
+    ],
+    "Iniciativa": [
+      "ekimen"
+    ],
+    "integración": [
+      "txertatu"
+    ],
+    "intercambio": [
+      "trukatu"
+    ],
+    "captación": [
+      "biltze"
+    ],
+    "aprovechamiento": [
+      "aprobetxatu"
+    ],
+    "marin": [
+      "itsaso"
+    ],
+    "eólico": [
+      "haize"
+    ],
+    "avanzada": [
+      "aurreratu"
+    ],
+    "gran": [
+      "handi"
+    ],
+    "electrónico": [
+      "elektronika"
+    ],
+    "perseguir": [
+      "helburu"
+    ],
+    "línea": [
+      "ildo"
+    ],
+    "multinivel": [
+      "maila"
+    ],
+    "cuanto": [
+      "egon"
+    ],
+    "mayoría": [
+      "gehien"
+    ],
+    "implicación": [
+      "parte"
+    ],
+    "agente": [
+      "eragile"
+    ],
+    "hito": [
+      "garrantzitsu"
+    ],
+    "permitir": [
+      "aukera"
+    ],
+    "imanes": [
+      "iman"
+    ],
+    "preciso": [
+      "beharrezko"
+    ],
+    "fatiga": [
+      "n"
+    ],
+    "buen": [
+      "egoki"
+    ],
+    "prorporconar": [
+      "eman"
+    ],
+    "Contará": [
+      "izan"
+    ],
+    "v": [
+      "v"
+    ],
+    "grupo": [
+      "lantalde"
+    ],
+    "conforme": [
+      "arabera"
+    ],
+    "Media": [
+      "tentsio"
+    ],
+    "mejora": [
+      "hobetu"
+    ],
+    "motivad": [
+      "eragin"
+    ],
+    "óptico": [
+      "teknologia"
+    ],
+    "bloque": [
+      "multzo"
+    ],
+    "gracia": [
+      "esker"
+    ],
+    "a": [
+      "bide"
+    ],
+    "trifásico": [
+      "alternadore"
+    ],
+    "hablar": [
+      "hitz"
+    ],
+    "referir": [
+      "erreferentzia"
+    ],
+    "inferior": [
+      "behe"
+    ],
+    "evitar": [
+      "gertatu"
+    ],
+    "giran": [
+      "bira"
+    ],
+    "si": [
+      "baina"
+    ],
+    "popular": [
+      "sarri"
+    ],
+    "ultramar": [
+      "itsaso"
+    ],
+    "impuesto": [
+      "nagusitu"
+    ],
+    "depender": [
+      "arabera"
+    ],
+    "estructural": [
+      "egitura"
+    ],
+    "manera": [
+      "nolabait"
+    ],
+    "hacia": [
+      "haiz"
+    ],
+    "existir": [
+      "egon"
+    ],
+    "ubique": [
+      "kokatu"
+    ],
+    "model": [
+      "modelo"
+    ],
+    "w": [
+      "w"
+    ],
+    "anterior": [
+      "aurre"
+    ],
+    "Control": [
+      "kontrol"
+    ],
+    "medida": [
+      "hein"
+    ],
+    "llamar": [
+      "deritzon"
+    ],
+    "generado": [
+      "sortu"
+    ],
+    "aumentar": [
+      "gora"
+    ],
+    "función": [
+      "arabera"
+    ],
+    "aspo": [
+      "hegal"
+    ],
+    "tres5": [
+      "hiru"
+    ],
+    "conservar": [
+      "eutsi"
+    ],
+    "intenso": [
+      "handi"
+    ],
+    "cada": [
+      "eraldaketa"
+    ],
+    "construcción": [
+      "eraiki"
+    ],
+    "respecto": [
+      "haize"
+    ],
+    "alimentar": [
+      "elikadura"
+    ],
+    "directo": [
+      "erabilera"
+    ],
+    "significar": [
+      "esan"
+    ],
+    "generalmente": [
+      "oro"
+    ],
+    "accesible": [
+      "erraz"
+    ],
+    "mediante": [
+      "aldi"
+    ],
+    "definir": [
+      "defini"
+    ],
+    "denominado": [
+      "izen"
+    ],
+    "ambos": [
+      "bi"
+    ],
+    "mismo": [
+      "elektrizitate"
+    ],
+    "mientras": [
+      "berriz"
+    ],
+    "doméstico": [
+      "etxe"
+    ],
+    "granja": [
+      "etxalde"
+    ],
+    "corriente": [
+      "itsaslaster"
+    ],
+    "comparación": [
+      "Europa"
+    ],
+    "ampliamente": [
+      "oso"
+    ],
+    "principalmente": [
+      "bat"
+    ],
+    "Fórmula": [
+      "formula"
+    ],
+    "ol": [
+      "olatu"
+    ],
+    "kilowatts": [
+      "kilowatt"
+    ],
+    "incidan": [
+      "eragin"
+    ],
+    "serie": [
+      "baldintza"
+    ],
+    "óptimo": [
+      "egoki"
+    ],
+    "planta": [
+      "instalazio"
+    ],
+    "oleaje": [
+      "olatu"
+    ],
+    "trasformo": [
+      "bihurtu"
+    ],
+    "dicho": [
+      "hori"
+    ],
+    "subir": [
+      "gora"
+    ],
+    "continuación": [
+      "ondoren"
+    ],
+    "uno": [
+      "batzuk"
+    ],
+    "descendente": [
+      "behe"
+    ],
+    "desenrollan": [
+      "desbiribilkatu"
+    ],
+    "localidad": [
+      "Tolosa"
+    ],
+    "inicialmente": [
+      "hasiera"
+    ],
+    "costero": [
+      "kostalde"
+    ],
+    "considerar": [
+      "kontu"
+    ],
+    "Solar": [
+      "eguzki"
+    ],
+    "optimización": [
+      "optimizatu"
+    ],
+    "incluir": [
+      "egon"
+    ],
+    "crucial": [
+      "berebiziko"
+    ],
+    "jugar": [
+      "edun"
+    ],
+    "papel": [
+      "funtsezko"
+    ],
+    "fluyente": [
+      "ur"
+    ],
+    "representar": [
+      "eskaini"
+    ],
+    "obtención": [
+      "lortu"
+    ],
+    "clave": [
+      "funtsezko"
+    ],
+    "detección": [
+      "detektatu"
+    ],
+    "reducción": [
+      "murriztu"
+    ],
+    "ámbito": [
+      "kudeatu"
+    ],
+    "fundamental": [
+      "funts"
+    ],
+    "invernader": [
+      "berotegi"
+    ],
+    "lado": [
+      "bestalde"
+    ],
+    "evolucionad": [
+      "bilakaera"
+    ],
+    "Herramientas": [
+      "tresna"
+    ],
+    "prometedor": [
+      "etorkizun"
+    ],
+    "junto": [
+      "gainera"
+    ],
+    "asimismo": [
+      "era"
+    ],
+    "destinado": [
+      "bat"
+    ],
+    "disponer": [
+      "egon"
+    ],
+    "podero": [
+      "ahaltsu"
+    ],
+    "multipal": [
+      "anitz"
+    ],
+    "usado": [
+      "erabili"
+    ],
+    "especie": [
+      "modu"
+    ],
+    "curva": [
+      "kurbatu"
+    ],
+    "fotografiado": [
+      "argazki"
+    ],
+    "tarde": [
+      "gero"
+    ],
+    "local": [
+      "toki"
+    ],
+    "anual": [
+      "urte"
+    ],
+    "falla": [
+      "hutsegite"
+    ],
+    "soler": [
+      "esan"
+    ],
+    "plataforma": [
+      "plataforma"
+    ],
+    "variedad": [
+      "hainbat"
+    ],
+    "cable": [
+      "kable"
+    ],
+    "Energía": [
+      "energia"
+    ],
+    "constante": [
+      "konstante"
+    ],
+    "rodamientos": [
+      "errodamendu"
+    ],
+    "orgánico": [
+      "materia"
+    ],
+    "constituir": [
+      "osatu"
+    ],
+    "mecánico": [
+      "mekaniko"
+    ],
+    "derivado": [
+      "deribatu"
+    ],
+    "amplio": [
+      "zabal"
+    ],
+    "abarcar": [
+      "bildu"
+    ],
+    "ligero": [
+      "txiki"
+    ],
+    "origen": [
+      "jatorri"
+    ],
+    "resto": [
+      "hondar"
+    ],
+    "rama": [
+      "adar"
+    ],
+    "clasificar": [
+      "sailkatu"
+    ],
+    "emplear": [
+      "erabili"
+    ],
+    "cultivo": [
+      "labore"
+    ],
+    "colza": [
+      "koltza"
+    ],
+    "ir": [
+      "edun"
+    ],
+    "dirigir": [
+      "helburu"
+    ],
+    "hueso": [
+      "hezur"
+    ],
+    "residuo": [
+      "hondakin"
+    ],
+    "purín": [
+      "minda"
+    ],
+    "combustible": [
+      "erregai"
+    ],
+    "energéticamente": [
+      "energetiko"
+    ],
+    "húmedo": [
+      "heze"
+    ],
+    "maderero": [
+      "zurgintza"
+    ],
+    "depurador": [
+      "araztegi"
+    ],
+    "sojo": [
+      "soja"
+    ],
+    "contenido": [
+      "egon"
+    ],
+    "hacer": [
+      "erabili"
+    ],
+    "largo": [
+      "luze"
+    ],
+    "alcohólico": [
+      "alkoholiko"
+    ],
+    "metano": [
+      "meta"
+    ],
+    "instalaciones": [
+      "instalazio"
+    ],
+    "consumido": [
+      "kontsumitu"
+    ],
+    "millón": [
+      "milioi"
+    ],
+    "anualmente": [
+      "urte"
+    ],
+    "euro": [
+      "euro"
+    ],
+    "neumático": [
+      "pneumatiko"
+    ],
+    "instalar": [
+      "instalatu"
+    ],
+    "rotativo": [
+      "birakari"
+    ],
+    "día": [
+      "egun"
+    ],
+    "exponencialmente": [
+      "esponentzial"
+    ],
+    "cinético": [
+      "zinetiko"
+    ],
+    "minihidráulico": [
+      "minihidrauliko"
+    ],
+    "tubería": [
+      "hodi"
+    ],
+    "régimen": [
+      "araubide"
+    ],
+    "especial": [
+      "berezi"
+    ],
+    "caliente": [
+      "bero"
+    ],
+    "procedimiento": [
+      "prozedura"
+    ],
+    "químico": [
+      "kimiko"
+    ],
+    "atmósfera": [
+      "atmosfera"
+    ],
+    "aportado": [
+      "ekarri"
+    ],
+    "rce": [
+      "bee"
+    ],
+    "aprovechable": [
+      "aprobetxagarri"
+    ],
+    "reparto": [
+      "banaketa"
+    ],
+    "Régimen": [
+      "araubide"
+    ],
+    "decreto": [
+      "dekretu"
+    ],
+    "mes": [
+      "hilabete"
+    ],
+    "carbónico": [
+      "karboniko"
+    ],
+    "tres": [
+      "hiru"
+    ],
+    "sinnúmer": [
+      "ugari"
+    ],
+    "posibilidad": [
+      "aukera"
+    ],
+    "intermedio": [
+      "tarte"
+    ],
+    "servicio": [
+      "zerbitzu"
+    ],
+    "Motor": [
+      "motor"
+    ],
+    "beneficio": [
+      "onura"
+    ],
+    "obra": [
+      "obra"
+    ],
+    "salto": [
+      "jauzi"
+    ],
+    "dos": [
+      "bi"
+    ],
+    "lateral": [
+      "albo"
+    ],
+    "marea": [
+      "marea"
+    ],
+    "limpio": [
+      "garbi"
+    ],
+    "profundo": [
+      "sakon"
+    ],
+    "gradiente": [
+      "gradiente"
+    ],
+    "marino": [
+      "itsaso"
+    ],
+    "método": [
+      "metodo"
+    ],
+    "similar": [
+      "antz"
+    ],
+    "diferencia": [
+      "desberdintasun"
+    ],
+    "introducen": [
+      "sartu"
+    ],
+    "estuario": [
+      "estu"
+    ],
+    "constituido": [
+      "eduki"
+    ],
+    "embalse": [
+      "urtegi"
+    ],
+    "bajamar": [
+      "itsasbehera"
+    ],
+    "véase": [
+      "ikusi"
+    ],
+    "olamotriz": [
+      "olatu"
+    ],
+    "denominar": [
+      "deitu"
+    ],
+    "oceánico": [
+      "itsaso"
+    ],
+    "océano": [
+      "ozeano"
+    ],
+    "potencial": [
+      "ahalmen"
+    ],
+    "mostrar": [
+      "erakutsi"
+    ],
+    "noche": [
+      "gau"
+    ],
+    "ventaja": [
+      "abantaila"
+    ],
+    "mundo": [
+      "mundu"
+    ],
+    "actualidad": [
+      "gaur"
+    ],
+    "primario": [
+      "primario"
+    ],
+    "crudo": [
+      "gordin"
+    ],
+    "utilizable": [
+      "erabili"
+    ],
+    "etapa": [
+      "etapa"
+    ],
+    "distinguir": [
+      "bereizi"
+    ],
+    "llegar": [
+      "iritsi"
+    ],
+    "diferenciar": [
+      "bereizi"
+    ],
+    "convención": [
+      "ohitura"
+    ],
+    "hidroelectricidad": [
+      "hidroelektrizitate"
+    ],
+    "complementariamente": [
+      "hori"
+    ],
+    "final": [
+      "azken"
+    ],
+    "Total": [
+      "guzti"
+    ],
+    "formos": [
+      "forma"
+    ],
+    "animal": [
+      "animalia"
+    ],
+    "natural": [
+      "natural"
+    ],
+    "transformado": [
+      "eraldatu"
+    ],
+    "caído": [
+      "jauzi"
+    ],
+    "molino": [
+      "errota"
+    ],
+    "curso": [
+      "ibilgu"
+    ],
+    "velero": [
+      "belaontzi"
+    ],
+    "simultáneo": [
+      "aldi"
+    ],
+    "madera": [
+      "zur"
+    ],
+    "terrestre": [
+      "lur"
+    ],
+    "América": [
+      "Latinoamerika"
+    ],
+    "bodega": [
+      "biltegi"
+    ],
+    "integral": [
+      "integral"
+    ],
+    "período": [
+      "epealdi"
+    ],
+    "tiempo": [
+      "denbora"
+    ],
+    "equivalente": [
+      "baliokide"
+    ],
+    "deducen": [
+      "kendu"
+    ],
+    "nunca": [
+      "inoiz"
+    ],
+    "exceder": [
+      "izan"
+    ],
+    "dad": [
+      "jakin"
+    ],
+    "cucho": [
+      "hori"
+    ],
+    "surgir": [
+      "sortu"
+    ],
+    "tender": [
+      "edun"
+    ],
+    "usar": [
+      "erabili"
+    ],
+    "paralizar": [
+      "gelditu"
+    ],
+    "cierto": [
+      "muga"
+    ],
+    "definición": [
+      "definizio"
+    ],
+    "móvil": [
+      "mugikor"
+    ],
+    "Alta": [
+      "altu"
+    ],
+    "trabajo": [
+      "lan"
+    ],
+    "posible": [
+      "posible"
+    ],
+    "real": [
+      "erreal"
+    ],
+    "máximo": [
+      "gehien"
+    ],
+    "disminuir": [
+      "murriztu"
+    ],
+    "intermitencia": [
+      "intermitentzia"
+    ],
+    "respectivamente": [
+      "hura"
+    ],
+    "irregularidad": [
+      "irregulartasun"
+    ],
+    "debir": [
+      "eragin"
+    ],
+    "quemar": [
+      "erretze"
+    ],
+    "pasar": [
+      "pasatu"
+    ],
+    "recipiente": [
+      "ontzi"
+    ],
+    "leña": [
+      "egur"
+    ],
+    "sol": [
+      "eguzki"
+    ],
+    "luz": [
+      "argi"
+    ],
+    "termoeléctrico": [
+      "termoelektriko"
+    ],
+    "controlado": [
+      "kontrolatu"
+    ],
+    "fecha": [
+      "data"
+    ],
+    "cerca": [
+      "gertu"
+    ],
+    "campo": [
+      "eremu"
+    ],
+    "reflejar": [
+      "islatu"
+    ],
+    "desplazar": [
+      "mugitu"
+    ],
+    "sugerir": [
+      "iradoki"
+    ],
+    "recolectado": [
+      "bildu"
+    ],
+    "ubicación": [
+      "kokatu"
+    ],
+    "carbón": [
+      "ikatz"
+    ],
+    "costoso": [
+      "merke"
+    ],
+    "porcentaje": [
+      "ehun"
+    ],
+    "liviano": [
+      "arin"
+    ],
+    "intencionalmente": [
+      "bereziki"
+    ],
+    "capaz": [
+      "gai"
+    ],
+    "comprobar": [
+      "egiaztatu"
+    ],
+    "Soviética": [
+      "sobietar"
+    ],
+    "académico": [
+      "akademiko"
+    ],
+    "Francia": [
+      "Frantzia"
+    ],
+    "metálico": [
+      "metalezko"
+    ],
+    "Proyecto": [
+      "proiektu"
+    ],
+    "alimento": [
+      "janari"
+    ],
+    "perpendicular": [
+      "perpendikular"
+    ],
+    "todo": [
+      "guzti"
+    ],
+    "concentración": [
+      "kontzentrazio"
+    ],
+    "incremento": [
+      "gehikuntza"
+    ],
+    "aún": [
+      "gehiago"
+    ],
+    "independiente": [
+      "bereizi"
+    ],
+    "combinación": [
+      "konbinazio"
+    ],
+    "variado": [
+      "batzuk"
+    ],
+    "Sistema": [
+      "sistema"
+    ],
+    "característica": [
+      "ezaugarri"
+    ],
+    "caldera": [
+      "galdara"
+    ],
+    "captador": [
+      "kolektore"
+    ],
+    "motriz": [
+      "motor"
+    ],
+    "aplicable": [
+      "aplika"
+    ],
+    "u": [
+      "zein"
+    ],
+    "elección": [
+      "aukera"
+    ],
+    "provenir": [
+      "etorri"
+    ],
+    "época": [
+      "garai"
+    ],
+    "hora": [
+      "ordu"
+    ],
+    "tradicional": [
+      "ohiko"
+    ],
+    "lugar": [
+      "leku"
+    ],
+    "posterior": [
+      "ondorengo"
+    ],
+    "obligad": [
+      "hondakin"
+    ],
+    "transferir": [
+      "transferitu"
+    ],
+    "órgan": [
+      "organo"
+    ],
+    "clasificación": [
+      "sailkapen"
+    ],
+    "acuerdo": [
+      "arabera"
+    ],
+    "cambio": [
+      "aldaketa"
+    ],
+    "sufrir": [
+      "jasan"
+    ],
+    "paso": [
+      "igaro"
+    ],
+    "categoría": [
+      "kategoria"
+    ],
+    "cangilón": [
+      "putzupada"
+    ],
+    "válvula": [
+      "balbula"
+    ],
+    "antiguo": [
+      "zahar"
+    ],
+    "reacción": [
+      "erreakzio"
+    ],
+    "sección": [
+      "sekzio"
+    ],
+    "imprimir": [
+      "eman"
+    ],
+    "desnivel": [
+      "desnibel"
+    ],
+    "mitad": [
+      "erdibitu"
+    ],
+    "dobla": [
+      "bikoiztu"
+    ]
+  }
+}
